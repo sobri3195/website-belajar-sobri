@@ -1,0 +1,5 @@
+<script setup>
+import { computed } from 'vue'; import { useRouter } from 'vue-router'; import StatCard from '../components/StatCard.vue'; import { getCategoryStats, getSubcategoryStats } from '../utils/statistics'
+const router=useRouter(); const stats=computed(()=>getCategoryStats('LPDP')); const weak=computed(()=>getSubcategoryStats('LPDP').sort((a,b)=>a.accuracy-b.accuracy)[0]?.subcategory||'Belum ada data')
+</script>
+<template><section class="page"><h1>LPDP</h1><p class="lead">Latihan TBS, reasoning, wawasan kebangsaan, leadership, serta respons studi kasus wawancara.</p><div class="stat-grid"><StatCard title="Soal LPDP dikerjakan" :value="stats.answered"/><StatCard title="Akurasi LPDP" :value="`${stats.accuracy}%`"/><StatCard title="Subkategori terlemah" :value="weak" tone="amber"/></div><div class="card feature"><h2>Area studi kasus dan wawancara</h2><p>Gunakan soal subkategori studi kasus untuk melatih jawaban berbasis konteks, kontribusi Indonesia, risiko, dan rencana pascastudi.</p><button class="btn" @click="router.push('/daily?category=LPDP')">Mulai latihan LPDP</button></div></section></template>

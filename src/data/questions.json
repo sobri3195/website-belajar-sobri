@@ -1,0 +1,3148 @@
+[
+  {
+    "id": "SU-001",
+    "kategori": "SIMAK UI",
+    "subkategori": "Matematika Dasar",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Latihan orisinal Matematika Dasar: jika Sobri mengerjakan paket mini ke-1, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Matematika Dasar, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "matematika-dasar",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-002",
+    "kategori": "SIMAK UI",
+    "subkategori": "Bahasa Indonesia",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Latihan orisinal Bahasa Indonesia: jika Sobri mengerjakan paket mini ke-2, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Bahasa Indonesia, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "bahasa-indonesia",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-003",
+    "kategori": "SIMAK UI",
+    "subkategori": "Bahasa Inggris",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Latihan orisinal Bahasa Inggris: jika Sobri mengerjakan paket mini ke-3, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Bahasa Inggris, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "bahasa-inggris",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-004",
+    "kategori": "SIMAK UI",
+    "subkategori": "Logika Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Latihan orisinal Logika Verbal: jika Sobri mengerjakan paket mini ke-4, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Logika Verbal, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "logika-verbal",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-005",
+    "kategori": "SIMAK UI",
+    "subkategori": "Logika Numerik",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Latihan orisinal Logika Numerik: jika Sobri mengerjakan paket mini ke-5, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Logika Numerik, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "logika-numerik",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-006",
+    "kategori": "SIMAK UI",
+    "subkategori": "Penalaran Umum",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Latihan orisinal Penalaran Umum: jika Sobri mengerjakan paket mini ke-6, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Penalaran Umum, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "penalaran-umum",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-007",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Dasar Akademik",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Latihan orisinal Kemampuan Dasar Akademik: jika Sobri mengerjakan paket mini ke-7, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Kemampuan Dasar Akademik, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-dasar-akademik",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-008",
+    "kategori": "SIMAK UI",
+    "subkategori": "Matematika Dasar",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Latihan orisinal Matematika Dasar: jika Sobri mengerjakan paket mini ke-8, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Matematika Dasar, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "matematika-dasar",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-009",
+    "kategori": "SIMAK UI",
+    "subkategori": "Bahasa Indonesia",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Latihan orisinal Bahasa Indonesia: jika Sobri mengerjakan paket mini ke-9, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Bahasa Indonesia, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "bahasa-indonesia",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-010",
+    "kategori": "SIMAK UI",
+    "subkategori": "Bahasa Inggris",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Latihan orisinal Bahasa Inggris: jika Sobri mengerjakan paket mini ke-10, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Bahasa Inggris, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "bahasa-inggris",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-011",
+    "kategori": "SIMAK UI",
+    "subkategori": "Logika Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Latihan orisinal Logika Verbal: jika Sobri mengerjakan paket mini ke-11, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Logika Verbal, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "logika-verbal",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-012",
+    "kategori": "SIMAK UI",
+    "subkategori": "Logika Numerik",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Latihan orisinal Logika Numerik: jika Sobri mengerjakan paket mini ke-12, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Logika Numerik, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "logika-numerik",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-013",
+    "kategori": "SIMAK UI",
+    "subkategori": "Penalaran Umum",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Latihan orisinal Penalaran Umum: jika Sobri mengerjakan paket mini ke-13, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Penalaran Umum, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "penalaran-umum",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-014",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Dasar Akademik",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Latihan orisinal Kemampuan Dasar Akademik: jika Sobri mengerjakan paket mini ke-14, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Kemampuan Dasar Akademik, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-dasar-akademik",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-015",
+    "kategori": "SIMAK UI",
+    "subkategori": "Matematika Dasar",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Latihan orisinal Matematika Dasar: jika Sobri mengerjakan paket mini ke-15, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Matematika Dasar, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "matematika-dasar",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-016",
+    "kategori": "SIMAK UI",
+    "subkategori": "Bahasa Indonesia",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Latihan orisinal Bahasa Indonesia: jika Sobri mengerjakan paket mini ke-16, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Bahasa Indonesia, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "bahasa-indonesia",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-017",
+    "kategori": "SIMAK UI",
+    "subkategori": "Bahasa Inggris",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Latihan orisinal Bahasa Inggris: jika Sobri mengerjakan paket mini ke-17, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Bahasa Inggris, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "bahasa-inggris",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-018",
+    "kategori": "SIMAK UI",
+    "subkategori": "Logika Verbal",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Latihan orisinal Logika Verbal: jika Sobri mengerjakan paket mini ke-18, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Logika Verbal, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "logika-verbal",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-019",
+    "kategori": "SIMAK UI",
+    "subkategori": "Logika Numerik",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Latihan orisinal Logika Numerik: jika Sobri mengerjakan paket mini ke-19, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Logika Numerik, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "logika-numerik",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-020",
+    "kategori": "SIMAK UI",
+    "subkategori": "Penalaran Umum",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Latihan orisinal Penalaran Umum: jika Sobri mengerjakan paket mini ke-20, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Penalaran Umum, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "penalaran-umum",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-021",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Dasar Akademik",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Latihan orisinal Kemampuan Dasar Akademik: jika Sobri mengerjakan paket mini ke-21, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Kemampuan Dasar Akademik, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-dasar-akademik",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-022",
+    "kategori": "SIMAK UI",
+    "subkategori": "Matematika Dasar",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Latihan orisinal Matematika Dasar: jika Sobri mengerjakan paket mini ke-22, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Matematika Dasar, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "matematika-dasar",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-023",
+    "kategori": "SIMAK UI",
+    "subkategori": "Bahasa Indonesia",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Latihan orisinal Bahasa Indonesia: jika Sobri mengerjakan paket mini ke-23, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Bahasa Indonesia, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "bahasa-indonesia",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-024",
+    "kategori": "SIMAK UI",
+    "subkategori": "Bahasa Inggris",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Latihan orisinal Bahasa Inggris: jika Sobri mengerjakan paket mini ke-24, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Bahasa Inggris, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "bahasa-inggris",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-025",
+    "kategori": "SIMAK UI",
+    "subkategori": "Logika Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Latihan orisinal Logika Verbal: jika Sobri mengerjakan paket mini ke-25, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Logika Verbal, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "logika-verbal",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-026",
+    "kategori": "SIMAK UI",
+    "subkategori": "Logika Numerik",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Latihan orisinal Logika Numerik: jika Sobri mengerjakan paket mini ke-26, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Logika Numerik, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "logika-numerik",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-027",
+    "kategori": "SIMAK UI",
+    "subkategori": "Penalaran Umum",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Latihan orisinal Penalaran Umum: jika Sobri mengerjakan paket mini ke-27, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Penalaran Umum, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "penalaran-umum",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-028",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Dasar Akademik",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Latihan orisinal Kemampuan Dasar Akademik: jika Sobri mengerjakan paket mini ke-28, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Kemampuan Dasar Akademik, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-dasar-akademik",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-029",
+    "kategori": "SIMAK UI",
+    "subkategori": "Matematika Dasar",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Latihan orisinal Matematika Dasar: jika Sobri mengerjakan paket mini ke-29, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Matematika Dasar, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "matematika-dasar",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-030",
+    "kategori": "SIMAK UI",
+    "subkategori": "Bahasa Indonesia",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Latihan orisinal Bahasa Indonesia: jika Sobri mengerjakan paket mini ke-30, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Bahasa Indonesia, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "bahasa-indonesia",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-031",
+    "kategori": "SIMAK UI",
+    "subkategori": "Bahasa Inggris",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Latihan orisinal Bahasa Inggris: jika Sobri mengerjakan paket mini ke-31, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Bahasa Inggris, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "bahasa-inggris",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-032",
+    "kategori": "SIMAK UI",
+    "subkategori": "Logika Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Latihan orisinal Logika Verbal: jika Sobri mengerjakan paket mini ke-32, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Logika Verbal, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "logika-verbal",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-033",
+    "kategori": "SIMAK UI",
+    "subkategori": "Logika Numerik",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Latihan orisinal Logika Numerik: jika Sobri mengerjakan paket mini ke-33, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Logika Numerik, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "logika-numerik",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-034",
+    "kategori": "SIMAK UI",
+    "subkategori": "Penalaran Umum",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Latihan orisinal Penalaran Umum: jika Sobri mengerjakan paket mini ke-34, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Penalaran Umum, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "penalaran-umum",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-035",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Dasar Akademik",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Latihan orisinal Kemampuan Dasar Akademik: jika Sobri mengerjakan paket mini ke-35, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Kemampuan Dasar Akademik, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-dasar-akademik",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-036",
+    "kategori": "SIMAK UI",
+    "subkategori": "Matematika Dasar",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Latihan orisinal Matematika Dasar: jika Sobri mengerjakan paket mini ke-36, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Matematika Dasar, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "matematika-dasar",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-037",
+    "kategori": "SIMAK UI",
+    "subkategori": "Bahasa Indonesia",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Latihan orisinal Bahasa Indonesia: jika Sobri mengerjakan paket mini ke-37, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Bahasa Indonesia, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "bahasa-indonesia",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-038",
+    "kategori": "SIMAK UI",
+    "subkategori": "Bahasa Inggris",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Latihan orisinal Bahasa Inggris: jika Sobri mengerjakan paket mini ke-38, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Bahasa Inggris, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "bahasa-inggris",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-039",
+    "kategori": "SIMAK UI",
+    "subkategori": "Logika Verbal",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Latihan orisinal Logika Verbal: jika Sobri mengerjakan paket mini ke-39, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Logika Verbal, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "logika-verbal",
+      "latihan"
+    ]
+  },
+  {
+    "id": "SU-040",
+    "kategori": "SIMAK UI",
+    "subkategori": "Logika Numerik",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Latihan orisinal Logika Numerik: jika Sobri mengerjakan paket mini ke-40, pilihan manakah yang paling tepat berdasarkan pola akademik pada pernyataan singkat ini?",
+    "opsi": {
+      "A": "Kesimpulan A sesuai satu data tetapi mengabaikan syarat utama",
+      "B": "Kesimpulan B paling konsisten dengan informasi dan pola yang diberikan",
+      "C": "Kesimpulan C berlebihan karena menambah asumsi baru",
+      "D": "Kesimpulan D bertentangan dengan hubungan dasar",
+      "E": "Kesimpulan E tidak dapat ditentukan dari informasi"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk tipe Logika Numerik, jawaban dipilih dengan membaca syarat inti, bukan menambah asumsi. Opsi B mempertahankan hubungan yang tersedia dan karena itu paling kuat untuk soal latihan SIMAK UI orisinal ini.",
+    "tags": [
+      "simak-ui",
+      "logika-numerik",
+      "latihan"
+    ]
+  },
+  {
+    "id": "LP-001",
+    "kategori": "LPDP",
+    "subkategori": "Tes Bakat Skolastik",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Skenario LPDP orisinal Tes Bakat Skolastik: Sobri perlu memilih respons paling matang pada situasi seleksi ke-1. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Tes Bakat Skolastik, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "tes-bakat-skolastik",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-002",
+    "kategori": "LPDP",
+    "subkategori": "Verbal Reasoning",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Skenario LPDP orisinal Verbal Reasoning: Sobri perlu memilih respons paling matang pada situasi seleksi ke-2. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Verbal Reasoning, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "verbal-reasoning",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-003",
+    "kategori": "LPDP",
+    "subkategori": "Numerical Reasoning",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Skenario LPDP orisinal Numerical Reasoning: Sobri perlu memilih respons paling matang pada situasi seleksi ke-3. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Numerical Reasoning, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "numerical-reasoning",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-004",
+    "kategori": "LPDP",
+    "subkategori": "Logical Reasoning",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Skenario LPDP orisinal Logical Reasoning: Sobri perlu memilih respons paling matang pada situasi seleksi ke-4. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Logical Reasoning, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "logical-reasoning",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-005",
+    "kategori": "LPDP",
+    "subkategori": "Wawasan Kebangsaan",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Skenario LPDP orisinal Wawasan Kebangsaan: Sobri perlu memilih respons paling matang pada situasi seleksi ke-5. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Wawasan Kebangsaan, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "wawasan-kebangsaan",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-006",
+    "kategori": "LPDP",
+    "subkategori": "Esai dan motivasi studi",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Skenario LPDP orisinal Esai dan motivasi studi: Sobri perlu memilih respons paling matang pada situasi seleksi ke-6. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Esai dan motivasi studi, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "esai-dan-motivasi-studi",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-007",
+    "kategori": "LPDP",
+    "subkategori": "Leadership",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Skenario LPDP orisinal Leadership: Sobri perlu memilih respons paling matang pada situasi seleksi ke-7. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Leadership, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "leadership",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-008",
+    "kategori": "LPDP",
+    "subkategori": "Studi kasus wawancara",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Skenario LPDP orisinal Studi kasus wawancara: Sobri perlu memilih respons paling matang pada situasi seleksi ke-8. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Studi kasus wawancara, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "studi-kasus-wawancara",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-009",
+    "kategori": "LPDP",
+    "subkategori": "Tes Bakat Skolastik",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Skenario LPDP orisinal Tes Bakat Skolastik: Sobri perlu memilih respons paling matang pada situasi seleksi ke-9. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Tes Bakat Skolastik, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "tes-bakat-skolastik",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-010",
+    "kategori": "LPDP",
+    "subkategori": "Verbal Reasoning",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Skenario LPDP orisinal Verbal Reasoning: Sobri perlu memilih respons paling matang pada situasi seleksi ke-10. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Verbal Reasoning, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "verbal-reasoning",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-011",
+    "kategori": "LPDP",
+    "subkategori": "Numerical Reasoning",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Skenario LPDP orisinal Numerical Reasoning: Sobri perlu memilih respons paling matang pada situasi seleksi ke-11. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Numerical Reasoning, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "numerical-reasoning",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-012",
+    "kategori": "LPDP",
+    "subkategori": "Logical Reasoning",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Skenario LPDP orisinal Logical Reasoning: Sobri perlu memilih respons paling matang pada situasi seleksi ke-12. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Logical Reasoning, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "logical-reasoning",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-013",
+    "kategori": "LPDP",
+    "subkategori": "Wawasan Kebangsaan",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Skenario LPDP orisinal Wawasan Kebangsaan: Sobri perlu memilih respons paling matang pada situasi seleksi ke-13. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Wawasan Kebangsaan, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "wawasan-kebangsaan",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-014",
+    "kategori": "LPDP",
+    "subkategori": "Esai dan motivasi studi",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Skenario LPDP orisinal Esai dan motivasi studi: Sobri perlu memilih respons paling matang pada situasi seleksi ke-14. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Esai dan motivasi studi, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "esai-dan-motivasi-studi",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-015",
+    "kategori": "LPDP",
+    "subkategori": "Leadership",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Skenario LPDP orisinal Leadership: Sobri perlu memilih respons paling matang pada situasi seleksi ke-15. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Leadership, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "leadership",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-016",
+    "kategori": "LPDP",
+    "subkategori": "Studi kasus wawancara",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Skenario LPDP orisinal Studi kasus wawancara: Sobri perlu memilih respons paling matang pada situasi seleksi ke-16. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Studi kasus wawancara, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "studi-kasus-wawancara",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-017",
+    "kategori": "LPDP",
+    "subkategori": "Tes Bakat Skolastik",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Skenario LPDP orisinal Tes Bakat Skolastik: Sobri perlu memilih respons paling matang pada situasi seleksi ke-17. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Tes Bakat Skolastik, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "tes-bakat-skolastik",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-018",
+    "kategori": "LPDP",
+    "subkategori": "Verbal Reasoning",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Skenario LPDP orisinal Verbal Reasoning: Sobri perlu memilih respons paling matang pada situasi seleksi ke-18. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Verbal Reasoning, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "verbal-reasoning",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-019",
+    "kategori": "LPDP",
+    "subkategori": "Numerical Reasoning",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Skenario LPDP orisinal Numerical Reasoning: Sobri perlu memilih respons paling matang pada situasi seleksi ke-19. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Numerical Reasoning, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "numerical-reasoning",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-020",
+    "kategori": "LPDP",
+    "subkategori": "Logical Reasoning",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Skenario LPDP orisinal Logical Reasoning: Sobri perlu memilih respons paling matang pada situasi seleksi ke-20. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Logical Reasoning, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "logical-reasoning",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-021",
+    "kategori": "LPDP",
+    "subkategori": "Wawasan Kebangsaan",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Skenario LPDP orisinal Wawasan Kebangsaan: Sobri perlu memilih respons paling matang pada situasi seleksi ke-21. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Wawasan Kebangsaan, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "wawasan-kebangsaan",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-022",
+    "kategori": "LPDP",
+    "subkategori": "Esai dan motivasi studi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Skenario LPDP orisinal Esai dan motivasi studi: Sobri perlu memilih respons paling matang pada situasi seleksi ke-22. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Esai dan motivasi studi, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "esai-dan-motivasi-studi",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-023",
+    "kategori": "LPDP",
+    "subkategori": "Leadership",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Skenario LPDP orisinal Leadership: Sobri perlu memilih respons paling matang pada situasi seleksi ke-23. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Leadership, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "leadership",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-024",
+    "kategori": "LPDP",
+    "subkategori": "Studi kasus wawancara",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Skenario LPDP orisinal Studi kasus wawancara: Sobri perlu memilih respons paling matang pada situasi seleksi ke-24. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Studi kasus wawancara, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "studi-kasus-wawancara",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-025",
+    "kategori": "LPDP",
+    "subkategori": "Tes Bakat Skolastik",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Skenario LPDP orisinal Tes Bakat Skolastik: Sobri perlu memilih respons paling matang pada situasi seleksi ke-25. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Tes Bakat Skolastik, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "tes-bakat-skolastik",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-026",
+    "kategori": "LPDP",
+    "subkategori": "Verbal Reasoning",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Skenario LPDP orisinal Verbal Reasoning: Sobri perlu memilih respons paling matang pada situasi seleksi ke-26. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Verbal Reasoning, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "verbal-reasoning",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-027",
+    "kategori": "LPDP",
+    "subkategori": "Numerical Reasoning",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Skenario LPDP orisinal Numerical Reasoning: Sobri perlu memilih respons paling matang pada situasi seleksi ke-27. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Numerical Reasoning, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "numerical-reasoning",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-028",
+    "kategori": "LPDP",
+    "subkategori": "Logical Reasoning",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Skenario LPDP orisinal Logical Reasoning: Sobri perlu memilih respons paling matang pada situasi seleksi ke-28. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Logical Reasoning, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "logical-reasoning",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-029",
+    "kategori": "LPDP",
+    "subkategori": "Wawasan Kebangsaan",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Skenario LPDP orisinal Wawasan Kebangsaan: Sobri perlu memilih respons paling matang pada situasi seleksi ke-29. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Wawasan Kebangsaan, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "wawasan-kebangsaan",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-030",
+    "kategori": "LPDP",
+    "subkategori": "Esai dan motivasi studi",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Skenario LPDP orisinal Esai dan motivasi studi: Sobri perlu memilih respons paling matang pada situasi seleksi ke-30. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Esai dan motivasi studi, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "esai-dan-motivasi-studi",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-031",
+    "kategori": "LPDP",
+    "subkategori": "Leadership",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Skenario LPDP orisinal Leadership: Sobri perlu memilih respons paling matang pada situasi seleksi ke-31. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Leadership, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "leadership",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-032",
+    "kategori": "LPDP",
+    "subkategori": "Studi kasus wawancara",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Skenario LPDP orisinal Studi kasus wawancara: Sobri perlu memilih respons paling matang pada situasi seleksi ke-32. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Studi kasus wawancara, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "studi-kasus-wawancara",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-033",
+    "kategori": "LPDP",
+    "subkategori": "Tes Bakat Skolastik",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Skenario LPDP orisinal Tes Bakat Skolastik: Sobri perlu memilih respons paling matang pada situasi seleksi ke-33. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Tes Bakat Skolastik, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "tes-bakat-skolastik",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-034",
+    "kategori": "LPDP",
+    "subkategori": "Verbal Reasoning",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Skenario LPDP orisinal Verbal Reasoning: Sobri perlu memilih respons paling matang pada situasi seleksi ke-34. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Verbal Reasoning, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "verbal-reasoning",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-035",
+    "kategori": "LPDP",
+    "subkategori": "Numerical Reasoning",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Skenario LPDP orisinal Numerical Reasoning: Sobri perlu memilih respons paling matang pada situasi seleksi ke-35. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Numerical Reasoning, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "numerical-reasoning",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-036",
+    "kategori": "LPDP",
+    "subkategori": "Logical Reasoning",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Skenario LPDP orisinal Logical Reasoning: Sobri perlu memilih respons paling matang pada situasi seleksi ke-36. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Logical Reasoning, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "logical-reasoning",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-037",
+    "kategori": "LPDP",
+    "subkategori": "Wawasan Kebangsaan",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Skenario LPDP orisinal Wawasan Kebangsaan: Sobri perlu memilih respons paling matang pada situasi seleksi ke-37. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Wawasan Kebangsaan, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "wawasan-kebangsaan",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-038",
+    "kategori": "LPDP",
+    "subkategori": "Esai dan motivasi studi",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Skenario LPDP orisinal Esai dan motivasi studi: Sobri perlu memilih respons paling matang pada situasi seleksi ke-38. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Esai dan motivasi studi, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "esai-dan-motivasi-studi",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-039",
+    "kategori": "LPDP",
+    "subkategori": "Leadership",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Skenario LPDP orisinal Leadership: Sobri perlu memilih respons paling matang pada situasi seleksi ke-39. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Leadership, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "leadership",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "LP-040",
+    "kategori": "LPDP",
+    "subkategori": "Studi kasus wawancara",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Skenario LPDP orisinal Studi kasus wawancara: Sobri perlu memilih respons paling matang pada situasi seleksi ke-40. Manakah pilihan terbaik?",
+    "opsi": {
+      "A": "Menjawab cepat tanpa data pendukung agar terlihat percaya diri",
+      "B": "Menunda semua keputusan sampai orang lain menentukan arah",
+      "C": "Menyusun alasan, dampak, risiko, dan rencana tindak lanjut secara terukur",
+      "D": "Menghindari konflik dengan tidak menyampaikan posisi pribadi",
+      "E": "Memilih opsi paling populer walaupun tidak sesuai tujuan studi"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Seleksi LPDP menilai kejernihan berpikir, integritas, dan dampak. Pada konteks Studi kasus wawancara, respons terbaik adalah yang berbasis alasan, risiko, serta tindak lanjut terukur, sehingga C paling tepat.",
+    "tags": [
+      "lpdp",
+      "studi-kasus-wawancara",
+      "kepemimpinan"
+    ]
+  },
+  {
+    "id": "OR-001",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Dasar-dasar Onkologi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kasus klinis orisinal Dasar-dasar Onkologi: Sobri menilai pasien kanker pada skenario ke-1. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Dasar-dasar Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "dasar-dasar-onkologi",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-002",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Radiobiologi",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Fraksinasi radioterapi umumnya memanfaatkan perbedaan kemampuan perbaikan jaringan normal dan tumor. Konsep mana yang paling relevan?",
+    "opsi": {
+      "A": "Repair, reoxygenation, redistribution, repopulation, dan radiosensitivity adalah kerangka 5R",
+      "B": "Hanya ukuran lapangan yang menentukan respons biologis",
+      "C": "Terapi radiasi tidak dipengaruhi oksigenasi",
+      "D": "Semua tumor selalu memiliki alfa beta sama",
+      "E": "Efek biologis tidak dipengaruhi waktu total"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Radiobiologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "radiobiologi",
+      "fraksinasi",
+      "5R"
+    ]
+  },
+  {
+    "id": "OR-003",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Fisika Radiasi Dasar",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Pada perencanaan radioterapi, verifikasi dosis dan geometri penting sebelum terapi. Tujuan utamanya adalah?",
+    "opsi": {
+      "A": "Menjamin dosis mengenai target dan membatasi organ sehat sesuai rencana",
+      "B": "Mengganti kebutuhan konturing target",
+      "C": "Membuat seluruh tubuh menerima dosis homogen",
+      "D": "Menghilangkan kebutuhan informed consent",
+      "E": "Menentukan diagnosis histopatologi"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Fisika Radiasi Dasar, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "fisika-radiasi",
+      "quality-assurance",
+      "dosis"
+    ]
+  },
+  {
+    "id": "OR-004",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Prinsip Radioterapi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Seorang pasien memiliki target tumor dekat organ kritis. Prinsip perencanaan yang paling tepat adalah?",
+    "opsi": {
+      "A": "Maksimalkan dosis target dengan optimasi batas dosis organ risiko",
+      "B": "Selalu gunakan satu lapangan sederhana tanpa evaluasi DVH",
+      "C": "Abaikan organ risiko bila tumor agresif",
+      "D": "Tunda semua terapi sampai tumor mengecil spontan",
+      "E": "Berikan dosis sama pada semua jaringan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Prinsip Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "radioterapi",
+      "planning",
+      "organ-risk"
+    ]
+  },
+  {
+    "id": "OR-005",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Anatomi dan Staging Kanker",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Kasus klinis orisinal Anatomi dan Staging Kanker: Sobri menilai pasien kanker pada skenario ke-5. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Anatomi dan Staging Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "anatomi-dan-staging-kanker",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-006",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Kepala Leher",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Kasus klinis orisinal Kanker Kepala Leher: Sobri menilai pasien kanker pada skenario ke-6. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Kepala Leher, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-kepala-leher",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-007",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Payudara",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kasus klinis orisinal Kanker Payudara: Sobri menilai pasien kanker pada skenario ke-7. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Payudara, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-payudara",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-008",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Paru",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Kasus klinis orisinal Kanker Paru: Sobri menilai pasien kanker pada skenario ke-8. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Paru, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-paru",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-009",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Serviks",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Kasus klinis orisinal Kanker Serviks: Sobri menilai pasien kanker pada skenario ke-9. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Serviks, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-serviks",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-010",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Prostat",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kasus klinis orisinal Kanker Prostat: Sobri menilai pasien kanker pada skenario ke-10. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Prostat, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-prostat",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-011",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Kolorektal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Kasus klinis orisinal Kanker Kolorektal: Sobri menilai pasien kanker pada skenario ke-11. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Kolorektal, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-kolorektal",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-012",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Anak",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Kasus klinis orisinal Kanker Anak: Sobri menilai pasien kanker pada skenario ke-12. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Anak, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-anak",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-013",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Paliatif Onkologi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kasus klinis orisinal Paliatif Onkologi: Sobri menilai pasien kanker pada skenario ke-13. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Paliatif Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "paliatif-onkologi",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-014",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Efek Samping Radioterapi",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pasien mengeluh mukositis selama radiasi kepala leher. Pendekatan awal yang tepat adalah?",
+    "opsi": {
+      "A": "Edukasi perawatan mulut, analgesia, nutrisi, dan evaluasi derajat toksisitas",
+      "B": "Menghentikan permanen semua terapi tanpa penilaian",
+      "C": "Memberi antibiotik intravena pada semua kasus ringan",
+      "D": "Mengabaikan keluhan karena selalu normal",
+      "E": "Melarang asupan cairan agar saliva berkurang"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Efek Samping Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "toksisitas",
+      "mukositis",
+      "suportif"
+    ]
+  },
+  {
+    "id": "OR-015",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Emergency dalam Onkologi",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Pasien kanker paru datang dengan kelemahan tungkai progresif dan nyeri punggung. Tindakan paling prioritas adalah?",
+    "opsi": {
+      "A": "Curiga kompresi medula, lakukan evaluasi segera dan koordinasi terapi emergensi",
+      "B": "Menunggu kontrol rutin bulan depan",
+      "C": "Memberi vitamin saja tanpa pemeriksaan neurologis",
+      "D": "Melakukan latihan berat untuk memperkuat tungkai",
+      "E": "Menganggap keluhan sebagai cemas semata"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Emergency dalam Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "emergency-onkologi",
+      "spinal-cord-compression"
+    ]
+  },
+  {
+    "id": "OR-016",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Etika dan Komunikasi Pasien Kanker",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Saat menjelaskan radioterapi, komunikasi yang paling etis adalah?",
+    "opsi": {
+      "A": "Menjelaskan tujuan, manfaat, risiko, alternatif, dan memberi ruang pertanyaan",
+      "B": "Menjamin kesembuhan 100% agar pasien tenang",
+      "C": "Menyembunyikan efek samping agar pasien tidak takut",
+      "D": "Meminta keluarga memutuskan tanpa melibatkan pasien kompeten",
+      "E": "Menggunakan istilah teknis tanpa klarifikasi"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Etika dan Komunikasi Pasien Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "etik",
+      "komunikasi",
+      "informed-consent"
+    ]
+  },
+  {
+    "id": "OR-017",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Dasar-dasar Onkologi",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Kasus klinis orisinal Dasar-dasar Onkologi: Sobri menilai pasien kanker pada skenario ke-17. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Dasar-dasar Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "dasar-dasar-onkologi",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-018",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Radiobiologi",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Fraksinasi radioterapi umumnya memanfaatkan perbedaan kemampuan perbaikan jaringan normal dan tumor. Konsep mana yang paling relevan?",
+    "opsi": {
+      "A": "Repair, reoxygenation, redistribution, repopulation, dan radiosensitivity adalah kerangka 5R",
+      "B": "Hanya ukuran lapangan yang menentukan respons biologis",
+      "C": "Terapi radiasi tidak dipengaruhi oksigenasi",
+      "D": "Semua tumor selalu memiliki alfa beta sama",
+      "E": "Efek biologis tidak dipengaruhi waktu total"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Radiobiologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "radiobiologi",
+      "fraksinasi",
+      "5R"
+    ]
+  },
+  {
+    "id": "OR-019",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Fisika Radiasi Dasar",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Pada perencanaan radioterapi, verifikasi dosis dan geometri penting sebelum terapi. Tujuan utamanya adalah?",
+    "opsi": {
+      "A": "Menjamin dosis mengenai target dan membatasi organ sehat sesuai rencana",
+      "B": "Mengganti kebutuhan konturing target",
+      "C": "Membuat seluruh tubuh menerima dosis homogen",
+      "D": "Menghilangkan kebutuhan informed consent",
+      "E": "Menentukan diagnosis histopatologi"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Fisika Radiasi Dasar, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "fisika-radiasi",
+      "quality-assurance",
+      "dosis"
+    ]
+  },
+  {
+    "id": "OR-020",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Prinsip Radioterapi",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Seorang pasien memiliki target tumor dekat organ kritis. Prinsip perencanaan yang paling tepat adalah?",
+    "opsi": {
+      "A": "Maksimalkan dosis target dengan optimasi batas dosis organ risiko",
+      "B": "Selalu gunakan satu lapangan sederhana tanpa evaluasi DVH",
+      "C": "Abaikan organ risiko bila tumor agresif",
+      "D": "Tunda semua terapi sampai tumor mengecil spontan",
+      "E": "Berikan dosis sama pada semua jaringan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Prinsip Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "radioterapi",
+      "planning",
+      "organ-risk"
+    ]
+  },
+  {
+    "id": "OR-021",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Anatomi dan Staging Kanker",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Kasus klinis orisinal Anatomi dan Staging Kanker: Sobri menilai pasien kanker pada skenario ke-21. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Anatomi dan Staging Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "anatomi-dan-staging-kanker",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-022",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Kepala Leher",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kasus klinis orisinal Kanker Kepala Leher: Sobri menilai pasien kanker pada skenario ke-22. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Kepala Leher, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-kepala-leher",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-023",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Payudara",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Kasus klinis orisinal Kanker Payudara: Sobri menilai pasien kanker pada skenario ke-23. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Payudara, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-payudara",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-024",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Paru",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Kasus klinis orisinal Kanker Paru: Sobri menilai pasien kanker pada skenario ke-24. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Paru, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-paru",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-025",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Serviks",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kasus klinis orisinal Kanker Serviks: Sobri menilai pasien kanker pada skenario ke-25. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Serviks, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-serviks",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-026",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Prostat",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Kasus klinis orisinal Kanker Prostat: Sobri menilai pasien kanker pada skenario ke-26. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Prostat, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-prostat",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-027",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Kolorektal",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Kasus klinis orisinal Kanker Kolorektal: Sobri menilai pasien kanker pada skenario ke-27. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Kolorektal, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-kolorektal",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-028",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Anak",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kasus klinis orisinal Kanker Anak: Sobri menilai pasien kanker pada skenario ke-28. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Anak, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-anak",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-029",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Paliatif Onkologi",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Kasus klinis orisinal Paliatif Onkologi: Sobri menilai pasien kanker pada skenario ke-29. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Paliatif Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "paliatif-onkologi",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-030",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Efek Samping Radioterapi",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Pasien mengeluh mukositis selama radiasi kepala leher. Pendekatan awal yang tepat adalah?",
+    "opsi": {
+      "A": "Edukasi perawatan mulut, analgesia, nutrisi, dan evaluasi derajat toksisitas",
+      "B": "Menghentikan permanen semua terapi tanpa penilaian",
+      "C": "Memberi antibiotik intravena pada semua kasus ringan",
+      "D": "Mengabaikan keluhan karena selalu normal",
+      "E": "Melarang asupan cairan agar saliva berkurang"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Efek Samping Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "toksisitas",
+      "mukositis",
+      "suportif"
+    ]
+  },
+  {
+    "id": "OR-031",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Emergency dalam Onkologi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Pasien kanker paru datang dengan kelemahan tungkai progresif dan nyeri punggung. Tindakan paling prioritas adalah?",
+    "opsi": {
+      "A": "Curiga kompresi medula, lakukan evaluasi segera dan koordinasi terapi emergensi",
+      "B": "Menunggu kontrol rutin bulan depan",
+      "C": "Memberi vitamin saja tanpa pemeriksaan neurologis",
+      "D": "Melakukan latihan berat untuk memperkuat tungkai",
+      "E": "Menganggap keluhan sebagai cemas semata"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Emergency dalam Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "emergency-onkologi",
+      "spinal-cord-compression"
+    ]
+  },
+  {
+    "id": "OR-032",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Etika dan Komunikasi Pasien Kanker",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Saat menjelaskan radioterapi, komunikasi yang paling etis adalah?",
+    "opsi": {
+      "A": "Menjelaskan tujuan, manfaat, risiko, alternatif, dan memberi ruang pertanyaan",
+      "B": "Menjamin kesembuhan 100% agar pasien tenang",
+      "C": "Menyembunyikan efek samping agar pasien tidak takut",
+      "D": "Meminta keluarga memutuskan tanpa melibatkan pasien kompeten",
+      "E": "Menggunakan istilah teknis tanpa klarifikasi"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Etika dan Komunikasi Pasien Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "etik",
+      "komunikasi",
+      "informed-consent"
+    ]
+  },
+  {
+    "id": "OR-033",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Dasar-dasar Onkologi",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Kasus klinis orisinal Dasar-dasar Onkologi: Sobri menilai pasien kanker pada skenario ke-33. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Dasar-dasar Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "dasar-dasar-onkologi",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-034",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Radiobiologi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Fraksinasi radioterapi umumnya memanfaatkan perbedaan kemampuan perbaikan jaringan normal dan tumor. Konsep mana yang paling relevan?",
+    "opsi": {
+      "A": "Repair, reoxygenation, redistribution, repopulation, dan radiosensitivity adalah kerangka 5R",
+      "B": "Hanya ukuran lapangan yang menentukan respons biologis",
+      "C": "Terapi radiasi tidak dipengaruhi oksigenasi",
+      "D": "Semua tumor selalu memiliki alfa beta sama",
+      "E": "Efek biologis tidak dipengaruhi waktu total"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Radiobiologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "radiobiologi",
+      "fraksinasi",
+      "5R"
+    ]
+  },
+  {
+    "id": "OR-035",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Fisika Radiasi Dasar",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pada perencanaan radioterapi, verifikasi dosis dan geometri penting sebelum terapi. Tujuan utamanya adalah?",
+    "opsi": {
+      "A": "Menjamin dosis mengenai target dan membatasi organ sehat sesuai rencana",
+      "B": "Mengganti kebutuhan konturing target",
+      "C": "Membuat seluruh tubuh menerima dosis homogen",
+      "D": "Menghilangkan kebutuhan informed consent",
+      "E": "Menentukan diagnosis histopatologi"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Fisika Radiasi Dasar, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "fisika-radiasi",
+      "quality-assurance",
+      "dosis"
+    ]
+  },
+  {
+    "id": "OR-036",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Prinsip Radioterapi",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Seorang pasien memiliki target tumor dekat organ kritis. Prinsip perencanaan yang paling tepat adalah?",
+    "opsi": {
+      "A": "Maksimalkan dosis target dengan optimasi batas dosis organ risiko",
+      "B": "Selalu gunakan satu lapangan sederhana tanpa evaluasi DVH",
+      "C": "Abaikan organ risiko bila tumor agresif",
+      "D": "Tunda semua terapi sampai tumor mengecil spontan",
+      "E": "Berikan dosis sama pada semua jaringan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Prinsip Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "radioterapi",
+      "planning",
+      "organ-risk"
+    ]
+  },
+  {
+    "id": "OR-037",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Anatomi dan Staging Kanker",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kasus klinis orisinal Anatomi dan Staging Kanker: Sobri menilai pasien kanker pada skenario ke-37. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Anatomi dan Staging Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "anatomi-dan-staging-kanker",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-038",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Kepala Leher",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Kasus klinis orisinal Kanker Kepala Leher: Sobri menilai pasien kanker pada skenario ke-38. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Kepala Leher, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-kepala-leher",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-039",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Payudara",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Kasus klinis orisinal Kanker Payudara: Sobri menilai pasien kanker pada skenario ke-39. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Payudara, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-payudara",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-040",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Paru",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kasus klinis orisinal Kanker Paru: Sobri menilai pasien kanker pada skenario ke-40. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Paru, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-paru",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-041",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Serviks",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Kasus klinis orisinal Kanker Serviks: Sobri menilai pasien kanker pada skenario ke-41. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Serviks, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-serviks",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-042",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Prostat",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Kasus klinis orisinal Kanker Prostat: Sobri menilai pasien kanker pada skenario ke-42. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Prostat, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-prostat",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-043",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Kolorektal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kasus klinis orisinal Kanker Kolorektal: Sobri menilai pasien kanker pada skenario ke-43. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Kolorektal, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-kolorektal",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-044",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Anak",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Kasus klinis orisinal Kanker Anak: Sobri menilai pasien kanker pada skenario ke-44. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Anak, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-anak",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-045",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Paliatif Onkologi",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Kasus klinis orisinal Paliatif Onkologi: Sobri menilai pasien kanker pada skenario ke-45. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Paliatif Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "paliatif-onkologi",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-046",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Efek Samping Radioterapi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Pasien mengeluh mukositis selama radiasi kepala leher. Pendekatan awal yang tepat adalah?",
+    "opsi": {
+      "A": "Edukasi perawatan mulut, analgesia, nutrisi, dan evaluasi derajat toksisitas",
+      "B": "Menghentikan permanen semua terapi tanpa penilaian",
+      "C": "Memberi antibiotik intravena pada semua kasus ringan",
+      "D": "Mengabaikan keluhan karena selalu normal",
+      "E": "Melarang asupan cairan agar saliva berkurang"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Efek Samping Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "toksisitas",
+      "mukositis",
+      "suportif"
+    ]
+  },
+  {
+    "id": "OR-047",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Emergency dalam Onkologi",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pasien kanker paru datang dengan kelemahan tungkai progresif dan nyeri punggung. Tindakan paling prioritas adalah?",
+    "opsi": {
+      "A": "Curiga kompresi medula, lakukan evaluasi segera dan koordinasi terapi emergensi",
+      "B": "Menunggu kontrol rutin bulan depan",
+      "C": "Memberi vitamin saja tanpa pemeriksaan neurologis",
+      "D": "Melakukan latihan berat untuk memperkuat tungkai",
+      "E": "Menganggap keluhan sebagai cemas semata"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Emergency dalam Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "emergency-onkologi",
+      "spinal-cord-compression"
+    ]
+  },
+  {
+    "id": "OR-048",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Etika dan Komunikasi Pasien Kanker",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Saat menjelaskan radioterapi, komunikasi yang paling etis adalah?",
+    "opsi": {
+      "A": "Menjelaskan tujuan, manfaat, risiko, alternatif, dan memberi ruang pertanyaan",
+      "B": "Menjamin kesembuhan 100% agar pasien tenang",
+      "C": "Menyembunyikan efek samping agar pasien tidak takut",
+      "D": "Meminta keluarga memutuskan tanpa melibatkan pasien kompeten",
+      "E": "Menggunakan istilah teknis tanpa klarifikasi"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Etika dan Komunikasi Pasien Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "etik",
+      "komunikasi",
+      "informed-consent"
+    ]
+  },
+  {
+    "id": "OR-049",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Dasar-dasar Onkologi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kasus klinis orisinal Dasar-dasar Onkologi: Sobri menilai pasien kanker pada skenario ke-49. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Dasar-dasar Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "dasar-dasar-onkologi",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-050",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Radiobiologi",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Fraksinasi radioterapi umumnya memanfaatkan perbedaan kemampuan perbaikan jaringan normal dan tumor. Konsep mana yang paling relevan?",
+    "opsi": {
+      "A": "Repair, reoxygenation, redistribution, repopulation, dan radiosensitivity adalah kerangka 5R",
+      "B": "Hanya ukuran lapangan yang menentukan respons biologis",
+      "C": "Terapi radiasi tidak dipengaruhi oksigenasi",
+      "D": "Semua tumor selalu memiliki alfa beta sama",
+      "E": "Efek biologis tidak dipengaruhi waktu total"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Radiobiologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "radiobiologi",
+      "fraksinasi",
+      "5R"
+    ]
+  },
+  {
+    "id": "OR-051",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Fisika Radiasi Dasar",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Pada perencanaan radioterapi, verifikasi dosis dan geometri penting sebelum terapi. Tujuan utamanya adalah?",
+    "opsi": {
+      "A": "Menjamin dosis mengenai target dan membatasi organ sehat sesuai rencana",
+      "B": "Mengganti kebutuhan konturing target",
+      "C": "Membuat seluruh tubuh menerima dosis homogen",
+      "D": "Menghilangkan kebutuhan informed consent",
+      "E": "Menentukan diagnosis histopatologi"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Fisika Radiasi Dasar, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "fisika-radiasi",
+      "quality-assurance",
+      "dosis"
+    ]
+  },
+  {
+    "id": "OR-052",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Prinsip Radioterapi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Seorang pasien memiliki target tumor dekat organ kritis. Prinsip perencanaan yang paling tepat adalah?",
+    "opsi": {
+      "A": "Maksimalkan dosis target dengan optimasi batas dosis organ risiko",
+      "B": "Selalu gunakan satu lapangan sederhana tanpa evaluasi DVH",
+      "C": "Abaikan organ risiko bila tumor agresif",
+      "D": "Tunda semua terapi sampai tumor mengecil spontan",
+      "E": "Berikan dosis sama pada semua jaringan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Prinsip Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "radioterapi",
+      "planning",
+      "organ-risk"
+    ]
+  },
+  {
+    "id": "OR-053",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Anatomi dan Staging Kanker",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Kasus klinis orisinal Anatomi dan Staging Kanker: Sobri menilai pasien kanker pada skenario ke-53. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Anatomi dan Staging Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "anatomi-dan-staging-kanker",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-054",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Kepala Leher",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Kasus klinis orisinal Kanker Kepala Leher: Sobri menilai pasien kanker pada skenario ke-54. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Kepala Leher, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-kepala-leher",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-055",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Payudara",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kasus klinis orisinal Kanker Payudara: Sobri menilai pasien kanker pada skenario ke-55. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Payudara, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-payudara",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-056",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Paru",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Kasus klinis orisinal Kanker Paru: Sobri menilai pasien kanker pada skenario ke-56. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Paru, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-paru",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-057",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Serviks",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Kasus klinis orisinal Kanker Serviks: Sobri menilai pasien kanker pada skenario ke-57. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Serviks, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-serviks",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-058",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Prostat",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kasus klinis orisinal Kanker Prostat: Sobri menilai pasien kanker pada skenario ke-58. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Prostat, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-prostat",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-059",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Kolorektal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Kasus klinis orisinal Kanker Kolorektal: Sobri menilai pasien kanker pada skenario ke-59. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Kolorektal, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-kolorektal",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-060",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Anak",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Kasus klinis orisinal Kanker Anak: Sobri menilai pasien kanker pada skenario ke-60. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Anak, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-anak",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-061",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Paliatif Onkologi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kasus klinis orisinal Paliatif Onkologi: Sobri menilai pasien kanker pada skenario ke-61. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Paliatif Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "paliatif-onkologi",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-062",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Efek Samping Radioterapi",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pasien mengeluh mukositis selama radiasi kepala leher. Pendekatan awal yang tepat adalah?",
+    "opsi": {
+      "A": "Edukasi perawatan mulut, analgesia, nutrisi, dan evaluasi derajat toksisitas",
+      "B": "Menghentikan permanen semua terapi tanpa penilaian",
+      "C": "Memberi antibiotik intravena pada semua kasus ringan",
+      "D": "Mengabaikan keluhan karena selalu normal",
+      "E": "Melarang asupan cairan agar saliva berkurang"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Efek Samping Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "toksisitas",
+      "mukositis",
+      "suportif"
+    ]
+  },
+  {
+    "id": "OR-063",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Emergency dalam Onkologi",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Pasien kanker paru datang dengan kelemahan tungkai progresif dan nyeri punggung. Tindakan paling prioritas adalah?",
+    "opsi": {
+      "A": "Curiga kompresi medula, lakukan evaluasi segera dan koordinasi terapi emergensi",
+      "B": "Menunggu kontrol rutin bulan depan",
+      "C": "Memberi vitamin saja tanpa pemeriksaan neurologis",
+      "D": "Melakukan latihan berat untuk memperkuat tungkai",
+      "E": "Menganggap keluhan sebagai cemas semata"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Emergency dalam Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "emergency-onkologi",
+      "spinal-cord-compression"
+    ]
+  },
+  {
+    "id": "OR-064",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Etika dan Komunikasi Pasien Kanker",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Saat menjelaskan radioterapi, komunikasi yang paling etis adalah?",
+    "opsi": {
+      "A": "Menjelaskan tujuan, manfaat, risiko, alternatif, dan memberi ruang pertanyaan",
+      "B": "Menjamin kesembuhan 100% agar pasien tenang",
+      "C": "Menyembunyikan efek samping agar pasien tidak takut",
+      "D": "Meminta keluarga memutuskan tanpa melibatkan pasien kompeten",
+      "E": "Menggunakan istilah teknis tanpa klarifikasi"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Etika dan Komunikasi Pasien Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "etik",
+      "komunikasi",
+      "informed-consent"
+    ]
+  },
+  {
+    "id": "OR-065",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Dasar-dasar Onkologi",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Kasus klinis orisinal Dasar-dasar Onkologi: Sobri menilai pasien kanker pada skenario ke-65. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Dasar-dasar Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "dasar-dasar-onkologi",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-066",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Radiobiologi",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Fraksinasi radioterapi umumnya memanfaatkan perbedaan kemampuan perbaikan jaringan normal dan tumor. Konsep mana yang paling relevan?",
+    "opsi": {
+      "A": "Repair, reoxygenation, redistribution, repopulation, dan radiosensitivity adalah kerangka 5R",
+      "B": "Hanya ukuran lapangan yang menentukan respons biologis",
+      "C": "Terapi radiasi tidak dipengaruhi oksigenasi",
+      "D": "Semua tumor selalu memiliki alfa beta sama",
+      "E": "Efek biologis tidak dipengaruhi waktu total"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Radiobiologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "radiobiologi",
+      "fraksinasi",
+      "5R"
+    ]
+  },
+  {
+    "id": "OR-067",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Fisika Radiasi Dasar",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Pada perencanaan radioterapi, verifikasi dosis dan geometri penting sebelum terapi. Tujuan utamanya adalah?",
+    "opsi": {
+      "A": "Menjamin dosis mengenai target dan membatasi organ sehat sesuai rencana",
+      "B": "Mengganti kebutuhan konturing target",
+      "C": "Membuat seluruh tubuh menerima dosis homogen",
+      "D": "Menghilangkan kebutuhan informed consent",
+      "E": "Menentukan diagnosis histopatologi"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Fisika Radiasi Dasar, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "fisika-radiasi",
+      "quality-assurance",
+      "dosis"
+    ]
+  },
+  {
+    "id": "OR-068",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Prinsip Radioterapi",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Seorang pasien memiliki target tumor dekat organ kritis. Prinsip perencanaan yang paling tepat adalah?",
+    "opsi": {
+      "A": "Maksimalkan dosis target dengan optimasi batas dosis organ risiko",
+      "B": "Selalu gunakan satu lapangan sederhana tanpa evaluasi DVH",
+      "C": "Abaikan organ risiko bila tumor agresif",
+      "D": "Tunda semua terapi sampai tumor mengecil spontan",
+      "E": "Berikan dosis sama pada semua jaringan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Prinsip Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "radioterapi",
+      "planning",
+      "organ-risk"
+    ]
+  },
+  {
+    "id": "OR-069",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Anatomi dan Staging Kanker",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Kasus klinis orisinal Anatomi dan Staging Kanker: Sobri menilai pasien kanker pada skenario ke-69. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Anatomi dan Staging Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "anatomi-dan-staging-kanker",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  },
+  {
+    "id": "OR-070",
+    "kategori": "Onkologi Radiasi",
+    "subkategori": "Kanker Kepala Leher",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kasus klinis orisinal Kanker Kepala Leher: Sobri menilai pasien kanker pada skenario ke-70. Prinsip keputusan apa yang paling tepat?",
+    "opsi": {
+      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
+      "B": "Memilih radiasi tanpa diagnosis dan staging",
+      "C": "Mengabaikan performa status pasien",
+      "D": "Menggunakan regimen sama untuk semua kanker",
+      "E": "Menunda edukasi sampai terapi selesai"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pada topik Kanker Kepala Leher, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
+    "tags": [
+      "kanker-kepala-leher",
+      "onkologi-radiasi",
+      "kasus"
+    ]
+  }
+]

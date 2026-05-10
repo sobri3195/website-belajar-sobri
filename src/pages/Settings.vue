@@ -1,0 +1,9 @@
+<script setup>
+import { ref } from 'vue'; import ConfirmModal from '../components/ConfirmModal.vue'; import { clearAllSobriData, exportSobriData, getSettings, importSobriData, saveSettings } from '../utils/storage'
+const settings=ref(getSettings()); const confirm=ref(false); const importText=ref(''); const exported=ref('')
+function save(){saveSettings(settings.value); document.documentElement.classList.toggle('dark', settings.value.darkMode)}
+function doExport(){exported.value=JSON.stringify(exportSobriData(),null,2)}
+function doImport(){importSobriData(JSON.parse(importText.value)); settings.value=getSettings(); save()}
+function reset(){clearAllSobriData(); confirm.value=false; location.reload()}
+</script>
+<template><section class="page"><h1>Pengaturan</h1><div class="card form"><label>Target harian<input type="number" min="1" v-model.number="settings.dailyTarget" @change="save"/></label><label class="check"><input type="checkbox" v-model="settings.darkMode" @change="save"/> Dark mode</label><label>Kategori prioritas default<select v-model="settings.priorityCategory" @change="save"><option>Semua</option><option>SIMAK UI</option><option>LPDP</option><option>Onkologi Radiasi</option></select></label></div><div class="grid-two"><div class="card"><h2>Export data localStorage</h2><button class="btn" @click="doExport">Export JSON</button><textarea v-model="exported" rows="9" placeholder="Data export muncul di sini"/></div><div class="card"><h2>Import data JSON</h2><textarea v-model="importText" rows="9" placeholder="Tempel JSON backup Sobri"/><button class="btn" @click="doImport">Import & restore</button></div></div><button class="btn danger" @click="confirm=true">Reset seluruh progress</button><ConfirmModal :show="confirm" title="Reset progress?" message="Semua kunci LocalStorage Belajar Sobri akan dihapus dari browser ini." @cancel="confirm=false" @confirm="reset"/></section></template>

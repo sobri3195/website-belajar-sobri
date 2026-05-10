@@ -1,0 +1,2 @@
+<script setup>defineProps({ value: { type: Number, default: 0 }, max: { type: Number, default: 100 }, label: String })</script>
+<template><div class="progress-wrap"><div class="progress-meta"><span>{{ label || 'Progress' }}</span><strong>{{ value }}/{{ max }}</strong></div><div class="progress"><div :style="{ width: `${Math.min(100, Math.round((value / Math.max(max,1))*100))}%` }" /></div></div></template>

@@ -1,0 +1,13 @@
+{
+  "name": "NiBTM 7.0 Biomedical Learning Platform",
+  "short_name": "NiBTM 7.0",
+  "description": "AI-ready learning for bioinformatics, translational AI, research datasets, and mentoring.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7fbff",
+  "theme_color": "#0f2747",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,2 @@
+<script setup>defineProps({ show: Boolean, title: String, message: String }); defineEmits(['confirm','cancel'])</script>
+<template><div v-if="show" class="modal-backdrop"><section class="modal card"><h3>{{ title }}</h3><p>{{ message }}</p><div class="actions"><button class="btn ghost" @click="$emit('cancel')">Batal</button><button class="btn danger" @click="$emit('confirm')">Ya, lanjutkan</button></div></section></div></template>

@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "latest",
+    "vite": "latest",
+    "vue": "latest",
+    "vue-router": "latest",
+    "chart.js": "latest",
+    "vue-chartjs": "latest"
+  },
+  "devDependencies": {},
+  "name": "belajar-sobri",
+  "private": true,
+  "version": "1.0.0"
+}

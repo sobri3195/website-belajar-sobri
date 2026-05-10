@@ -1,0 +1,5 @@
+<script setup>
+import { computed, ref } from 'vue'; import { useRouter } from 'vue-router'; import questions from '../data/questions.json'; import { getBookmarks, setBookmarks } from '../utils/storage'
+const router=useRouter(); const cat=ref('Semua'); const ids=ref(getBookmarks()); const cats=['Semua','SIMAK UI','LPDP','Onkologi Radiasi']; const items=computed(()=>questions.filter(q=>ids.value.includes(q.id)&&(cat.value==='Semua'||q.kategori===cat.value))); function remove(id){setBookmarks(ids.value.filter(x=>x!==id)); ids.value=getBookmarks()}
+</script>
+<template><section class="page"><h1>Bookmark</h1><div class="toolbar card"><select v-model="cat"><option v-for="c in cats" :key="c">{{ c }}</option></select><button class="btn" @click="router.push('/daily')">Latihan dari soal bookmark</button></div><div class="bank-list"><article v-for="q in items" :key="q.id" class="card mini"><b>{{ q.id }} • {{ q.kategori }}</b><p>{{ q.pertanyaan }}</p><button class="btn ghost" @click="remove(q.id)">Hapus bookmark</button></article></div><div v-if="!items.length" class="card empty">Belum ada soal yang di-bookmark.</div></section></template>

@@ -3144,5 +3144,445 @@
       "onkologi-radiasi",
       "kasus"
     ]
+  },
+  {
+    "id": "KV-001",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: MENARA : TINGGI",
+    "opsi": {
+      "A": "Kereta : angkut",
+      "B": "Air : jernih",
+      "C": "Lapangan : bola",
+      "D": "Danau : sungai",
+      "E": "Angina : badai"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Menara memiliki sifat tinggi. Hubungan yang sepadan adalah air memiliki sifat jernih.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-002",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: KAPAL : LAYAR",
+    "opsi": {
+      "A": "Pedati : roda",
+      "B": "Lokomotif : uap",
+      "C": "Pesawat : tempur",
+      "D": "Sepeda : motor",
+      "E": "Kereta api : listrik"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Kapal dapat digerakkan dengan layar. Hubungan yang paling sepadan adalah lokomotif yang digerakkan dengan uap.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-003",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: LADANG : PETANI",
+    "opsi": {
+      "A": "Jaksa : pengadilan",
+      "B": "Pegadaian : piutang",
+      "C": "Sirkus : pedagang",
+      "D": "Diskotek : penjudi",
+      "E": "Restoran : koki"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Ladang adalah tempat bekerja petani. Restoran adalah tempat bekerja koki.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-004",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: ADIL : TIDAK MEMIHAK",
+    "opsi": {
+      "A": "Mewah : memukau",
+      "B": "Kaya : berada",
+      "C": "Kuat : gagah",
+      "D": "Sakit : obat",
+      "E": "Kiwi : buah"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Adil bermakna tidak memihak. Pasangan yang paling dekat adalah kuat dan gagah yang sama-sama menunjukkan keteguhan atau daya.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-005",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: PUKAU : PESONA",
+    "opsi": {
+      "A": "Pucat : putih",
+      "B": "Pukat : pukang",
+      "C": "Pudar : punggal",
+      "D": "Pungkas : pulas",
+      "E": "Pupus : punah"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Pukau dan pesona merupakan pasangan kata yang berdekatan makna. Pupus dan punah juga berdekatan makna.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-006",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: DAUN : TUMBUHAN",
+    "opsi": {
+      "A": "Cairan : basah",
+      "B": "Warna : cat",
+      "C": "Sayap : burung",
+      "D": "Arang : hitam",
+      "E": "Lembar : kertas"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Daun adalah bagian dari tumbuhan. Sayap adalah bagian dari burung.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-007",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: SATELIT : PLANET",
+    "opsi": {
+      "A": "Meteorit : meteor",
+      "B": "Bulan : bumi",
+      "C": "Bintang : zodiak",
+      "D": "Tata surya : jagat raya",
+      "E": "Andromeda : cosmos"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Satelit dan planet merupakan benda langit yang berhubungan dalam kategori astronomi. Pasangan meteorit dan meteor paling sepadan sebagai istilah benda langit yang saling berkaitan.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-008",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: STETOSKOP : DOKTER",
+    "opsi": {
+      "A": "Mikroskop : preparat",
+      "B": "Giroskop : pemutar",
+      "C": "Kaleidoskop : pelukis",
+      "D": "Periskop : astronaut",
+      "E": "Teleskop : astrolog"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Stetoskop adalah alat yang dikaitkan dengan profesi dokter. Teleskop adalah alat yang dikaitkan dengan pengamat benda langit; dari pilihan yang tersedia, pasangan dengan profesi adalah astrolog.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-009",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: PURIFIKASI : FILTER",
+    "opsi": {
+      "A": "Salinasi : garam",
+      "B": "Reboisasi : hutan",
+      "C": "Karbonasi : air kapur",
+      "D": "Ekskavasi : pengeruk",
+      "E": "Ionisasi : elektrolit"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Purifikasi dapat dilakukan dengan alat filter. Ekskavasi dapat dilakukan dengan alat pengeruk.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-010",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: DELTA : SUNGAI",
+    "opsi": {
+      "A": "Gelap : awan",
+      "B": "Luas : padang rumput",
+      "C": "Terak : gembala",
+      "D": "Laguna : tanjung",
+      "E": "Oase : padang pasir"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Delta berkaitan dengan bentukan wilayah perairan di sekitar sungai. Laguna dan tanjung sama-sama berkaitan sebagai bentukan geografis pesisir.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-011",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: DIKOTIL : KACANGAN",
+    "opsi": {
+      "A": "Moluska : dinosaurus",
+      "B": "Protozoa : amoeba",
+      "C": "Graminac : kelapa",
+      "D": "Herbifor : singa",
+      "E": "Plasmodium : ganggang"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Kacangan termasuk contoh tumbuhan dikotil. Amoeba termasuk contoh protozoa.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-012",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: ANOMALI : NORMAL",
+    "opsi": {
+      "A": "Akustik : suara",
+      "B": "Agnostik : Tuhan",
+      "C": "Asosiasi : hubungan",
+      "D": "Apresiasi : kehangatan",
+      "E": "Atraksi : daya tarik"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Anomali berhubungan dengan normal sebagai penyimpangan dari keadaan normal. Agnostik berhubungan dengan Tuhan dalam konteks sikap atau posisi terhadap keyakinan ketuhanan.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-013",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: GERIMIS : HUJAN",
+    "opsi": {
+      "A": "Mega : mendung",
+      "B": "Angin : topan",
+      "C": "Gelembung : buih",
+      "D": "Kabut : embun",
+      "E": "Ombak : gelombang"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Gerimis adalah bentuk atau intensitas dari hujan. Ombak merupakan bentuk gelombang di permukaan air.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-014",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: BUAYA : ULAR",
+    "opsi": {
+      "A": "Rusa : mamalia",
+      "B": "Belalang : kepompong",
+      "C": "Salamander : katak",
+      "D": "Salmonela : bakteri",
+      "E": "Iguana : reptilian"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Buaya dan ular berada dalam kelompok hewan yang sama. Salamander dan katak juga sama-sama amfibi.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-015",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: RIMBUN : TEDUH",
+    "opsi": {
+      "A": "Ratap : nangis",
+      "B": "Sekap : tangkap",
+      "C": "Sesak : penuh",
+      "D": "Ringkas : padat",
+      "E": "Deras : keras"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Rimbun dapat menyebabkan keadaan teduh. Sesak berkaitan dengan keadaan penuh.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-016",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: TENDA : PERKEMAHAN",
+    "opsi": {
+      "A": "Kios : pertokoan",
+      "B": "Hotel : penginapan",
+      "C": "Sawah : pertanian",
+      "D": "Pantai : daratan",
+      "E": "Mobil : kendaraan"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Tenda adalah sarana untuk kegiatan perkemahan. Hotel adalah sarana untuk penginapan.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-017",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: PASIEN : DOKTER",
+    "opsi": {
+      "A": "Penjual : pembeli",
+      "B": "Anak : orangtua",
+      "C": "Pelatih : promotor",
+      "D": "Arsitek : kontraktor",
+      "E": "Klien : pengacara"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Pasien menerima layanan dari dokter. Klien menerima layanan dari pengacara.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-018",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: KUNO : USIA",
+    "opsi": {
+      "A": "Usang : perusakan",
+      "B": "Cekatan : kelambatan",
+      "C": "Roboh : hambatan",
+      "D": "Konflik : perbedaan",
+      "E": "Cemar : lingkungan"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Kuno berkaitan dengan keadaan karena usia. Cemar berkaitan dengan keadaan lingkungan.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-019",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: PANAMA : PASIFIK",
+    "opsi": {
+      "A": "Alaska : Bering",
+      "B": "Suez : Mediterania",
+      "C": "Madagaskar : Hindia",
+      "D": "Malaka : Cina Selatan",
+      "E": "Mesir : Laut Merah"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Panama berada di kawasan yang berkaitan dengan Samudra Pasifik. Madagaskar berada di Samudra Hindia.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
+  },
+  {
+    "id": "KV-020",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Pilih pasangan kata yang paling menyatakan hubungan serupa dengan pasangan berikut: MATA : KELOPAK",
+    "opsi": {
+      "A": "Kepala : topi",
+      "B": "Lensa : kacamata",
+      "C": "Lahan : pagar",
+      "D": "Luka : pembalut",
+      "E": "Garasi : pintu"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Kelopak menutupi atau melindungi mata. Topi menutupi atau melindungi kepala.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "analogi",
+      "paket-1"
+    ]
   }
 ]

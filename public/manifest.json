@@ -1,11 +1,11 @@
 {
-  "name": "NiBTM 7.0 Biomedical Learning Platform",
-  "short_name": "NiBTM 7.0",
-  "description": "AI-ready learning for bioinformatics, translational AI, research datasets, and mentoring.",
+  "name": "Belajar Sobri",
+  "short_name": "Belajar Sobri",
+  "description": "Website latihan harian Sobri untuk SIMAK UI, LPDP, dan Onkologi Radiasi.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "background_color": "#f7fbff",
+  "background_color": "#f4f7fb",
   "theme_color": "#0f2747",
   "icons": [
     { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }

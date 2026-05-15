@@ -1,5 +1,4 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import NiBTMLanding from '../pages/NiBTMLanding.vue'
 
 const Dashboard = () => import('../pages/Dashboard.vue')
 const DailyPractice = () => import('../pages/DailyPractice.vue')
@@ -13,15 +12,15 @@ const Statistics = () => import('../pages/Statistics.vue')
 const Settings = () => import('../pages/Settings.vue')
 
 const LegalPage = (title, body) => ({
-  template: `<main id="main-content" class="legal-page"><section class="card"><p class="eyebrow">NiBTM 7.0 legal</p><h1>${title}</h1><p>${body}</p><p>Official contact: <a href="mailto:alpha@nibtm.org">alpha@nibtm.org</a>. Postal address: Nusantara Biomedical Learning Studio, Jakarta Biomedical Innovation District, Indonesia.</p><p><a class="btn" href="/">Back to NiBTM 7.0</a></p></section></main>`,
+  template: `<section class="page"><div class="card"><p class="eyebrow">Belajar Sobri</p><h1>${title}</h1><p>${body}</p><p>Belajar Sobri adalah aplikasi frontend-only; data latihan disimpan di LocalStorage browser pengguna.</p><p><a class="btn" href="/">Kembali ke Dashboard</a></p></div></section>`,
 })
 
 const routes = [
-  { path: '/', component: NiBTMLanding, meta: { public: true } },
-  { path: '/privacy', component: LegalPage('Privacy Policy', 'This closed-alpha prototype collects only learner-provided interactions needed to operate product analytics, accessibility review, and mentor booking workflows. Production data processing agreements will be finalized before public launch.'), meta: { public: true } },
-  { path: '/terms', component: LegalPage('Terms of Use', 'NiBTM 7.0 is provided as a biomedical learning prototype and does not provide medical advice, diagnosis, treatment, or clinical decision support. Sample datasets are synthetic or de-identified training materials.'), meta: { public: true } },
-  { path: '/contact', component: LegalPage('Contact', 'For closed alpha access, partnership review, security questions, or accessibility feedback, contact the NiBTM 7.0 launch team using the official email below.'), meta: { public: true } },
-  { path: '/dashboard', component: Dashboard },
+  { path: '/', component: Dashboard },
+  { path: '/privacy', component: LegalPage('Kebijakan Privasi', 'Belajar Sobri hanya memakai data interaksi latihan yang tersimpan lokal di browser untuk menampilkan progres, riwayat, bookmark, statistik, dan pengaturan belajar.') },
+  { path: '/terms', component: LegalPage('Syarat Penggunaan', 'Materi latihan Belajar Sobri ditujukan untuk pendamping belajar SIMAK UI, LPDP, dan Onkologi Radiasi. Konten tidak menggantikan arahan akademik, klinis, atau profesional resmi.') },
+  { path: '/contact', component: LegalPage('Kontak', 'Gunakan menu pengaturan untuk ekspor dan impor data belajar. Untuk publikasi mandiri, sesuaikan kanal kontak sesuai domain Belajar Sobri yang digunakan.') },
+  { path: '/dashboard', redirect: '/' },
   { path: '/daily', component: DailyPractice },
   { path: '/simak-ui', component: SimakUI },
   { path: '/lpdp', component: LPDP },

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'nibtm-static-v1'
+const CACHE_NAME = 'belajar-sobri-static-v1'
 const STATIC_ASSETS = ['/', '/manifest.json', '/icons/icon.svg', '/robots.txt', '/sitemap.xml']
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(STATIC_ASSETS)))

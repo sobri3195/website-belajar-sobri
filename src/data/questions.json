@@ -4274,5 +4274,225 @@
       "pemahaman-bacaan",
       "paket-1"
     ]
+  },
+  {
+    "id": "KV-051",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Pilih padanan kata atau padanan pengertian yang paling tepat untuk kata berikut: KOGULASI.",
+    "opsi": {
+      "A": "Pelekatan",
+      "B": "Pengentalan",
+      "C": "Penggumpalan",
+      "D": "Pengkristalan",
+      "E": "Penghabluran"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Koagulasi berarti proses penggumpalan; karena itu padanan kata yang paling tepat adalah penggumpalan.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "padanan-kata",
+      "bagian-ii"
+    ]
+  },
+  {
+    "id": "KV-052",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Pilih padanan kata atau padanan pengertian yang paling tepat untuk kata berikut: LAPISAN-LAPISAN HORIZONTAL.",
+    "opsi": {
+      "A": "Tektonik",
+      "B": "Terakota",
+      "C": "Striata",
+      "D": "Teraso",
+      "E": "Strata"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Strata berarti lapisan-lapisan, khususnya susunan lapisan yang dapat dipahami sebagai lapisan horizontal.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "padanan-kata",
+      "bagian-ii"
+    ]
+  },
+  {
+    "id": "KV-053",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Pilih padanan kata atau padanan pengertian yang paling tepat untuk kata berikut: PERNYATAAN TERSAMAR.",
+    "opsi": {
+      "A": "Anagram",
+      "B": "Enigma",
+      "C": "Epitet",
+      "D": "Epitom",
+      "E": "Anathema"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Enigma adalah sesuatu yang samar, teka-teki, atau pernyataan yang maknanya tidak langsung terang.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "padanan-kata",
+      "bagian-ii"
+    ]
+  },
+  {
+    "id": "KV-054",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Pilih padanan kata atau padanan pengertian yang paling tepat untuk kata berikut: OBELISK.",
+    "opsi": {
+      "A": "Oval memanjang",
+      "B": "Hewan berkepala manusia",
+      "C": "Patung raksasa",
+      "D": "Berbentuk tugu",
+      "E": "Mirip lonceng"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Obelisk adalah monumen tinggi berbentuk tugu, biasanya ramping dan menjulang.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "padanan-kata",
+      "bagian-ii"
+    ]
+  },
+  {
+    "id": "KV-055",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Pilih padanan kata atau padanan pengertian yang paling tepat untuk kata berikut: TUKAK.",
+    "opsi": {
+      "A": "Biang",
+      "B": "Busuk",
+      "C": "Borok",
+      "D": "Bengkak",
+      "E": "Bongkok"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Tukak adalah luka terbuka atau borok pada kulit maupun selaput lendir.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "padanan-kata",
+      "bagian-ii"
+    ]
+  },
+  {
+    "id": "KV-056",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Pilih padanan kata atau padanan pengertian yang paling tepat untuk kata berikut: BIDAL.",
+    "opsi": {
+      "A": "Pepatah sindiran",
+      "B": "Penutup kepala",
+      "C": "Pakaian temanten",
+      "D": "Peralatan montir",
+      "E": "Perahu nelayan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Bidal adalah peribahasa atau pepatah yang berisi nasihat, sindiran, atau peringatan.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "padanan-kata",
+      "bagian-ii"
+    ]
+  },
+  {
+    "id": "KV-057",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Pilih padanan kata atau padanan pengertian yang paling tepat untuk kata berikut: SAHDU.",
+    "opsi": {
+      "A": "Bersahaja",
+      "B": "Khidmad",
+      "C": "Formal",
+      "D": "Redup",
+      "E": "Sedih"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Sahdu bermakna khidmat, hening, atau menimbulkan rasa haru yang mendalam.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "padanan-kata",
+      "bagian-ii"
+    ]
+  },
+  {
+    "id": "KV-058",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Pilih padanan kata atau padanan pengertian yang paling tepat untuk kata berikut: PERINTAH.",
+    "opsi": {
+      "A": "Introduktif",
+      "B": "Interogatif",
+      "C": "Introjektif",
+      "D": "Deklaratif",
+      "E": "Imperative"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Kalimat perintah disebut kalimat imperatif; opsi menggunakan bentuk 'Imperative'.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "padanan-kata",
+      "bagian-ii"
+    ]
+  },
+  {
+    "id": "KV-059",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Pilih padanan kata atau padanan pengertian yang paling tepat untuk kata berikut: DELIK.",
+    "opsi": {
+      "A": "Pelanggaran susila",
+      "B": "Tindak perdata",
+      "C": "Pengaduan",
+      "D": "Dakwaan",
+      "E": "Gugatan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Delik adalah perbuatan yang dapat dikenai hukuman karena melanggar undang-undang; dari pilihan yang ada, pelanggaran adalah padanan terdekat.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "padanan-kata",
+      "bagian-ii"
+    ]
+  },
+  {
+    "id": "KV-060",
+    "kategori": "SIMAK UI",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Pilih padanan kata atau padanan pengertian yang paling tepat untuk kata berikut: MODULASI.",
+    "opsi": {
+      "A": "Bipolarisasi",
+      "B": "Regimentasi",
+      "C": "Segmentasi",
+      "D": "Relokasi",
+      "E": "Regulasi"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Modulasi berkaitan dengan pengaturan atau perubahan gelombang/suara; dari pilihan yang tersedia, regulasi adalah padanan paling dekat.",
+    "tags": [
+      "simak-ui",
+      "kemampuan-verbal",
+      "padanan-kata",
+      "bagian-ii"
+    ]
   }
 ]

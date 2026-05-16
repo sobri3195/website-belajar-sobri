@@ -11,6 +11,7 @@ const isOncology = computed(() => props.question?.kategori === 'Onkologi Radiasi
   <article v-if="question" class="question-card card">
     <div class="question-top"><span>Soal {{ number }} / {{ total }}</span><div><CategoryBadge :category="question.kategori" /> <DifficultyBadge :level="question.tingkat_kesulitan" /> <span v-if="isOncology" class="badge oncology">Prioritas spesialis</span></div></div>
     <p class="subtle">{{ question.subkategori }} • {{ question.id }}</p>
+    <section v-if="question.stimulus" class="stimulus"><p>{{ question.stimulus }}</p></section>
     <h2>{{ question.pertanyaan }}</h2>
     <div class="options"><button v-for="(text, key) in question.opsi" :key="key" class="option" :class="optionClass(key)" @click="$emit('answer', key)"><b>{{ key }}</b><span>{{ text }}</span></button></div>
     <section v-if="showAnswer && selected" class="explanation" :class="selected === question.jawaban_benar ? 'ok' : 'bad'">

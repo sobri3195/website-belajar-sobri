@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title"><title id="title">Belajar Sobri app icon</title><rect width="512" height="512" rx="112" fill="#0f2747"/><circle cx="360" cy="150" r="82" fill="#2563eb" opacity=".72"/><rect x="118" y="116" width="210" height="260" rx="32" fill="#ffffff" opacity=".14"/><path d="M160 190h128M160 248h96M160 306h140" stroke="#dbeafe" stroke-width="24" stroke-linecap="round"/><path d="M310 325l35 35 72-92" fill="none" stroke="#34d399" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/><text x="256" y="438" text-anchor="middle" font-family="Inter, Arial" font-size="76" font-weight="900" fill="#fff">BS</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Belajar Sobri app icon</title>
+  <desc id="desc">Ikon aplikasi Belajar Sobri dengan perisai, buku latihan, dan tanda centang progres.</desc>
+  <defs>
+    <linearGradient id="bg" x1="94" y1="36" x2="426" y2="478" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#0f2747"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="241" y1="313" x2="413" y2="183" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34d399"/>
+      <stop offset="1" stop-color="#a7f3d0"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <path d="M256 64 397 111v91c0 118-60 190-141 239-81-49-141-121-141-239v-91L256 64Z" fill="#ffffff" opacity=".12"/>
+  <path d="M159 148h174c37 0 67 30 67 67v147H196c-37 0-67-30-67-67V178c0-17 13-30 30-30Z" fill="#ffffff" opacity=".17"/>
+  <path d="M184 214h108M184 270h82M184 326h104" stroke="#dbeafe" stroke-width="25" stroke-linecap="round"/>
+  <path d="m285 330 43 43 101-142" fill="none" stroke="url(#accent)" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="256" y="447" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="70" font-weight="900" fill="#fff">BS</text>
+</svg>

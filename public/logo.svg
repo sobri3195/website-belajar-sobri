@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" role="img" aria-labelledby="title desc">
+  <title id="title">Belajar Sobri logo</title>
+  <desc id="desc">Logo Belajar Sobri berbentuk perisai, buku, dan tanda centang.</desc>
+  <defs>
+    <linearGradient id="shield" x1="40" y1="6" x2="86" y2="90" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#0f2747"/>
+    </linearGradient>
+    <linearGradient id="check" x1="52" y1="56" x2="91" y2="25" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34d399"/>
+      <stop offset="1" stop-color="#a7f3d0"/>
+    </linearGradient>
+  </defs>
+  <path d="M48 7 87 20v25c0 25-16 39-39 48C25 84 9 70 9 45V20L48 7Z" fill="url(#shield)"/>
+  <path d="M31 29h29a11 11 0 0 1 11 11v28H37a11 11 0 0 1-11-11V34a5 5 0 0 1 5-5Z" fill="#fff" opacity=".18"/>
+  <path d="M35 40h24M35 51h20M35 62h27" stroke="#dbeafe" stroke-width="5" stroke-linecap="round"/>
+  <path d="m61 60 10 10 22-31" fill="none" stroke="url(#check)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="111" y="44" fill="#0f2747" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="900">Belajar Sobri</text>
+  <text x="112" y="68" fill="#64748b" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">SIMAK UI · LPDP · Onkologi Radiasi</text>
+</svg>

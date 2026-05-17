@@ -13,7 +13,7 @@ onMounted(() => document.documentElement.classList.toggle('dark', getSettings().
   <div class="app-shell">
     <Sidebar />
     <MobileNavbar :open="drawerOpen" @toggle="drawerOpen = !drawerOpen" />
-    <div class="mobile-drawer" :class="{ open: drawerOpen }"><Sidebar mobile @navigate="drawerOpen = false" /></div>
+    <div id="mobile-drawer" class="mobile-drawer" :class="{ open: drawerOpen }"><Sidebar mobile @navigate="drawerOpen = false" /></div>
     <div v-if="drawerOpen" class="scrim" @click="drawerOpen = false" />
     <main id="main-content" class="main-content"><RouterView /></main>
   </div>

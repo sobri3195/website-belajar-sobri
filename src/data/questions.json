@@ -4494,5 +4494,488 @@
       "padanan-kata",
       "bagian-ii"
     ]
+  },
+  {
+    "id": "SU-TBS1-001",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Porto = …",
+    "opsi": {
+      "A": "Segel",
+      "B": "Perangko",
+      "C": "Biaya",
+      "D": "Materai",
+      "E": "Surat"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-002",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Jenggala = ….",
+    "opsi": {
+      "A": "Hutan",
+      "B": "Lebat",
+      "C": "Sabana",
+      "D": "Gurun",
+      "E": "Bukit"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-003",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Jumantara = …",
+    "opsi": {
+      "A": "Tanah",
+      "B": "Perairan",
+      "C": "Bebatuan",
+      "D": "Langit",
+      "E": "Perkebunan"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-004",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Daur = ….",
+    "opsi": {
+      "A": "Siklus",
+      "B": "Baur",
+      "C": "Produk",
+      "D": "Tingkatan",
+      "E": "Proses"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-005",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Algoritma = …",
+    "opsi": {
+      "A": "Alternatif",
+      "B": "Aritmatika",
+      "C": "Prosedur Pemecahan",
+      "D": "Irama",
+      "E": "Software"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-006",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Fragmen >< ....",
+    "opsi": {
+      "A": "Bagian",
+      "B": "Patahan",
+      "C": "Gabungan",
+      "D": "Individu",
+      "E": "Utuh"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-007",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Tiang : Kokoh = ... : ...",
+    "opsi": {
+      "A": "Dinding : Fondasi",
+      "B": "Lantai : Marmer",
+      "C": "Genteng : Tanah",
+      "D": "Teras : Hiasan",
+      "E": "Atap : Terlindung"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-008",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Sahabat : Kawan = ….",
+    "opsi": {
+      "A": "Rajin : Nakal",
+      "B": "Kuat : Loyo",
+      "C": "Tajam : Pisau",
+      "D": "Harmoni : Selaras",
+      "E": "Sepakbola : Kiper"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-009",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Newton : Gaya = ….",
+    "opsi": {
+      "A": "Desibel : Suara",
+      "B": "Are : Jarak",
+      "C": "Warna : Merah",
+      "D": "Suhu : Temperatur",
+      "E": "Volt : Tegangan"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-010",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Evokasi = ...",
+    "opsi": {
+      "A": "Penilaian",
+      "B": "Perubahan",
+      "C": "Izin Menetap",
+      "D": "Penggugah rasa",
+      "E": "Pengungsian"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-011",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Australia : Selandia Baru = … : …",
+    "opsi": {
+      "A": "Malaysia : Penang",
+      "B": "Papua : Papua Nugini",
+      "C": "Jerman : Turki",
+      "D": "Mesir : Iran",
+      "E": "Indonesia : Malaysia"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-012",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "….. : Hujan = Tanggul : …..",
+    "opsi": {
+      "A": "Air : Lumpur",
+      "B": "Payung : Banjir",
+      "C": "Air : Banjir",
+      "D": "Laut : Sungai",
+      "E": "Banjir : Waduk"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-013",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Semua minimarket dilengkapi dengan CCTV. Sebagian minimarket berwarna biru.",
+    "opsi": {
+      "A": "Sebagian minimarket tidak berwarna biru dan tidak dilengkapi CCTV.",
+      "B": "Sebagian minimarket berwarna biru dan tidak dilengkapi CCTV.",
+      "C": "Semua minimarket berwarna biru dan dilengkapi dengan CCTV.",
+      "D": "Sebagian minimarket tidak berwarna biru dan dilengkapi CCTV.",
+      "E": "Semua minimarket yang tidak dilengkapi CCTV berwarna biru."
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-014",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Semua X bukan P. Sebagian X adalah Q, maka…",
+    "opsi": {
+      "A": "Sebagian X adalah Q bukan P",
+      "B": "Semua X bukan P dan Q.",
+      "C": "Sebagian X bukan Q adalah P.",
+      "D": "Semua X adalah Q.",
+      "E": "Semua jawaban salah."
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-015",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Ani adalah adik Budi. Ani adalah sahabat dari Cintia. Semua sahabat Ani juga sahabat kakaknya.",
+    "opsi": {
+      "A": "Budi adalah kakak Cintia",
+      "B": "Budi adalah sahabat Cintia",
+      "C": "Cintia adalah adik Ani",
+      "D": "Cintia adalah kakak Ani",
+      "E": "Tidak dapat disimpulkan"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-016",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Iwan seorang laki-laki. Setiap laki-laki menyukai wanita. Iwan menyukai Zezen. Kesimpulannya adalah :",
+    "opsi": {
+      "A": "Iwan tentu menyukai laki-laki",
+      "B": "Iwan tidak menyukai wanita",
+      "C": "Zezen menyukai laki-laki",
+      "D": "Zezen seorang wanita",
+      "E": "Zezen adalah laki-laki"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-017",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Rusa bertanduk indah. Kambing adalah binatang bertanduk. Kerbau mempunyai ekor dan tanduk. Kesimpulannya adalah:",
+    "opsi": {
+      "A": "Rusa sama dengan kambing",
+      "B": "Rusa, Kambing dan Kerbau adalah binatang bertanduk",
+      "C": "Rusa tidak berekor",
+      "D": "Kambing bertanduk dan tidak berekor",
+      "E": "Semua salah"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-018",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Semua negara yang termasuk dalam 10 negara yang paling bahagia di dunia versi World Happiness Report mempunyai pendapatan per kapita yang besar dan tingkat korupsi rendah. Denmark termasuk dalam 10 negara paling berbahagia di dunia versi World Happiness Report.",
+    "opsi": {
+      "A": "Denmark tidak masuk dalam 10 negara paling berbahagia di dunia versi World Happiness Report.",
+      "B": "Denmark mempunyai pendapatan per kapita yang besar dan tingkat korupsi yang rendah.",
+      "C": "Denmark mempunyai tingkat korupsi dan pendapatan per kapita yang rendah",
+      "D": "Denmark mempunyai pendapatan per kapita dan tingkat korupsi yang tinggi",
+      "E": "Denmark negara paling bahagia di dunia dengan korupsi tertinggi."
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-019",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Dalam rapat pengurus RW di Pos Ronda dihadiri oleh 8 orang. Pak Hamdan sebagai ketua RW duduk diantara bendahara dan sekretaris, yaitu Pak Andi dan Pak Mikel. Pak Udin duduk berhadapan dengan Pak Hamdan dan bersebelahan dengan Pak Doni. Posisi Pak Soni berada diantara Pak Joko dan Pak Andi sedangkan Pak Romi duduk di depan Pak Soni. Siapakah yang duduk berseberangan dengan Pak Mikel?",
+    "opsi": {
+      "A": "Pak Doni",
+      "B": "Pak Romi",
+      "C": "Pak Andi",
+      "D": "Pak Joko",
+      "E": "Pak Hamdan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-020",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Enam jenis buku pelajaran disusun berderet dalam rak: IPA, IPS, Pendidikan Agama, Bahasa Indonesia, Matematika, Penjaskes. Ketentuan: Penjaskes di kanan Bahasa Indonesia; Bahasa Indonesia di antara Pendidikan Agama dan Penjaskes; Pendidikan Agama paling kiri; IPS paling kanan; IPA di kanan Matematika. Urutan dari kiri ke kanan adalah …",
+    "opsi": {
+      "A": "Pendidikan Agama, Penjaskes, Matematika, Bahasa Indonesia, IPA, IPS",
+      "B": "IPS, Penjaskes, Matematika, Pendidikan Agama, Bahasa Indonesia, IPA",
+      "C": "Pendidikan Agama, Bahasa Indonesia, Penjaskes, Matematika, IPA, IPS",
+      "D": "Bahasa Indonesia, Pendidikan Agama, Matematika, Penjaskes, IPA, IPS",
+      "E": "IPS, Pendidikan Agama, Penjaskes, Matematika, IPA"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-021",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Semua hewan melata memiliki ekor panjang. Sebagian hewan melata memiliki mata merah.",
+    "opsi": {
+      "A": "Semua hewan melata berekor panjang dan memiliki mata merah",
+      "B": "Semua hewan melata berekor panjang memiliki mata tidak merah",
+      "C": "Sebagian hewan melata tidak berekor panjang dan memiliki mata merah",
+      "D": "Sebagian hewan melata berekor panjang dan memiliki mata tidak merah",
+      "E": "Semua hewan melata tidak berekor panjang dan memiliki mata merah"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-022",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Jika masakan diberi bumbu, maka rasanya lezat dan mengundang selera. A adalah masakan yang rasanya tidak lezat dan tidak mengundang selera.",
+    "opsi": {
+      "A": "A tidak diberi bumbu.",
+      "B": "A lezat dan mengundang selera karena tidak diberi bumbu.",
+      "C": "A tidak lezat dan tidak mengundang selera karena diberi bumbu.",
+      "D": "A diberi bumbu.",
+      "E": "A lezat, tetapi tidak diberi bumbu."
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
+  },
+  {
+    "id": "SU-TBS1-023",
+    "kategori": "SIMAK UI",
+    "subkategori": "Try Out TBS 1 - Kemampuan Verbal",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Bunga mawar lebih indah dari bunga melati. Bunga tulip lebih indah dari bunga melati, tetapi tidak lebih indah dari bunga mawar. Bunga edelweis lebih indah dari bunga mawar dan tulip. Manakah bunga yang tidak lebih indah dari mawar?",
+    "opsi": {
+      "A": "Edelweis",
+      "B": "Tulip dan melati",
+      "C": "Melati dan edelweis",
+      "D": "Edelweis dan tulip",
+      "E": "Melati"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Paket soal Try Out TBS 1 (Kemampuan Verbal) dimasukkan sesuai naskah yang diberikan pengguna.",
+    "tags": [
+      "simak-ui",
+      "try-out-tbs-1",
+      "kemampuan-verbal"
+    ]
   }
 ]

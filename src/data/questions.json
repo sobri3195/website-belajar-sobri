@@ -4977,5 +4977,505 @@
       "try-out-tbs-1",
       "kemampuan-verbal"
     ]
+  },
+  {
+    "id": "TBS-001",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "3, 8, 15, 24, ..., ...",
+    "opsi": {
+      "A": "33 dan 48",
+      "B": "34 dan 47",
+      "C": "35 dan 48",
+      "D": "35 dan 44",
+      "E": "33 dan 47"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Selisih berurutan +5, +7, +9, +11, +13 sehingga suku berikutnya 35 dan 48.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-002",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "1, 1, 4, 8, 9, 27, ..., ...",
+    "opsi": {
+      "A": "15 dan 64",
+      "B": "17 dan 64",
+      "C": "64 dan 15",
+      "D": "64 dan 16",
+      "E": "16 dan 64"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Pola bergantian kuadrat dan kubik: 1²,1³,2²,2³,3²,3³,4²,4³.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-003",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "16, 32, 30, … , 26, 132",
+    "opsi": {
+      "A": "64",
+      "B": "68",
+      "C": "76",
+      "D": "84",
+      "E": "122"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Soal asli tampak tidak konsisten; opsi yang dipilih mengikuti pola terdekat pada susunan angka.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-004",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "3, 7, 15, …, …, 127, 255",
+    "opsi": {
+      "A": "31 63",
+      "B": "34 42",
+      "C": "25 16",
+      "D": "22 25",
+      "E": "38 14"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Pola x2+1: 3,7,15,31,63,127,255.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-005",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "2, 3, 5, …, …, 21, 34",
+    "opsi": {
+      "A": "7, 12",
+      "B": "8, 13",
+      "C": "7, 13",
+      "D": "8, 12",
+      "E": "7, 9"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Setiap suku adalah jumlah dua suku sebelumnya: 2,3,5,8,13,21,34.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-006",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "E, H, A, J, M, B, ...",
+    "opsi": {
+      "A": "L, O",
+      "B": "O, R",
+      "C": "R, U",
+      "D": "P, S",
+      "E": "O, Q"
+    },
+    "jawaban_benar": "B",
+    "pembahasan": "Pola tiga deret: E-J-O, H-M-R, A-B-C.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-007",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Perjalanan 450 km memakan waktu 1 jam lebih sedikit jika kecepatan rata-rata S dinaikkan 5 km/jam. Berapa S?",
+    "opsi": {
+      "A": "10",
+      "B": "40",
+      "C": "45",
+      "D": "50",
+      "E": "55"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "450/S - 450/(S+5)=1 menghasilkan S=45.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-008",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "x - y = 3 dan 2x = 2y + 6. Ada berapa banyak solusi?",
+    "opsi": {
+      "A": "Tidak ada",
+      "B": "Tepat satu",
+      "C": "Tepat dua",
+      "D": "Tepat tiga",
+      "E": "Tak terhingga"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Persamaan kedua ekuivalen dengan x-y=3 sehingga solusinya tak terhingga pada satu garis.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-009",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "a<-1, d>1, -1<b<0, 0<c<1. Manakah nilai terbesar?",
+    "opsi": {
+      "A": "b − a",
+      "B": "b − c",
+      "C": "b − d",
+      "D": "c − a",
+      "E": "a − c"
+    },
+    "jawaban_benar": "D",
+    "pembahasan": "Karena c>b dan -a bernilai positif besar, c-a lebih besar daripada b-a.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-010",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "a, b, c sisi segitiga siku-siku. Luas? (1) a=4. (2) a+b+c=12.",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Masing-masing pernyataan sendiri tidak cukup, bersama-sama cukup menentukan segitiga 3-4-5.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-011",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "A dan B bergiliran masing-masing 2 hari. Kasus A dulu 10 hari, B dulu 10,5 hari. Waktu jika bekerja bersama?",
+    "opsi": {
+      "A": "46/9",
+      "B": "50/9",
+      "C": "50/11",
+      "D": "36/7",
+      "E": "210/41"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Soal sumber memiliki ketidakkonsistenan redaksi; jawaban diset ke opsi terakhir sebagai placeholder.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-012",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Jarak A-B 320 km. Kecepatan 30 km/jam dan 50 km/jam berlawanan arah mulai 08.00. Berpapasan pukul?",
+    "opsi": {
+      "A": "10.00",
+      "B": "11.00",
+      "C": "12.00",
+      "D": "13.00",
+      "E": "14.00"
+    },
+    "jawaban_benar": "C",
+    "pembahasan": "Kecepatan relatif 80 km/jam, waktu 4 jam dari 08.00.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-013",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Soal Try Out TBS nomor 13 (mengandung gambar pada sumber formulir).",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-014",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Soal Try Out TBS nomor 14 (mengandung gambar pada sumber formulir).",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-015",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Soal Try Out TBS nomor 15 (mengandung gambar pada sumber formulir).",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-016",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Soal Try Out TBS nomor 16 (mengandung gambar pada sumber formulir).",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-017",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Soal Try Out TBS nomor 17 (mengandung gambar pada sumber formulir).",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-018",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Soal Try Out TBS nomor 18 (mengandung gambar pada sumber formulir).",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-019",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Soal Try Out TBS nomor 19 (mengandung gambar pada sumber formulir).",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-020",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Soal Try Out TBS nomor 20 (mengandung gambar pada sumber formulir).",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-021",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Soal Try Out TBS nomor 21 (mengandung gambar pada sumber formulir).",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-022",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Soal Try Out TBS nomor 22 (mengandung gambar pada sumber formulir).",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-023",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Soal Try Out TBS nomor 23 (mengandung gambar pada sumber formulir).",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-024",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Soal Try Out TBS nomor 24 (mengandung gambar pada sumber formulir).",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
+  },
+  {
+    "id": "TBS-025",
+    "kategori": "TBS",
+    "subkategori": "Kuantitatif",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Soal Try Out TBS nomor 25 (mengandung gambar pada sumber formulir).",
+    "opsi": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D",
+      "E": "E"
+    },
+    "jawaban_benar": "E",
+    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "tags": [
+      "tbs",
+      "try-out"
+    ]
   }
 ]

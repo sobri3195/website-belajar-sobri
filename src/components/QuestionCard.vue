@@ -15,6 +15,9 @@ const optionClass = (key) => ({ selected: props.selected === key, correct: props
     <section v-if="showAnswer && selected" class="explanation" :class="selected === question.jawaban_benar ? 'ok' : 'bad'">
       <h3>{{ selected === question.jawaban_benar ? 'Jawaban benar' : 'Jawaban salah' }}</h3>
       <p>Jawaban benar: <strong>{{ question.jawaban_benar }}</strong></p><p>{{ question.pembahasan }}</p>
+      <details v-if="question.option_explanations"><summary>Bahas setiap opsi</summary><p v-for="(text, key) in question.option_explanations" :key="key"><strong>{{ key }}.</strong> {{ text }}</p></details>
+      <p v-if="question.concept"><strong>Konsep:</strong> {{ question.concept }}</p>
+      <p v-if="question.quick_tip"><strong>Tips cepat:</strong> {{ question.quick_tip }}</p>
     </section>
     <div class="quiz-actions"><button class="btn ghost" @click="$emit('prev')">Sebelumnya</button><button class="btn ghost" :class="{ active: doubtful }" @click="$emit('doubtful')">Tandai Ragu-ragu</button><button class="btn ghost" :class="{ active: bookmarked }" @click="$emit('bookmark')">{{ bookmarked ? '★ Bookmark' : '☆ Bookmark' }}</button><button class="btn" @click="$emit('next')">Selanjutnya</button><button class="btn success" @click="$emit('finish')">Selesai</button></div>
   </article>

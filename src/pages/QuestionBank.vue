@@ -1,10 +1,47 @@
 <script setup>
-import {computed,ref,watch} from 'vue';import {useRoute,useRouter} from 'vue-router';import CategoryBadge from '../components/CategoryBadge.vue';import DifficultyBadge from '../components/DifficultyBadge.vue';import questions from '../data/questions.json';import {getStorage,KEYS,getBookmarks,setBookmarks} from '../utils/storage';import {saveAnswer} from '../utils/quizEngine'
-const route=useRoute(),router=useRouter();const search=ref(''),cat=ref('Semua'),sub=ref('Semua'),diff=ref('Semua'),status=ref('Semua'),selectedId=ref(String(route.query.id||'')),answer=ref(''),feedback=ref(false),version=ref(0)
-const cats=['Semua','SIMAK UI','LPDP','BTKV'];const subs=computed(()=>['Semua',...new Set(questions.filter(q=>cat.value==='Semua'||q.kategori===cat.value).map(q=>q.subkategori))]);const history=()=>getStorage(KEYS.history,[]);const bookmarks=computed(()=>{version.value;return getBookmarks()})
-const filtered=computed(()=>questions.filter(q=>{const h=history().filter(a=>a.questionId===q.id);const text=`${q.id} ${q.pertanyaan} ${q.subkategori} ${q.tags.join(' ')}`.toLowerCase();return(!search.value||text.includes(search.value.toLowerCase()))&&(cat.value==='Semua'||q.kategori===cat.value)&&(sub.value==='Semua'||q.subkategori===sub.value)&&(diff.value==='Semua'||q.tingkat_kesulitan===diff.value)&&(status.value==='Semua'||status.value==='Belum dijawab'&&!h.length||status.value==='Pernah benar'&&h.some(a=>a.correct)||status.value==='Pernah salah'&&h.some(a=>!a.correct)||status.value==='Bookmark'&&bookmarks.value.includes(q.id))}))
-const active=computed(()=>questions.find(q=>q.id===selectedId.value));function select(q){selectedId.value=q.id;answer.value='';feedback.value=false;router.replace({query:{...route.query,id:q.id}});scrollTo({top:0,behavior:'smooth'})}function choose(key){if(feedback.value)return;answer.value=key;feedback.value=true;saveAnswer(active.value,key,'bank-soal')}function bookmark(){const ids=getBookmarks();setBookmarks(ids.includes(selectedId.value)?ids.filter(x=>x!==selectedId.value):[...ids,selectedId.value]);version.value++}function close(){selectedId.value='';router.replace({query:{}})}
-watch([cat,sub,diff,status,search],()=>{if(sub.value!=='Semua'&&!subs.value.includes(sub.value))sub.value='Semua';if(active.value&&!filtered.value.some(q=>q.id===active.value.id))close()})
+import { computed, ref, watch } from 'vue'
+import { useRoute } from 'vue-router'
+import QuestionCard from '../components/QuestionCard.vue'
+import questions from '../data/questions.js'
+import { saveAnswer } from '../utils/quizEngine'
+import { getStorage, KEYS, getBookmarks, setBookmarks } from '../utils/storage'
+
+const route = useRoute()
+const search = ref(route.query.search || '')
+const cat = ref(route.query.category || 'Semua')
+const sub = ref('Semua')
+const diff = ref('Semua')
+const status = ref('Semua')
+const selectedQuestionId = ref(null)
+const selectedAnswer = ref(null)
+const bookmarks = ref(getBookmarks())
+const cats = ['Semua', ...new Set(questions.map((q) => q.kategori))]
+const subs = computed(() => ['Semua', ...new Set(questions.filter((q) => cat.value === 'Semua' || q.kategori === cat.value).map((q) => q.subkategori))])
+const filtered = computed(() => questions.filter((q) => {
+  const history = getStorage(KEYS.history, []).filter((answer) => answer.questionId === q.id)
+  const haystack = `${q.id} ${q.pertanyaan} ${q.pembahasan} ${q.subkategori} ${q.tags.join(' ')}`.toLowerCase()
+  return (!search.value || haystack.includes(search.value.toLowerCase()))
+    && (cat.value === 'Semua' || q.kategori === cat.value)
+    && (sub.value === 'Semua' || q.subkategori === sub.value)
+    && (diff.value === 'Semua' || q.tingkat_kesulitan === diff.value)
+    && (status.value === 'Semua' || (status.value === 'Belum dijawab' && !history.length) || (status.value === 'Pernah benar' && history.some((a) => a.correct)) || (status.value === 'Pernah salah' && history.some((a) => !a.correct)) || (status.value === 'Bookmark' && bookmarks.value.includes(q.id)))
+}))
+const selectedQuestion = computed(() => questions.find((q) => q.id === selectedQuestionId.value) || null)
+
+function selectQuestion(id) { selectedQuestionId.value = id; selectedAnswer.value = null }
+function answer(key) { selectedAnswer.value = key; saveAnswer(selectedQuestion.value, key, 'bank-soal') }
+function bookmark() { const id = selectedQuestionId.value; bookmarks.value = bookmarks.value.includes(id) ? bookmarks.value.filter((x) => x !== id) : [...bookmarks.value, id]; setBookmarks(bookmarks.value) }
+watch(cat, () => { if (!subs.value.includes(sub.value)) sub.value = 'Semua' })
+watch(filtered, (items) => { if (selectedQuestionId.value && !items.some((q) => q.id === selectedQuestionId.value)) selectedQuestionId.value = null })
 </script>
-<template><section class="page"><div><span class="eyebrow">{{questions.length}} soal terverifikasi</span><h1>Bank Soal</h1><p class="lead">Pilih kartu untuk membuka, menjawab, dan meninjau pembahasan soal.</p></div><div v-if="selectedId" class="card question-detail"><button class="btn ghost" @click="close">← Kembali ke Bank Soal</button><div v-if="active"><div class="question-top"><b>{{active.id}}</b><div><CategoryBadge :category="active.kategori"/> <DifficultyBadge :level="active.tingkat_kesulitan"/></div></div><p class="subtle">{{active.subkategori}} • {{active.tags.join(' • ')}}</p><div v-if="active.stimulus" class="stimulus">{{active.stimulus}}</div><h2>{{active.pertanyaan}}</h2><div class="options"><button v-for="(text,key) in active.opsi" :key="key" class="option" :class="{selected:answer===key,correct:feedback&&key===active.jawaban_benar,wrong:feedback&&answer===key&&key!==active.jawaban_benar}" @click="choose(key)"><b>{{key}}</b><span>{{text}}</span></button></div><div v-if="feedback" class="explanation" :class="answer===active.jawaban_benar?'ok':'bad'"><h3>{{answer===active.jawaban_benar?'Jawaban benar':'Jawaban salah'}}</h3><p>Jawaban benar: <strong>{{active.jawaban_benar}} — {{active.opsi[active.jawaban_benar]}}</strong></p><p>{{active.pembahasan}}</p></div><div class="actions"><button class="btn ghost" @click="bookmark">{{bookmarks.includes(active.id)?'★ Hapus bookmark':'☆ Bookmark'}}</button><button class="btn" @click="router.push({path:'/daily',query:{startId:active.id,category:active.kategori}})">Latihan dari soal ini</button></div></div><div v-else class="empty"><h2>Soal tidak ditemukan</h2><p>ID soal mungkin sudah tidak tersedia.</p></div></div><template v-else><div class="toolbar card"><input v-model="search" placeholder="Cari soal, ID, atau tag"/><select v-model="cat"><option v-for="x in cats" :key="x">{{x}}</option></select><select v-model="sub"><option v-for="x in subs" :key="x">{{x}}</option></select><select v-model="diff"><option>Semua</option><option>Mudah</option><option>Sedang</option><option>Sulit</option></select><select v-model="status"><option>Semua</option><option>Belum dijawab</option><option>Pernah benar</option><option>Pernah salah</option><option>Bookmark</option></select></div><p class="subtle">{{filtered.length}} soal ditemukan</p><div class="bank-list"><button v-for="q in filtered" :key="q.id" class="card mini question-tile" @click="select(q)"><span><b>{{q.id}}</b> <DifficultyBadge :level="q.tingkat_kesulitan"/></span><small>{{q.kategori}} • {{q.subkategori}}</small><strong>{{q.pertanyaan}}</strong><span class="open-link">Buka soal →</span></button></div><div v-if="!filtered.length" class="card empty">Tidak ada soal yang cocok dengan filter.</div></template></section>
+
+<template>
+  <section class="page"><h1>Bank Soal</h1>
+    <div class="toolbar card"><input v-model="search" placeholder="Cari ID, soal, tag, atau pembahasan..."/><select v-model="cat"><option v-for="x in cats" :key="x">{{ x }}</option></select><select v-model="sub"><option v-for="x in subs" :key="x">{{ x }}</option></select><select v-model="diff"><option>Semua</option><option>Mudah</option><option>Sedang</option><option>Sulit</option></select><select v-model="status"><option>Semua</option><option>Belum dijawab</option><option>Pernah benar</option><option>Pernah salah</option><option>Bookmark</option></select></div>
+    <p class="subtle">{{ filtered.length }} soal ditemukan. Pilih kartu untuk membuka, menjawab, dan membaca pembahasannya.</p>
+    <div v-if="filtered.length" class="bank-list"><article v-for="q in filtered" :key="q.id" class="card mini question-list-item" :class="{ active: selectedQuestionId === q.id }" role="button" tabindex="0" @click="selectQuestion(q.id)" @keydown.enter="selectQuestion(q.id)"><b>{{ q.id }}</b><span>{{ q.kategori }} • {{ q.subkategori }} • {{ q.tingkat_kesulitan }}</span><p>{{ q.pertanyaan }}</p></article></div>
+    <div v-else class="card empty-state">Tidak ada soal yang sesuai dengan filter. Coba ubah kategori, subkategori, atau kata kunci pencarian.</div>
+    <QuestionCard v-if="selectedQuestion" :key="selectedQuestion.id" :question="selectedQuestion" :number="1" :total="1" :selected="selectedAnswer" :show-answer="!!selectedAnswer" :bookmarked="bookmarks.includes(selectedQuestion.id)" @answer="answer" @bookmark="bookmark" @finish="selectedQuestionId=null" @next="selectedQuestionId=null" @prev="selectedQuestionId=null"/>
+    <div v-else-if="selectedQuestionId" class="card empty-state">Soal yang dipilih tidak ditemukan.</div>
+  </section>
 </template>

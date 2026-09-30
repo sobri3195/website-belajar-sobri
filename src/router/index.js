@@ -7,6 +7,7 @@ const LPDP = () => import('../pages/LPDP.vue')
 const BTKV = () => import('../pages/BTKV.vue')
 const QuestionBank = () => import('../pages/QuestionBank.vue')
 const Bookmarks = () => import('../pages/Bookmarks.vue')
+const ReviewCenter = () => import('../pages/ReviewCenter.vue')
 const History = () => import('../pages/History.vue')
 const Statistics = () => import('../pages/Statistics.vue')
 const Settings = () => import('../pages/Settings.vue')
@@ -18,15 +19,16 @@ const LegalPage = (title, body) => ({
 const routes = [
   { path: '/', component: Dashboard },
   { path: '/privacy', component: LegalPage('Kebijakan Privasi', 'Belajar Sobri hanya memakai data interaksi latihan yang tersimpan lokal di browser untuk menampilkan progres, riwayat, bookmark, statistik, dan pengaturan belajar.') },
-  { path: '/terms', component: LegalPage('Syarat Penggunaan', 'Materi latihan Belajar Sobri ditujukan untuk pendamping belajar SIMAK UI, LPDP, dan BTKV. Konten tidak menggantikan arahan akademik atau profesional resmi.') },
+  { path: '/terms', component: LegalPage('Syarat Penggunaan', 'Materi latihan Belajar Sobri ditujukan untuk pendamping belajar BTKV, SIMAK UI, dan LPDP. Konten tidak menggantikan arahan akademik, klinis, atau profesional resmi.') },
   { path: '/contact', component: LegalPage('Kontak', 'Gunakan menu pengaturan untuk ekspor dan impor data belajar. Untuk publikasi mandiri, sesuaikan kanal kontak sesuai domain Belajar Sobri yang digunakan.') },
   { path: '/dashboard', redirect: '/' },
   { path: '/daily', component: DailyPractice },
+  { path: '/btkv', component: BTKV },
   { path: '/simak-ui', component: SimakUI },
   { path: '/lpdp', component: LPDP },
-  { path: '/btkv', component: BTKV },
   { path: '/bank-soal', component: QuestionBank },
   { path: '/bookmark', component: Bookmarks },
+  { path: '/review', component: ReviewCenter },
   { path: '/riwayat', component: History },
   { path: '/statistik', component: Statistics },
   { path: '/pengaturan', component: Settings },

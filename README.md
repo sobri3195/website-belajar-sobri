@@ -1,6 +1,6 @@
 # Belajar Sobri
 
-Belajar Sobri adalah website Vue 3 + Vite yang 100% frontend-only untuk latihan harian Sobri. Aplikasi membantu latihan SIMAK UI, LPDP, dan persiapan seleksi spesialis dengan prioritas Onkologi Radiasi.
+Belajar Sobri adalah website Vue 3 + Vite yang 100% frontend-only untuk latihan harian Sobri. Aplikasi membantu latihan SIMAK UI, LPDP, dan persiapan seleksi spesialis dengan prioritas BTKV.
 
 ## Struktur folder
 
@@ -44,10 +44,10 @@ src/
 
 ## Fitur utama
 
-- Latihan harian minimal 50 soal acak dengan komposisi default 20% SIMAK UI, 20% LPDP, dan 60% Onkologi Radiasi.
+- Latihan harian minimal 50 soal acak dengan komposisi default 20% SIMAK UI, 20% LPDP, dan 60% BTKV.
 - Set soal harian disimpan berdasarkan tanggal agar tidak berubah pada hari yang sama.
 - Progress, jawaban, bookmark, riwayat sesi, streak, dan pengaturan disimpan di LocalStorage.
-- Bank soal lokal berbasis `src/data/questions.json` berisi 150 soal dummy orisinal: 40 SIMAK UI, 40 LPDP, dan 70 Onkologi Radiasi.
+- Bank soal lokal berbasis `src/data/questions.json` berisi 150 soal dummy orisinal: 40 SIMAK UI, 40 LPDP, dan 70 BTKV.
 - Dashboard, halaman kategori, mode kuis satu soal per halaman, statistik Chart.js, dark mode, export/import progress, dan reset data.
 
 ## LocalStorage keys
@@ -100,9 +100,9 @@ Tambahkan objek baru ke `src/data/questions.json` dengan format berikut:
 
 ```json
 {
-  "id": "OR-071",
-  "kategori": "Onkologi Radiasi",
-  "subkategori": "Radiobiologi",
+  "id": "BTKV-101",
+  "kategori": "BTKV",
+  "subkategori": "Kemampuan Verbal",
   "tingkat_kesulitan": "Sedang",
   "pertanyaan": "Isi pertanyaan orisinal...",
   "opsi": {
@@ -114,7 +114,7 @@ Tambahkan objek baru ke `src/data/questions.json` dengan format berikut:
   },
   "jawaban_benar": "C",
   "pembahasan": "Pembahasan lengkap dan edukatif.",
-  "tags": ["radiobiologi", "fraksinasi", "radioterapi"]
+  "tags": ["kemampuan-verbal", "fraksinasi", "verbal"]
 }
 ```
 

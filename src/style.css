@@ -126,3 +126,8 @@
   .daily-plan-card{display:grid}
   .hero-actions .btn{width:100%}
 }
+.question-list-item { cursor: pointer; transition: border-color .15s ease, transform .15s ease; }
+.question-list-item:hover, .question-list-item:focus, .question-list-item.active { border-color: var(--primary); transform: translateY(-1px); outline: none; }
+.empty-state { padding: 2rem; text-align: center; color: var(--muted); }
+.explanation details { margin: 1rem 0; }
+.explanation summary { cursor: pointer; font-weight: 700; }

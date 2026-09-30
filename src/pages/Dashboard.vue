@@ -12,13 +12,13 @@ const settings = computed(getSettings)
 const today = computed(getTodayStats)
 const overall = computed(getOverallStats)
 const bw = computed(getBestWorstCategory)
-const weak = computed(() => getWeakTopics('Onkologi Radiasi')[0]?.topic || 'Radiobiologi')
+const weak = computed(() => getWeakTopics()[0]?.topic || 'Mulai latihan')
 const progressPercent = computed(() => Math.min(100, Math.round((today.value.answered / settings.value.dailyTarget) * 100)))
 
 const focusCards = [
   { title: 'SIMAK UI', copy: 'Latih penalaran kuantitatif, verbal, dan logika dengan paket cepat.', to: '/simak-ui', accent: 'blue' },
   { title: 'LPDP', copy: 'Rapikan wawasan kebangsaan, esai, dan simulasi seleksi beasiswa.', to: '/lpdp', accent: 'purple' },
-  { title: 'Onkologi Radiasi', copy: 'Perkuat radiobiologi, fisika radiasi, staging, dan prinsip klinis.', to: '/onkologi-radiasi', accent: 'green' },
+  { title: 'BTKV', copy: 'Perkuat kosakata akademik, analogi, bacaan, silogisme, dan penalaran verbal.', to: '/btkv', accent: 'green' },
 ]
 </script>
 
@@ -29,7 +29,7 @@ const focusCards = [
         <span class="eyebrow">Dashboard belajar profesional</span>
         <h1>Halo, Sobri. Belajar lebih rapi, terukur, dan konsisten.</h1>
         <p>
-          Target harian {{ settings.dailyTarget }} soal dengan prioritas Onkologi Radiasi, didukung bank soal lokal,
+          Target harian {{ settings.dailyTarget }} soal untuk BTKV, SIMAK UI, dan LPDP, didukung bank soal lokal,
           bookmark, riwayat, statistik, serta pengaturan yang tetap aman di browser.
         </p>
         <div class="hero-actions">
@@ -75,9 +75,9 @@ const focusCards = [
     <div class="card daily-plan-card">
       <div>
         <span class="eyebrow">Rencana hari ini</span>
-        <h2>Pakai pola 20/20/60 agar latihan tetap seimbang.</h2>
+        <h2>Pakai komposisi 60/25/15 agar latihan tetap seimbang.</h2>
         <p>
-          Komposisi mode Semua: 20% SIMAK UI, 20% LPDP, dan 60% Onkologi Radiasi. Gunakan statistik dan riwayat
+          Komposisi mode Semua: 60% BTKV, 25% SIMAK UI, dan 15% LPDP. Gunakan statistik dan riwayat
           untuk mengulang topik yang akurasinya paling rendah.
         </p>
       </div>

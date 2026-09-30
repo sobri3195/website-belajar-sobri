@@ -1,4 +1,4 @@
-import questions from '../data/questions.json'
+import questions from '../data/questions.js'
 import { todayKey } from './dateUtils'
 import { KEYS, getStorage, setStorage, getSettings, getBookmarks } from './storage'
 
@@ -8,10 +8,10 @@ export const getQuestionFrequency = () => getStorage(KEYS.frequency, {})
 export function updateQuestionFrequency(ids) { const freq = getQuestionFrequency(); ids.forEach((id) => { freq[id] = (freq[id] || 0) + 1 }); return setStorage(KEYS.frequency, freq) }
 export function generateRandomQuestions(pool = questions, count = 50) { return sortByFrequency(pool).slice(0, Math.min(count, pool.length)) }
 export function getWeightedQuestions(count = 50) {
-  const simak = generateRandomQuestions(questions.filter((q) => q.kategori === 'SIMAK UI'), Math.round(count * 0.2))
-  const lpdp = generateRandomQuestions(questions.filter((q) => q.kategori === 'LPDP'), Math.round(count * 0.2))
-  const onko = generateRandomQuestions(questions.filter((q) => q.kategori === 'Onkologi Radiasi'), count - simak.length - lpdp.length)
-  return [...simak, ...lpdp, ...onko].sort(() => Math.random() - 0.5)
+  const btkv = generateRandomQuestions(questions.filter((q) => q.kategori === 'BTKV'), Math.round(count * 0.6))
+  const simak = generateRandomQuestions(questions.filter((q) => q.kategori === 'SIMAK UI'), Math.round(count * 0.25))
+  const lpdp = generateRandomQuestions(questions.filter((q) => q.kategori === 'LPDP'), count - btkv.length - simak.length)
+  return [...btkv, ...simak, ...lpdp].sort(() => Math.random() - 0.5)
 }
 export function getDailyQuestions(options = {}) {
   const settings = getSettings(); const date = todayKey(); const daily = getStorage(KEYS.daily, {})

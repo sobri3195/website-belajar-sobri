@@ -1,4 +1,4 @@
-import questions from '../data/questions.json'
+import questions from '../data/questions.js'
 import { todayKey } from './dateUtils'
 import { KEYS, getStorage } from './storage'
 import { getStrongTopics, getWeakTopics } from './quizEngine'
@@ -12,6 +12,6 @@ export function getCategoryStats(category) { const h = history().filter((a) => !
 export function getSubcategoryStats(category) { const map = {}; history().filter((a) => !category || a.kategori === category).forEach((a) => { map[a.subkategori] ||= { subcategory: a.subkategori, total: 0, correct: 0 }; map[a.subkategori].total++; if (a.correct) map[a.subkategori].correct++ }); return Object.values(map).map((x) => ({ ...x, accuracy: pct(x.correct, x.total) })) }
 export function getStreak() { return getStorage(KEYS.streak, { streak: 0, days: [], lastStudyDate: null }) }
 export function getAccuracyTrend() { const map = {}; history().forEach((a) => { const d = todayKey(new Date(a.answeredAt)); map[d] ||= { date: d, total: 0, correct: 0 }; map[d].total++; if (a.correct) map[d].correct++ }); return Object.values(map).sort((a, b) => a.date.localeCompare(b.date)).map((x) => ({ ...x, accuracy: pct(x.correct, x.total) })) }
-export const getWeakestOncologyTopics = () => getWeakTopics('Onkologi Radiasi').slice(0, 5)
-export const getStrongestOncologyTopics = () => getStrongTopics('Onkologi Radiasi').slice(0, 5)
-export function getBestWorstCategory() { const rows = ['SIMAK UI', 'LPDP', 'Onkologi Radiasi'].map(getCategoryStats).filter((x) => x.answered > 0); return { strongest: [...rows].sort((a, b) => b.accuracy - a.accuracy)[0]?.category || 'Belum ada data', weakest: [...rows].sort((a, b) => a.accuracy - b.accuracy)[0]?.category || 'Belum ada data' } }
+export const getWeakestTopics = () => getWeakTopics().slice(0, 5)
+export const getStrongestTopics = () => getStrongTopics().slice(0, 5)
+export function getBestWorstCategory() { const rows = ['BTKV', 'SIMAK UI', 'LPDP'].map(getCategoryStats).filter((x) => x.answered > 0); return { strongest: [...rows].sort((a, b) => b.accuracy - a.accuracy)[0]?.category || 'Belum ada data', weakest: [...rows].sort((a, b) => a.accuracy - b.accuracy)[0]?.category || 'Belum ada data' } }

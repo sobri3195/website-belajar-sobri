@@ -4,10 +4,12 @@ defineEmits(['navigate'])
 const items = [
   ['/', 'Dashboard', '⌂'],
   ['/daily', 'Latihan Harian', '▶'],
+  ['/btkv', 'BTKV', 'Aa'],
   ['/simak-ui', 'SIMAK UI', 'Σ'],
   ['/lpdp', 'LPDP', '◆'],
-  ['/onkologi-radiasi', 'Onkologi Radiasi', '✚'],
   ['/bank-soal', 'Bank Soal', '▤'],
+  ['/daily?mode=simulation', 'Simulasi Ujian', '◉'],
+  ['/review', 'Review Center', '↻'],
   ['/bookmark', 'Bookmark', '★'],
   ['/riwayat', 'Riwayat', '◷'],
   ['/statistik', 'Statistik', '↗'],
@@ -33,7 +35,7 @@ const items = [
 
     <div class="sidebar-note">
       <strong>Mode fokus:</strong>
-      <span>Frontend-only • LocalStorage • 150 soal lokal</span>
+      <span>Frontend-only • LocalStorage • 300 soal lokal</span>
     </div>
   </aside>
 </template>

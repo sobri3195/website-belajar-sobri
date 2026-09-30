@@ -1,17 +1,2 @@
-<script setup>
-defineProps({ open: Boolean })
-defineEmits(['toggle'])
-</script>
-
-<template>
-  <header class="mobile-nav">
-    <button class="icon-btn" type="button" :aria-expanded="open" aria-controls="mobile-drawer" @click="$emit('toggle')">
-      ☰
-    </button>
-    <RouterLink class="mobile-brand" to="/" aria-label="Belajar Sobri Dashboard">
-      <img src="/favicon.svg" alt="" aria-hidden="true" />
-      <strong>Belajar Sobri</strong>
-    </RouterLink>
-    <span class="pill">{{ open ? 'Menu' : 'Belajar' }}</span>
-  </header>
-</template>
+<script setup>defineProps({open:Boolean}); defineEmits(['toggle'])</script>
+<template><header class="mobile-nav"><button class="icon-btn" :aria-expanded="open" @click="$emit('toggle')">☰</button><RouterLink class="mobile-brand" to="/"><img src="/favicon.svg" alt=""/><strong>Belajar Sobri</strong></RouterLink></header><nav class="bottom-nav" aria-label="Navigasi seluler"><RouterLink to="/">⌂<span>Dashboard</span></RouterLink><RouterLink to="/daily">▶<span>Latihan</span></RouterLink><RouterLink to="/bank-soal">▤<span>Bank Soal</span></RouterLink><RouterLink to="/statistik">↗<span>Statistik</span></RouterLink><RouterLink to="/pengaturan">⚙<span>Pengaturan</span></RouterLink></nav></template>

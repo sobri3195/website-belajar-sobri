@@ -4,7 +4,7 @@ const Dashboard = () => import('../pages/Dashboard.vue')
 const DailyPractice = () => import('../pages/DailyPractice.vue')
 const SimakUI = () => import('../pages/SimakUI.vue')
 const LPDP = () => import('../pages/LPDP.vue')
-const OncologyRadiation = () => import('../pages/OncologyRadiation.vue')
+const BTKV = () => import('../pages/BTKV.vue')
 const QuestionBank = () => import('../pages/QuestionBank.vue')
 const Bookmarks = () => import('../pages/Bookmarks.vue')
 const History = () => import('../pages/History.vue')
@@ -18,18 +18,19 @@ const LegalPage = (title, body) => ({
 const routes = [
   { path: '/', component: Dashboard },
   { path: '/privacy', component: LegalPage('Kebijakan Privasi', 'Belajar Sobri hanya memakai data interaksi latihan yang tersimpan lokal di browser untuk menampilkan progres, riwayat, bookmark, statistik, dan pengaturan belajar.') },
-  { path: '/terms', component: LegalPage('Syarat Penggunaan', 'Materi latihan Belajar Sobri ditujukan untuk pendamping belajar SIMAK UI, LPDP, dan Onkologi Radiasi. Konten tidak menggantikan arahan akademik, klinis, atau profesional resmi.') },
+  { path: '/terms', component: LegalPage('Syarat Penggunaan', 'Materi latihan Belajar Sobri ditujukan untuk pendamping belajar SIMAK UI, LPDP, dan BTKV. Konten tidak menggantikan arahan akademik atau profesional resmi.') },
   { path: '/contact', component: LegalPage('Kontak', 'Gunakan menu pengaturan untuk ekspor dan impor data belajar. Untuk publikasi mandiri, sesuaikan kanal kontak sesuai domain Belajar Sobri yang digunakan.') },
   { path: '/dashboard', redirect: '/' },
   { path: '/daily', component: DailyPractice },
   { path: '/simak-ui', component: SimakUI },
   { path: '/lpdp', component: LPDP },
-  { path: '/onkologi-radiasi', component: OncologyRadiation },
+  { path: '/btkv', component: BTKV },
   { path: '/bank-soal', component: QuestionBank },
   { path: '/bookmark', component: Bookmarks },
   { path: '/riwayat', component: History },
   { path: '/statistik', component: Statistics },
   { path: '/pengaturan', component: Settings },
+  { path: '/:pathMatch(.*)*', redirect: '/' },
 ]
 
 export default createRouter({ history: createWebHistory(), routes, scrollBehavior: () => ({ top: 0 }) })

@@ -1680,1472 +1680,6 @@
     ]
   },
   {
-    "id": "OR-001",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Dasar-dasar Onkologi",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Kasus klinis orisinal Dasar-dasar Onkologi: Sobri menilai pasien kanker pada skenario ke-1. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Dasar-dasar Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "dasar-dasar-onkologi",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-002",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Radiobiologi",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Fraksinasi radioterapi umumnya memanfaatkan perbedaan kemampuan perbaikan jaringan normal dan tumor. Konsep mana yang paling relevan?",
-    "opsi": {
-      "A": "Repair, reoxygenation, redistribution, repopulation, dan radiosensitivity adalah kerangka 5R",
-      "B": "Hanya ukuran lapangan yang menentukan respons biologis",
-      "C": "Terapi radiasi tidak dipengaruhi oksigenasi",
-      "D": "Semua tumor selalu memiliki alfa beta sama",
-      "E": "Efek biologis tidak dipengaruhi waktu total"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Radiobiologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "radiobiologi",
-      "fraksinasi",
-      "5R"
-    ]
-  },
-  {
-    "id": "OR-003",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Fisika Radiasi Dasar",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Pada perencanaan radioterapi, verifikasi dosis dan geometri penting sebelum terapi. Tujuan utamanya adalah?",
-    "opsi": {
-      "A": "Menjamin dosis mengenai target dan membatasi organ sehat sesuai rencana",
-      "B": "Mengganti kebutuhan konturing target",
-      "C": "Membuat seluruh tubuh menerima dosis homogen",
-      "D": "Menghilangkan kebutuhan informed consent",
-      "E": "Menentukan diagnosis histopatologi"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Fisika Radiasi Dasar, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "fisika-radiasi",
-      "quality-assurance",
-      "dosis"
-    ]
-  },
-  {
-    "id": "OR-004",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Prinsip Radioterapi",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Seorang pasien memiliki target tumor dekat organ kritis. Prinsip perencanaan yang paling tepat adalah?",
-    "opsi": {
-      "A": "Maksimalkan dosis target dengan optimasi batas dosis organ risiko",
-      "B": "Selalu gunakan satu lapangan sederhana tanpa evaluasi DVH",
-      "C": "Abaikan organ risiko bila tumor agresif",
-      "D": "Tunda semua terapi sampai tumor mengecil spontan",
-      "E": "Berikan dosis sama pada semua jaringan"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Prinsip Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "radioterapi",
-      "planning",
-      "organ-risk"
-    ]
-  },
-  {
-    "id": "OR-005",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Anatomi dan Staging Kanker",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Kasus klinis orisinal Anatomi dan Staging Kanker: Sobri menilai pasien kanker pada skenario ke-5. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Anatomi dan Staging Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "anatomi-dan-staging-kanker",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-006",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Kepala Leher",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Kasus klinis orisinal Kanker Kepala Leher: Sobri menilai pasien kanker pada skenario ke-6. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Kepala Leher, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-kepala-leher",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-007",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Payudara",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Kasus klinis orisinal Kanker Payudara: Sobri menilai pasien kanker pada skenario ke-7. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Payudara, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-payudara",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-008",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Paru",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Kasus klinis orisinal Kanker Paru: Sobri menilai pasien kanker pada skenario ke-8. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Paru, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-paru",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-009",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Serviks",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Kasus klinis orisinal Kanker Serviks: Sobri menilai pasien kanker pada skenario ke-9. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Serviks, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-serviks",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-010",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Prostat",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Kasus klinis orisinal Kanker Prostat: Sobri menilai pasien kanker pada skenario ke-10. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Prostat, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-prostat",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-011",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Kolorektal",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Kasus klinis orisinal Kanker Kolorektal: Sobri menilai pasien kanker pada skenario ke-11. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Kolorektal, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-kolorektal",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-012",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Anak",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Kasus klinis orisinal Kanker Anak: Sobri menilai pasien kanker pada skenario ke-12. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Anak, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-anak",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-013",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Paliatif Onkologi",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Kasus klinis orisinal Paliatif Onkologi: Sobri menilai pasien kanker pada skenario ke-13. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Paliatif Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "paliatif-onkologi",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-014",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Efek Samping Radioterapi",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Pasien mengeluh mukositis selama radiasi kepala leher. Pendekatan awal yang tepat adalah?",
-    "opsi": {
-      "A": "Edukasi perawatan mulut, analgesia, nutrisi, dan evaluasi derajat toksisitas",
-      "B": "Menghentikan permanen semua terapi tanpa penilaian",
-      "C": "Memberi antibiotik intravena pada semua kasus ringan",
-      "D": "Mengabaikan keluhan karena selalu normal",
-      "E": "Melarang asupan cairan agar saliva berkurang"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Efek Samping Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "toksisitas",
-      "mukositis",
-      "suportif"
-    ]
-  },
-  {
-    "id": "OR-015",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Emergency dalam Onkologi",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Pasien kanker paru datang dengan kelemahan tungkai progresif dan nyeri punggung. Tindakan paling prioritas adalah?",
-    "opsi": {
-      "A": "Curiga kompresi medula, lakukan evaluasi segera dan koordinasi terapi emergensi",
-      "B": "Menunggu kontrol rutin bulan depan",
-      "C": "Memberi vitamin saja tanpa pemeriksaan neurologis",
-      "D": "Melakukan latihan berat untuk memperkuat tungkai",
-      "E": "Menganggap keluhan sebagai cemas semata"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Emergency dalam Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "emergency-onkologi",
-      "spinal-cord-compression"
-    ]
-  },
-  {
-    "id": "OR-016",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Etika dan Komunikasi Pasien Kanker",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Saat menjelaskan radioterapi, komunikasi yang paling etis adalah?",
-    "opsi": {
-      "A": "Menjelaskan tujuan, manfaat, risiko, alternatif, dan memberi ruang pertanyaan",
-      "B": "Menjamin kesembuhan 100% agar pasien tenang",
-      "C": "Menyembunyikan efek samping agar pasien tidak takut",
-      "D": "Meminta keluarga memutuskan tanpa melibatkan pasien kompeten",
-      "E": "Menggunakan istilah teknis tanpa klarifikasi"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Etika dan Komunikasi Pasien Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "etik",
-      "komunikasi",
-      "informed-consent"
-    ]
-  },
-  {
-    "id": "OR-017",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Dasar-dasar Onkologi",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Kasus klinis orisinal Dasar-dasar Onkologi: Sobri menilai pasien kanker pada skenario ke-17. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Dasar-dasar Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "dasar-dasar-onkologi",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-018",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Radiobiologi",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Fraksinasi radioterapi umumnya memanfaatkan perbedaan kemampuan perbaikan jaringan normal dan tumor. Konsep mana yang paling relevan?",
-    "opsi": {
-      "A": "Repair, reoxygenation, redistribution, repopulation, dan radiosensitivity adalah kerangka 5R",
-      "B": "Hanya ukuran lapangan yang menentukan respons biologis",
-      "C": "Terapi radiasi tidak dipengaruhi oksigenasi",
-      "D": "Semua tumor selalu memiliki alfa beta sama",
-      "E": "Efek biologis tidak dipengaruhi waktu total"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Radiobiologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "radiobiologi",
-      "fraksinasi",
-      "5R"
-    ]
-  },
-  {
-    "id": "OR-019",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Fisika Radiasi Dasar",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Pada perencanaan radioterapi, verifikasi dosis dan geometri penting sebelum terapi. Tujuan utamanya adalah?",
-    "opsi": {
-      "A": "Menjamin dosis mengenai target dan membatasi organ sehat sesuai rencana",
-      "B": "Mengganti kebutuhan konturing target",
-      "C": "Membuat seluruh tubuh menerima dosis homogen",
-      "D": "Menghilangkan kebutuhan informed consent",
-      "E": "Menentukan diagnosis histopatologi"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Fisika Radiasi Dasar, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "fisika-radiasi",
-      "quality-assurance",
-      "dosis"
-    ]
-  },
-  {
-    "id": "OR-020",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Prinsip Radioterapi",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Seorang pasien memiliki target tumor dekat organ kritis. Prinsip perencanaan yang paling tepat adalah?",
-    "opsi": {
-      "A": "Maksimalkan dosis target dengan optimasi batas dosis organ risiko",
-      "B": "Selalu gunakan satu lapangan sederhana tanpa evaluasi DVH",
-      "C": "Abaikan organ risiko bila tumor agresif",
-      "D": "Tunda semua terapi sampai tumor mengecil spontan",
-      "E": "Berikan dosis sama pada semua jaringan"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Prinsip Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "radioterapi",
-      "planning",
-      "organ-risk"
-    ]
-  },
-  {
-    "id": "OR-021",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Anatomi dan Staging Kanker",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Kasus klinis orisinal Anatomi dan Staging Kanker: Sobri menilai pasien kanker pada skenario ke-21. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Anatomi dan Staging Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "anatomi-dan-staging-kanker",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-022",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Kepala Leher",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Kasus klinis orisinal Kanker Kepala Leher: Sobri menilai pasien kanker pada skenario ke-22. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Kepala Leher, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-kepala-leher",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-023",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Payudara",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Kasus klinis orisinal Kanker Payudara: Sobri menilai pasien kanker pada skenario ke-23. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Payudara, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-payudara",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-024",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Paru",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Kasus klinis orisinal Kanker Paru: Sobri menilai pasien kanker pada skenario ke-24. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Paru, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-paru",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-025",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Serviks",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Kasus klinis orisinal Kanker Serviks: Sobri menilai pasien kanker pada skenario ke-25. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Serviks, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-serviks",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-026",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Prostat",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Kasus klinis orisinal Kanker Prostat: Sobri menilai pasien kanker pada skenario ke-26. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Prostat, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-prostat",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-027",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Kolorektal",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Kasus klinis orisinal Kanker Kolorektal: Sobri menilai pasien kanker pada skenario ke-27. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Kolorektal, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-kolorektal",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-028",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Anak",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Kasus klinis orisinal Kanker Anak: Sobri menilai pasien kanker pada skenario ke-28. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Anak, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-anak",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-029",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Paliatif Onkologi",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Kasus klinis orisinal Paliatif Onkologi: Sobri menilai pasien kanker pada skenario ke-29. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Paliatif Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "paliatif-onkologi",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-030",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Efek Samping Radioterapi",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Pasien mengeluh mukositis selama radiasi kepala leher. Pendekatan awal yang tepat adalah?",
-    "opsi": {
-      "A": "Edukasi perawatan mulut, analgesia, nutrisi, dan evaluasi derajat toksisitas",
-      "B": "Menghentikan permanen semua terapi tanpa penilaian",
-      "C": "Memberi antibiotik intravena pada semua kasus ringan",
-      "D": "Mengabaikan keluhan karena selalu normal",
-      "E": "Melarang asupan cairan agar saliva berkurang"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Efek Samping Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "toksisitas",
-      "mukositis",
-      "suportif"
-    ]
-  },
-  {
-    "id": "OR-031",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Emergency dalam Onkologi",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Pasien kanker paru datang dengan kelemahan tungkai progresif dan nyeri punggung. Tindakan paling prioritas adalah?",
-    "opsi": {
-      "A": "Curiga kompresi medula, lakukan evaluasi segera dan koordinasi terapi emergensi",
-      "B": "Menunggu kontrol rutin bulan depan",
-      "C": "Memberi vitamin saja tanpa pemeriksaan neurologis",
-      "D": "Melakukan latihan berat untuk memperkuat tungkai",
-      "E": "Menganggap keluhan sebagai cemas semata"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Emergency dalam Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "emergency-onkologi",
-      "spinal-cord-compression"
-    ]
-  },
-  {
-    "id": "OR-032",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Etika dan Komunikasi Pasien Kanker",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Saat menjelaskan radioterapi, komunikasi yang paling etis adalah?",
-    "opsi": {
-      "A": "Menjelaskan tujuan, manfaat, risiko, alternatif, dan memberi ruang pertanyaan",
-      "B": "Menjamin kesembuhan 100% agar pasien tenang",
-      "C": "Menyembunyikan efek samping agar pasien tidak takut",
-      "D": "Meminta keluarga memutuskan tanpa melibatkan pasien kompeten",
-      "E": "Menggunakan istilah teknis tanpa klarifikasi"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Etika dan Komunikasi Pasien Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "etik",
-      "komunikasi",
-      "informed-consent"
-    ]
-  },
-  {
-    "id": "OR-033",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Dasar-dasar Onkologi",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Kasus klinis orisinal Dasar-dasar Onkologi: Sobri menilai pasien kanker pada skenario ke-33. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Dasar-dasar Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "dasar-dasar-onkologi",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-034",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Radiobiologi",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Fraksinasi radioterapi umumnya memanfaatkan perbedaan kemampuan perbaikan jaringan normal dan tumor. Konsep mana yang paling relevan?",
-    "opsi": {
-      "A": "Repair, reoxygenation, redistribution, repopulation, dan radiosensitivity adalah kerangka 5R",
-      "B": "Hanya ukuran lapangan yang menentukan respons biologis",
-      "C": "Terapi radiasi tidak dipengaruhi oksigenasi",
-      "D": "Semua tumor selalu memiliki alfa beta sama",
-      "E": "Efek biologis tidak dipengaruhi waktu total"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Radiobiologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "radiobiologi",
-      "fraksinasi",
-      "5R"
-    ]
-  },
-  {
-    "id": "OR-035",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Fisika Radiasi Dasar",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Pada perencanaan radioterapi, verifikasi dosis dan geometri penting sebelum terapi. Tujuan utamanya adalah?",
-    "opsi": {
-      "A": "Menjamin dosis mengenai target dan membatasi organ sehat sesuai rencana",
-      "B": "Mengganti kebutuhan konturing target",
-      "C": "Membuat seluruh tubuh menerima dosis homogen",
-      "D": "Menghilangkan kebutuhan informed consent",
-      "E": "Menentukan diagnosis histopatologi"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Fisika Radiasi Dasar, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "fisika-radiasi",
-      "quality-assurance",
-      "dosis"
-    ]
-  },
-  {
-    "id": "OR-036",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Prinsip Radioterapi",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Seorang pasien memiliki target tumor dekat organ kritis. Prinsip perencanaan yang paling tepat adalah?",
-    "opsi": {
-      "A": "Maksimalkan dosis target dengan optimasi batas dosis organ risiko",
-      "B": "Selalu gunakan satu lapangan sederhana tanpa evaluasi DVH",
-      "C": "Abaikan organ risiko bila tumor agresif",
-      "D": "Tunda semua terapi sampai tumor mengecil spontan",
-      "E": "Berikan dosis sama pada semua jaringan"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Prinsip Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "radioterapi",
-      "planning",
-      "organ-risk"
-    ]
-  },
-  {
-    "id": "OR-037",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Anatomi dan Staging Kanker",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Kasus klinis orisinal Anatomi dan Staging Kanker: Sobri menilai pasien kanker pada skenario ke-37. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Anatomi dan Staging Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "anatomi-dan-staging-kanker",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-038",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Kepala Leher",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Kasus klinis orisinal Kanker Kepala Leher: Sobri menilai pasien kanker pada skenario ke-38. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Kepala Leher, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-kepala-leher",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-039",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Payudara",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Kasus klinis orisinal Kanker Payudara: Sobri menilai pasien kanker pada skenario ke-39. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Payudara, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-payudara",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-040",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Paru",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Kasus klinis orisinal Kanker Paru: Sobri menilai pasien kanker pada skenario ke-40. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Paru, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-paru",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-041",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Serviks",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Kasus klinis orisinal Kanker Serviks: Sobri menilai pasien kanker pada skenario ke-41. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Serviks, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-serviks",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-042",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Prostat",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Kasus klinis orisinal Kanker Prostat: Sobri menilai pasien kanker pada skenario ke-42. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Prostat, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-prostat",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-043",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Kolorektal",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Kasus klinis orisinal Kanker Kolorektal: Sobri menilai pasien kanker pada skenario ke-43. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Kolorektal, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-kolorektal",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-044",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Anak",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Kasus klinis orisinal Kanker Anak: Sobri menilai pasien kanker pada skenario ke-44. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Anak, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-anak",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-045",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Paliatif Onkologi",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Kasus klinis orisinal Paliatif Onkologi: Sobri menilai pasien kanker pada skenario ke-45. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Paliatif Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "paliatif-onkologi",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-046",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Efek Samping Radioterapi",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Pasien mengeluh mukositis selama radiasi kepala leher. Pendekatan awal yang tepat adalah?",
-    "opsi": {
-      "A": "Edukasi perawatan mulut, analgesia, nutrisi, dan evaluasi derajat toksisitas",
-      "B": "Menghentikan permanen semua terapi tanpa penilaian",
-      "C": "Memberi antibiotik intravena pada semua kasus ringan",
-      "D": "Mengabaikan keluhan karena selalu normal",
-      "E": "Melarang asupan cairan agar saliva berkurang"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Efek Samping Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "toksisitas",
-      "mukositis",
-      "suportif"
-    ]
-  },
-  {
-    "id": "OR-047",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Emergency dalam Onkologi",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Pasien kanker paru datang dengan kelemahan tungkai progresif dan nyeri punggung. Tindakan paling prioritas adalah?",
-    "opsi": {
-      "A": "Curiga kompresi medula, lakukan evaluasi segera dan koordinasi terapi emergensi",
-      "B": "Menunggu kontrol rutin bulan depan",
-      "C": "Memberi vitamin saja tanpa pemeriksaan neurologis",
-      "D": "Melakukan latihan berat untuk memperkuat tungkai",
-      "E": "Menganggap keluhan sebagai cemas semata"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Emergency dalam Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "emergency-onkologi",
-      "spinal-cord-compression"
-    ]
-  },
-  {
-    "id": "OR-048",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Etika dan Komunikasi Pasien Kanker",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Saat menjelaskan radioterapi, komunikasi yang paling etis adalah?",
-    "opsi": {
-      "A": "Menjelaskan tujuan, manfaat, risiko, alternatif, dan memberi ruang pertanyaan",
-      "B": "Menjamin kesembuhan 100% agar pasien tenang",
-      "C": "Menyembunyikan efek samping agar pasien tidak takut",
-      "D": "Meminta keluarga memutuskan tanpa melibatkan pasien kompeten",
-      "E": "Menggunakan istilah teknis tanpa klarifikasi"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Etika dan Komunikasi Pasien Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "etik",
-      "komunikasi",
-      "informed-consent"
-    ]
-  },
-  {
-    "id": "OR-049",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Dasar-dasar Onkologi",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Kasus klinis orisinal Dasar-dasar Onkologi: Sobri menilai pasien kanker pada skenario ke-49. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Dasar-dasar Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "dasar-dasar-onkologi",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-050",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Radiobiologi",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Fraksinasi radioterapi umumnya memanfaatkan perbedaan kemampuan perbaikan jaringan normal dan tumor. Konsep mana yang paling relevan?",
-    "opsi": {
-      "A": "Repair, reoxygenation, redistribution, repopulation, dan radiosensitivity adalah kerangka 5R",
-      "B": "Hanya ukuran lapangan yang menentukan respons biologis",
-      "C": "Terapi radiasi tidak dipengaruhi oksigenasi",
-      "D": "Semua tumor selalu memiliki alfa beta sama",
-      "E": "Efek biologis tidak dipengaruhi waktu total"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Radiobiologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "radiobiologi",
-      "fraksinasi",
-      "5R"
-    ]
-  },
-  {
-    "id": "OR-051",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Fisika Radiasi Dasar",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Pada perencanaan radioterapi, verifikasi dosis dan geometri penting sebelum terapi. Tujuan utamanya adalah?",
-    "opsi": {
-      "A": "Menjamin dosis mengenai target dan membatasi organ sehat sesuai rencana",
-      "B": "Mengganti kebutuhan konturing target",
-      "C": "Membuat seluruh tubuh menerima dosis homogen",
-      "D": "Menghilangkan kebutuhan informed consent",
-      "E": "Menentukan diagnosis histopatologi"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Fisika Radiasi Dasar, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "fisika-radiasi",
-      "quality-assurance",
-      "dosis"
-    ]
-  },
-  {
-    "id": "OR-052",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Prinsip Radioterapi",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Seorang pasien memiliki target tumor dekat organ kritis. Prinsip perencanaan yang paling tepat adalah?",
-    "opsi": {
-      "A": "Maksimalkan dosis target dengan optimasi batas dosis organ risiko",
-      "B": "Selalu gunakan satu lapangan sederhana tanpa evaluasi DVH",
-      "C": "Abaikan organ risiko bila tumor agresif",
-      "D": "Tunda semua terapi sampai tumor mengecil spontan",
-      "E": "Berikan dosis sama pada semua jaringan"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Prinsip Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "radioterapi",
-      "planning",
-      "organ-risk"
-    ]
-  },
-  {
-    "id": "OR-053",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Anatomi dan Staging Kanker",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Kasus klinis orisinal Anatomi dan Staging Kanker: Sobri menilai pasien kanker pada skenario ke-53. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Anatomi dan Staging Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "anatomi-dan-staging-kanker",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-054",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Kepala Leher",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Kasus klinis orisinal Kanker Kepala Leher: Sobri menilai pasien kanker pada skenario ke-54. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Kepala Leher, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-kepala-leher",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-055",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Payudara",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Kasus klinis orisinal Kanker Payudara: Sobri menilai pasien kanker pada skenario ke-55. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Payudara, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-payudara",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-056",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Paru",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Kasus klinis orisinal Kanker Paru: Sobri menilai pasien kanker pada skenario ke-56. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Paru, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-paru",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-057",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Serviks",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Kasus klinis orisinal Kanker Serviks: Sobri menilai pasien kanker pada skenario ke-57. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Serviks, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-serviks",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-058",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Prostat",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Kasus klinis orisinal Kanker Prostat: Sobri menilai pasien kanker pada skenario ke-58. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Prostat, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-prostat",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-059",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Kolorektal",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Kasus klinis orisinal Kanker Kolorektal: Sobri menilai pasien kanker pada skenario ke-59. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Kolorektal, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-kolorektal",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-060",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Anak",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Kasus klinis orisinal Kanker Anak: Sobri menilai pasien kanker pada skenario ke-60. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Anak, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-anak",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-061",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Paliatif Onkologi",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Kasus klinis orisinal Paliatif Onkologi: Sobri menilai pasien kanker pada skenario ke-61. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Paliatif Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "paliatif-onkologi",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-062",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Efek Samping Radioterapi",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Pasien mengeluh mukositis selama radiasi kepala leher. Pendekatan awal yang tepat adalah?",
-    "opsi": {
-      "A": "Edukasi perawatan mulut, analgesia, nutrisi, dan evaluasi derajat toksisitas",
-      "B": "Menghentikan permanen semua terapi tanpa penilaian",
-      "C": "Memberi antibiotik intravena pada semua kasus ringan",
-      "D": "Mengabaikan keluhan karena selalu normal",
-      "E": "Melarang asupan cairan agar saliva berkurang"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Efek Samping Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "toksisitas",
-      "mukositis",
-      "suportif"
-    ]
-  },
-  {
-    "id": "OR-063",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Emergency dalam Onkologi",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Pasien kanker paru datang dengan kelemahan tungkai progresif dan nyeri punggung. Tindakan paling prioritas adalah?",
-    "opsi": {
-      "A": "Curiga kompresi medula, lakukan evaluasi segera dan koordinasi terapi emergensi",
-      "B": "Menunggu kontrol rutin bulan depan",
-      "C": "Memberi vitamin saja tanpa pemeriksaan neurologis",
-      "D": "Melakukan latihan berat untuk memperkuat tungkai",
-      "E": "Menganggap keluhan sebagai cemas semata"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Emergency dalam Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "emergency-onkologi",
-      "spinal-cord-compression"
-    ]
-  },
-  {
-    "id": "OR-064",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Etika dan Komunikasi Pasien Kanker",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Saat menjelaskan radioterapi, komunikasi yang paling etis adalah?",
-    "opsi": {
-      "A": "Menjelaskan tujuan, manfaat, risiko, alternatif, dan memberi ruang pertanyaan",
-      "B": "Menjamin kesembuhan 100% agar pasien tenang",
-      "C": "Menyembunyikan efek samping agar pasien tidak takut",
-      "D": "Meminta keluarga memutuskan tanpa melibatkan pasien kompeten",
-      "E": "Menggunakan istilah teknis tanpa klarifikasi"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Etika dan Komunikasi Pasien Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "etik",
-      "komunikasi",
-      "informed-consent"
-    ]
-  },
-  {
-    "id": "OR-065",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Dasar-dasar Onkologi",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Kasus klinis orisinal Dasar-dasar Onkologi: Sobri menilai pasien kanker pada skenario ke-65. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Dasar-dasar Onkologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "dasar-dasar-onkologi",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-066",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Radiobiologi",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Fraksinasi radioterapi umumnya memanfaatkan perbedaan kemampuan perbaikan jaringan normal dan tumor. Konsep mana yang paling relevan?",
-    "opsi": {
-      "A": "Repair, reoxygenation, redistribution, repopulation, dan radiosensitivity adalah kerangka 5R",
-      "B": "Hanya ukuran lapangan yang menentukan respons biologis",
-      "C": "Terapi radiasi tidak dipengaruhi oksigenasi",
-      "D": "Semua tumor selalu memiliki alfa beta sama",
-      "E": "Efek biologis tidak dipengaruhi waktu total"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Radiobiologi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "radiobiologi",
-      "fraksinasi",
-      "5R"
-    ]
-  },
-  {
-    "id": "OR-067",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Fisika Radiasi Dasar",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Pada perencanaan radioterapi, verifikasi dosis dan geometri penting sebelum terapi. Tujuan utamanya adalah?",
-    "opsi": {
-      "A": "Menjamin dosis mengenai target dan membatasi organ sehat sesuai rencana",
-      "B": "Mengganti kebutuhan konturing target",
-      "C": "Membuat seluruh tubuh menerima dosis homogen",
-      "D": "Menghilangkan kebutuhan informed consent",
-      "E": "Menentukan diagnosis histopatologi"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Fisika Radiasi Dasar, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "fisika-radiasi",
-      "quality-assurance",
-      "dosis"
-    ]
-  },
-  {
-    "id": "OR-068",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Prinsip Radioterapi",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Seorang pasien memiliki target tumor dekat organ kritis. Prinsip perencanaan yang paling tepat adalah?",
-    "opsi": {
-      "A": "Maksimalkan dosis target dengan optimasi batas dosis organ risiko",
-      "B": "Selalu gunakan satu lapangan sederhana tanpa evaluasi DVH",
-      "C": "Abaikan organ risiko bila tumor agresif",
-      "D": "Tunda semua terapi sampai tumor mengecil spontan",
-      "E": "Berikan dosis sama pada semua jaringan"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Prinsip Radioterapi, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "radioterapi",
-      "planning",
-      "organ-risk"
-    ]
-  },
-  {
-    "id": "OR-069",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Anatomi dan Staging Kanker",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "Kasus klinis orisinal Anatomi dan Staging Kanker: Sobri menilai pasien kanker pada skenario ke-69. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Anatomi dan Staging Kanker, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "anatomi-dan-staging-kanker",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
-    "id": "OR-070",
-    "kategori": "Onkologi Radiasi",
-    "subkategori": "Kanker Kepala Leher",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Kasus klinis orisinal Kanker Kepala Leher: Sobri menilai pasien kanker pada skenario ke-70. Prinsip keputusan apa yang paling tepat?",
-    "opsi": {
-      "A": "Menentukan tujuan terapi, stadium, kondisi pasien, bukti klinis, dan preferensi pasien",
-      "B": "Memilih radiasi tanpa diagnosis dan staging",
-      "C": "Mengabaikan performa status pasien",
-      "D": "Menggunakan regimen sama untuk semua kanker",
-      "E": "Menunda edukasi sampai terapi selesai"
-    },
-    "jawaban_benar": "A",
-    "pembahasan": "Pada topik Kanker Kepala Leher, keputusan radioterapi harus menggabungkan tujuan klinis, keamanan, bukti, dan komunikasi pasien. Opsi A paling tepat karena selaras dengan prinsip onkologi radiasi yang aman dan edukatif.",
-    "tags": [
-      "kanker-kepala-leher",
-      "onkologi-radiasi",
-      "kasus"
-    ]
-  },
-  {
     "id": "KV-001",
     "kategori": "SIMAK UI",
     "subkategori": "Kemampuan Verbal",
@@ -4979,503 +3513,2103 @@
     ]
   },
   {
-    "id": "TBS-001",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "3, 8, 15, 24, ..., ...",
-    "opsi": {
-      "A": "33 dan 48",
-      "B": "34 dan 47",
-      "C": "35 dan 48",
-      "D": "35 dan 44",
-      "E": "33 dan 47"
-    },
-    "jawaban_benar": "C",
-    "pembahasan": "Selisih berurutan +5, +7, +9, +11, +13 sehingga suku berikutnya 35 dan 48.",
-    "tags": [
-      "tbs",
-      "try-out"
-    ]
-  },
-  {
-    "id": "TBS-002",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "1, 1, 4, 8, 9, 27, ..., ...",
-    "opsi": {
-      "A": "15 dan 64",
-      "B": "17 dan 64",
-      "C": "64 dan 15",
-      "D": "64 dan 16",
-      "E": "16 dan 64"
-    },
-    "jawaban_benar": "E",
-    "pembahasan": "Pola bergantian kuadrat dan kubik: 1²,1³,2²,2³,3²,3³,4²,4³.",
-    "tags": [
-      "tbs",
-      "try-out"
-    ]
-  },
-  {
-    "id": "TBS-003",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "16, 32, 30, … , 26, 132",
-    "opsi": {
-      "A": "64",
-      "B": "68",
-      "C": "76",
-      "D": "84",
-      "E": "122"
-    },
-    "jawaban_benar": "D",
-    "pembahasan": "Soal asli tampak tidak konsisten; opsi yang dipilih mengikuti pola terdekat pada susunan angka.",
-    "tags": [
-      "tbs",
-      "try-out"
-    ]
-  },
-  {
-    "id": "TBS-004",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
+    "id": "BTKV-001",
+    "kategori": "BTKV",
+    "subkategori": "Kemampuan Verbal",
     "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "3, 7, 15, …, …, 127, 255",
+    "pertanyaan": "Kalimat paling efektif adalah ... (Paket 1)",
     "opsi": {
-      "A": "31 63",
-      "B": "34 42",
-      "C": "25 16",
-      "D": "22 25",
-      "E": "38 14"
+      "A": "Tim menyelesaikan laporan tepat waktu.",
+      "B": "Tim daripada menyelesaikan laporan.",
+      "C": "Laporan diselesaikan oleh tim adalah tepat.",
+      "D": "Tim agar supaya menyelesaikan laporan.",
+      "E": "Tim menyelesaikan daripada laporan."
     },
     "jawaban_benar": "A",
-    "pembahasan": "Pola x2+1: 3,7,15,31,63,127,255.",
+    "pembahasan": "Opsi A tepat. Tim menyelesaikan laporan tepat waktu. merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal kemampuan verbal ini.",
     "tags": [
-      "tbs",
-      "try-out"
+      "btkv",
+      "kemampuan-verbal",
+      "verbal"
     ]
   },
   {
-    "id": "TBS-005",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
+    "id": "BTKV-002",
+    "kategori": "BTKV",
+    "subkategori": "Sinonim",
     "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "2, 3, 5, …, …, 21, 34",
+    "pertanyaan": "Cermat (Paket 1)",
     "opsi": {
-      "A": "7, 12",
-      "B": "8, 13",
-      "C": "7, 13",
-      "D": "8, 12",
-      "E": "7, 9"
+      "A": "teliti",
+      "B": "ceroboh",
+      "C": "lambat",
+      "D": "ragu",
+      "E": "keras"
     },
-    "jawaban_benar": "B",
-    "pembahasan": "Setiap suku adalah jumlah dua suku sebelumnya: 2,3,5,8,13,21,34.",
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Teliti merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal sinonim ini.",
     "tags": [
-      "tbs",
-      "try-out"
+      "btkv",
+      "sinonim",
+      "verbal"
     ]
   },
   {
-    "id": "TBS-006",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "E, H, A, J, M, B, ...",
-    "opsi": {
-      "A": "L, O",
-      "B": "O, R",
-      "C": "R, U",
-      "D": "P, S",
-      "E": "O, Q"
-    },
-    "jawaban_benar": "B",
-    "pembahasan": "Pola tiga deret: E-J-O, H-M-R, A-B-C.",
-    "tags": [
-      "tbs",
-      "try-out"
-    ]
-  },
-  {
-    "id": "TBS-007",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Perjalanan 450 km memakan waktu 1 jam lebih sedikit jika kecepatan rata-rata S dinaikkan 5 km/jam. Berapa S?",
-    "opsi": {
-      "A": "10",
-      "B": "40",
-      "C": "45",
-      "D": "50",
-      "E": "55"
-    },
-    "jawaban_benar": "C",
-    "pembahasan": "450/S - 450/(S+5)=1 menghasilkan S=45.",
-    "tags": [
-      "tbs",
-      "try-out"
-    ]
-  },
-  {
-    "id": "TBS-008",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
-    "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "x - y = 3 dan 2x = 2y + 6. Ada berapa banyak solusi?",
-    "opsi": {
-      "A": "Tidak ada",
-      "B": "Tepat satu",
-      "C": "Tepat dua",
-      "D": "Tepat tiga",
-      "E": "Tak terhingga"
-    },
-    "jawaban_benar": "E",
-    "pembahasan": "Persamaan kedua ekuivalen dengan x-y=3 sehingga solusinya tak terhingga pada satu garis.",
-    "tags": [
-      "tbs",
-      "try-out"
-    ]
-  },
-  {
-    "id": "TBS-009",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "a<-1, d>1, -1<b<0, 0<c<1. Manakah nilai terbesar?",
-    "opsi": {
-      "A": "b − a",
-      "B": "b − c",
-      "C": "b − d",
-      "D": "c − a",
-      "E": "a − c"
-    },
-    "jawaban_benar": "D",
-    "pembahasan": "Karena c>b dan -a bernilai positif besar, c-a lebih besar daripada b-a.",
-    "tags": [
-      "tbs",
-      "try-out"
-    ]
-  },
-  {
-    "id": "TBS-010",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
+    "id": "BTKV-003",
+    "kategori": "BTKV",
+    "subkategori": "Antonim",
     "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "a, b, c sisi segitiga siku-siku. Luas? (1) a=4. (2) a+b+c=12.",
+    "pertanyaan": "Optimistis (Paket 1)",
     "opsi": {
-      "A": "A",
-      "B": "B",
-      "C": "C",
-      "D": "D",
-      "E": "E"
+      "A": "pesimistis",
+      "B": "yakin",
+      "C": "gembira",
+      "D": "tekun",
+      "E": "ramah"
     },
-    "jawaban_benar": "C",
-    "pembahasan": "Masing-masing pernyataan sendiri tidak cukup, bersama-sama cukup menentukan segitiga 3-4-5.",
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Pesimistis merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal antonim ini.",
     "tags": [
-      "tbs",
-      "try-out"
+      "btkv",
+      "antonim",
+      "verbal"
     ]
   },
   {
-    "id": "TBS-011",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
-    "tingkat_kesulitan": "Sulit",
-    "pertanyaan": "A dan B bergiliran masing-masing 2 hari. Kasus A dulu 10 hari, B dulu 10,5 hari. Waktu jika bekerja bersama?",
-    "opsi": {
-      "A": "46/9",
-      "B": "50/9",
-      "C": "50/11",
-      "D": "36/7",
-      "E": "210/41"
-    },
-    "jawaban_benar": "E",
-    "pembahasan": "Soal sumber memiliki ketidakkonsistenan redaksi; jawaban diset ke opsi terakhir sebagai placeholder.",
-    "tags": [
-      "tbs",
-      "try-out"
-    ]
-  },
-  {
-    "id": "TBS-012",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
+    "id": "BTKV-004",
+    "kategori": "BTKV",
+    "subkategori": "Analogi",
     "tingkat_kesulitan": "Mudah",
-    "pertanyaan": "Jarak A-B 320 km. Kecepatan 30 km/jam dan 50 km/jam berlawanan arah mulai 08.00. Berpapasan pukul?",
+    "pertanyaan": "Buku : Membaca (Paket 1)",
     "opsi": {
-      "A": "10.00",
-      "B": "11.00",
-      "C": "12.00",
-      "D": "13.00",
-      "E": "14.00"
+      "A": "Garpu : Makan",
+      "B": "Pensil : Kertas",
+      "C": "Meja : Kursi",
+      "D": "Air : Gelas",
+      "E": "Pintu : Rumah"
     },
-    "jawaban_benar": "C",
-    "pembahasan": "Kecepatan relatif 80 km/jam, waktu 4 jam dari 08.00.",
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Garpu : makan merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal analogi ini.",
     "tags": [
-      "tbs",
-      "try-out"
+      "btkv",
+      "analogi",
+      "verbal"
     ]
   },
   {
-    "id": "TBS-013",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
+    "id": "BTKV-005",
+    "kategori": "BTKV",
+    "subkategori": "Padanan Kata",
     "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Soal Try Out TBS nomor 13 (mengandung gambar pada sumber formulir).",
+    "pertanyaan": "Integritas (Paket 1)",
     "opsi": {
-      "A": "A",
-      "B": "B",
-      "C": "C",
-      "D": "D",
-      "E": "E"
+      "A": "kejujuran yang konsisten",
+      "B": "kemampuan berdebat",
+      "C": "kecepatan bekerja",
+      "D": "keinginan bersaing",
+      "E": "kecakapan berhitung"
     },
-    "jawaban_benar": "E",
-    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Kejujuran yang konsisten merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal padanan kata ini.",
     "tags": [
-      "tbs",
-      "try-out"
+      "btkv",
+      "padanan-kata",
+      "verbal"
     ]
   },
   {
-    "id": "TBS-014",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Soal Try Out TBS nomor 14 (mengandung gambar pada sumber formulir).",
+    "id": "BTKV-006",
+    "kategori": "BTKV",
+    "subkategori": "Pemahaman Bacaan",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Bacaan: Membaca rutin memperluas kosakata dan membantu pembaca menilai informasi secara kritis. Gagasan utama bacaan adalah ... (Paket 1)",
     "opsi": {
-      "A": "A",
-      "B": "B",
-      "C": "C",
-      "D": "D",
-      "E": "E"
+      "A": "manfaat membaca rutin",
+      "B": "harga buku",
+      "C": "cara mencetak buku",
+      "D": "sejarah perpustakaan",
+      "E": "jenis kertas"
     },
-    "jawaban_benar": "E",
-    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Manfaat membaca rutin merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal pemahaman bacaan ini.",
     "tags": [
-      "tbs",
-      "try-out"
+      "btkv",
+      "pemahaman-bacaan",
+      "verbal"
     ]
   },
   {
-    "id": "TBS-015",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Soal Try Out TBS nomor 15 (mengandung gambar pada sumber formulir).",
+    "id": "BTKV-007",
+    "kategori": "BTKV",
+    "subkategori": "Penalaran Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Semua anggota yang hadir menerima modul. Dita tidak menerima modul. Simpulan paling logis ... (Paket 1)",
     "opsi": {
-      "A": "A",
-      "B": "B",
-      "C": "C",
-      "D": "D",
-      "E": "E"
+      "A": "Dita tidak hadir",
+      "B": "Dita hadir terlambat",
+      "C": "modul habis",
+      "D": "Dita anggota baru",
+      "E": "semua anggota absen"
     },
-    "jawaban_benar": "E",
-    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Dita tidak hadir merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal penalaran verbal ini.",
     "tags": [
-      "tbs",
-      "try-out"
+      "btkv",
+      "penalaran-verbal",
+      "verbal"
     ]
   },
   {
-    "id": "TBS-016",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
+    "id": "BTKV-008",
+    "kategori": "BTKV",
+    "subkategori": "Logika Pernyataan",
     "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Soal Try Out TBS nomor 16 (mengandung gambar pada sumber formulir).",
+    "pertanyaan": "Jika semua peserta disiplin dan Rani adalah peserta, maka ... (Paket 1)",
     "opsi": {
-      "A": "A",
-      "B": "B",
-      "C": "C",
-      "D": "D",
-      "E": "E"
+      "A": "Rani disiplin",
+      "B": "Rani bukan peserta",
+      "C": "semua disiplin adalah Rani",
+      "D": "Rani pasti juara",
+      "E": "tidak dapat disimpulkan"
     },
-    "jawaban_benar": "E",
-    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Rani disiplin merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal logika pernyataan ini.",
     "tags": [
-      "tbs",
-      "try-out"
+      "btkv",
+      "logika-pernyataan",
+      "verbal"
     ]
   },
   {
-    "id": "TBS-017",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Soal Try Out TBS nomor 17 (mengandung gambar pada sumber formulir).",
+    "id": "BTKV-009",
+    "kategori": "BTKV",
+    "subkategori": "Silogisme",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Semua peneliti teliti. Sebagian dosen adalah peneliti. Simpulan valid ialah ... (Paket 1)",
     "opsi": {
-      "A": "A",
-      "B": "B",
-      "C": "C",
-      "D": "D",
-      "E": "E"
+      "A": "sebagian dosen teliti",
+      "B": "semua dosen teliti",
+      "C": "tidak ada dosen teliti",
+      "D": "semua yang teliti dosen",
+      "E": "peneliti bukan dosen"
     },
-    "jawaban_benar": "E",
-    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Sebagian dosen teliti merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal silogisme ini.",
     "tags": [
-      "tbs",
-      "try-out"
+      "btkv",
+      "silogisme",
+      "verbal"
     ]
   },
   {
-    "id": "TBS-018",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Soal Try Out TBS nomor 18 (mengandung gambar pada sumber formulir).",
+    "id": "BTKV-010",
+    "kategori": "BTKV",
+    "subkategori": "Deret Kata",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Manakah urutan tingkat ukuran yang tepat? (Paket 1)",
     "opsi": {
-      "A": "A",
-      "B": "B",
-      "C": "C",
-      "D": "D",
-      "E": "E"
+      "A": "kecil – sedang – besar",
+      "B": "besar – kecil – sedang",
+      "C": "sedang – besar – kecil",
+      "D": "kecil – besar – sedang",
+      "E": "besar – sedang – kecil"
     },
-    "jawaban_benar": "E",
-    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Kecil – sedang – besar merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal deret kata ini.",
     "tags": [
-      "tbs",
-      "try-out"
+      "btkv",
+      "deret-kata",
+      "verbal"
     ]
   },
   {
-    "id": "TBS-019",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
+    "id": "BTKV-011",
+    "kategori": "BTKV",
+    "subkategori": "Hubungan Kata",
     "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Soal Try Out TBS nomor 19 (mengandung gambar pada sumber formulir).",
+    "pertanyaan": "Manakah pasangan yang berhubungan sebagai tempat dan penghuninya? (Paket 1)",
     "opsi": {
-      "A": "A",
-      "B": "B",
-      "C": "C",
-      "D": "D",
-      "E": "E"
+      "A": "sarang : burung",
+      "B": "buku : pena",
+      "C": "jalan : roda",
+      "D": "air : hujan",
+      "E": "meja : kayu"
     },
-    "jawaban_benar": "E",
-    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Sarang : burung merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal hubungan kata ini.",
     "tags": [
-      "tbs",
-      "try-out"
+      "btkv",
+      "hubungan-kata",
+      "verbal"
     ]
   },
   {
-    "id": "TBS-020",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Soal Try Out TBS nomor 20 (mengandung gambar pada sumber formulir).",
+    "id": "BTKV-012",
+    "kategori": "BTKV",
+    "subkategori": "Makna Kontekstual",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Dalam kalimat “Ia menjadi tangan kanan direktur”, makna tangan kanan adalah ... (Paket 1)",
     "opsi": {
-      "A": "A",
-      "B": "B",
-      "C": "C",
-      "D": "D",
-      "E": "E"
+      "A": "orang kepercayaan",
+      "B": "anggota tubuh",
+      "C": "pekerja kasar",
+      "D": "penulis",
+      "E": "pengawas"
     },
-    "jawaban_benar": "E",
-    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Orang kepercayaan merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal makna kontekstual ini.",
     "tags": [
-      "tbs",
-      "try-out"
+      "btkv",
+      "makna-kontekstual",
+      "verbal"
     ]
   },
   {
-    "id": "TBS-021",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Soal Try Out TBS nomor 21 (mengandung gambar pada sumber formulir).",
+    "id": "BTKV-013",
+    "kategori": "BTKV",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kata baku terdapat pada ... (Paket 2)",
     "opsi": {
-      "A": "A",
-      "B": "B",
-      "C": "C",
-      "D": "D",
-      "E": "E"
+      "A": "analisis",
+      "B": "analisa",
+      "C": "resiko",
+      "D": "ijin",
+      "E": "aktifitas"
     },
-    "jawaban_benar": "E",
-    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Analisis merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal kemampuan verbal ini.",
     "tags": [
-      "tbs",
-      "try-out"
+      "btkv",
+      "kemampuan-verbal",
+      "verbal"
     ]
   },
   {
-    "id": "TBS-022",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
+    "id": "BTKV-014",
+    "kategori": "BTKV",
+    "subkategori": "Sinonim",
     "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Soal Try Out TBS nomor 22 (mengandung gambar pada sumber formulir).",
+    "pertanyaan": "Lugas (Paket 2)",
     "opsi": {
-      "A": "A",
-      "B": "B",
-      "C": "C",
-      "D": "D",
-      "E": "E"
+      "A": "jelas",
+      "B": "rumit",
+      "C": "kabur",
+      "D": "lunak",
+      "E": "asing"
     },
-    "jawaban_benar": "E",
-    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Jelas merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal sinonim ini.",
     "tags": [
-      "tbs",
-      "try-out"
+      "btkv",
+      "sinonim",
+      "verbal"
     ]
   },
   {
-    "id": "TBS-023",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Soal Try Out TBS nomor 23 (mengandung gambar pada sumber formulir).",
+    "id": "BTKV-015",
+    "kategori": "BTKV",
+    "subkategori": "Antonim",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Eksplisit (Paket 2)",
     "opsi": {
-      "A": "A",
-      "B": "B",
-      "C": "C",
-      "D": "D",
-      "E": "E"
+      "A": "implisit",
+      "B": "tegas",
+      "C": "terbuka",
+      "D": "rinci",
+      "E": "nyata"
     },
-    "jawaban_benar": "E",
-    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Implisit merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal antonim ini.",
     "tags": [
-      "tbs",
-      "try-out"
+      "btkv",
+      "antonim",
+      "verbal"
     ]
   },
   {
-    "id": "TBS-024",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
-    "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Soal Try Out TBS nomor 24 (mengandung gambar pada sumber formulir).",
+    "id": "BTKV-016",
+    "kategori": "BTKV",
+    "subkategori": "Analogi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Dokter : Pasien (Paket 2)",
     "opsi": {
-      "A": "A",
-      "B": "B",
-      "C": "C",
-      "D": "D",
-      "E": "E"
+      "A": "Guru : Murid",
+      "B": "Kapal : Laut",
+      "C": "Petani : Sawah",
+      "D": "Hakim : Hukum",
+      "E": "Koki : Dapur"
     },
-    "jawaban_benar": "E",
-    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Guru : murid merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal analogi ini.",
     "tags": [
-      "tbs",
-      "try-out"
+      "btkv",
+      "analogi",
+      "verbal"
     ]
   },
   {
-    "id": "TBS-025",
-    "kategori": "TBS",
-    "subkategori": "Kuantitatif",
+    "id": "BTKV-017",
+    "kategori": "BTKV",
+    "subkategori": "Padanan Kata",
     "tingkat_kesulitan": "Sedang",
-    "pertanyaan": "Soal Try Out TBS nomor 25 (mengandung gambar pada sumber formulir).",
+    "pertanyaan": "Relevan (Paket 2)",
     "opsi": {
-      "A": "A",
-      "B": "B",
-      "C": "C",
-      "D": "D",
-      "E": "E"
+      "A": "berkaitan dengan pokok bahasan",
+      "B": "berlawanan dengan fakta",
+      "C": "sulit untuk dibaca",
+      "D": "baru saja ditemukan",
+      "E": "mudah untuk diabaikan"
     },
-    "jawaban_benar": "E",
-    "pembahasan": "Perlu melihat gambar pada soal asli untuk pembahasan yang akurat. Jawaban sementara disetel placeholder.",
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Berkaitan dengan pokok bahasan merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal padanan kata ini.",
     "tags": [
-      "tbs",
-      "try-out"
+      "btkv",
+      "padanan-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-018",
+    "kategori": "BTKV",
+    "subkategori": "Pemahaman Bacaan",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Bacaan: Kota menambah jalur sepeda agar polusi berkurang dan mobilitas warga lebih sehat. Tujuan kebijakan tersebut adalah ... (Paket 2)",
+    "opsi": {
+      "A": "mengurangi polusi dan mendukung mobilitas sehat",
+      "B": "menambah kendaraan pribadi",
+      "C": "menutup semua jalan",
+      "D": "menaikkan harga sepeda",
+      "E": "mengurangi ruang publik"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Mengurangi polusi dan mendukung mobilitas sehat merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal pemahaman bacaan ini.",
+    "tags": [
+      "btkv",
+      "pemahaman-bacaan",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-019",
+    "kategori": "BTKV",
+    "subkategori": "Penalaran Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Perpustakaan ramai saat ujian. Hari ini bukan masa ujian. Pernyataan yang pasti benar adalah ... (Paket 2)",
+    "opsi": {
+      "A": "tidak dapat dipastikan ramai atau sepi",
+      "B": "perpustakaan pasti sepi",
+      "C": "perpustakaan pasti tutup",
+      "D": "semua mahasiswa libur",
+      "E": "ujian dibatalkan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Tidak dapat dipastikan ramai atau sepi merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal penalaran verbal ini.",
+    "tags": [
+      "btkv",
+      "penalaran-verbal",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-020",
+    "kategori": "BTKV",
+    "subkategori": "Logika Pernyataan",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Jika hujan maka jalan basah. Jalan tidak basah. Kesimpulannya ... (Paket 2)",
+    "opsi": {
+      "A": "tidak hujan",
+      "B": "pasti hujan",
+      "C": "jalan rusak",
+      "D": "awan gelap",
+      "E": "tidak ada kesimpulan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Tidak hujan merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal logika pernyataan ini.",
+    "tags": [
+      "btkv",
+      "logika-pernyataan",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-021",
+    "kategori": "BTKV",
+    "subkategori": "Silogisme",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Semua mawar adalah bunga. Tidak ada bunga yang logam. Maka ... (Paket 2)",
+    "opsi": {
+      "A": "tidak ada mawar yang logam",
+      "B": "semua logam mawar",
+      "C": "sebagian mawar logam",
+      "D": "semua bunga mawar",
+      "E": "tidak dapat disimpulkan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Tidak ada mawar yang logam merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal silogisme ini.",
+    "tags": [
+      "btkv",
+      "silogisme",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-022",
+    "kategori": "BTKV",
+    "subkategori": "Deret Kata",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Pagi, siang, sore, ... (Paket 2)",
+    "opsi": {
+      "A": "malam",
+      "B": "fajar",
+      "C": "pekan",
+      "D": "bulan",
+      "E": "tahun"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Malam merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal deret kata ini.",
+    "tags": [
+      "btkv",
+      "deret-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-023",
+    "kategori": "BTKV",
+    "subkategori": "Hubungan Kata",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Manakah pasangan yang menunjukkan produk dan bahan? (Paket 2)",
+    "opsi": {
+      "A": "roti : tepung",
+      "B": "guru : sekolah",
+      "C": "ikan : laut",
+      "D": "surat : pos",
+      "E": "pagi : malam"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Roti : tepung merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal hubungan kata ini.",
+    "tags": [
+      "btkv",
+      "hubungan-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-024",
+    "kategori": "BTKV",
+    "subkategori": "Makna Kontekstual",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Dalam kalimat “Usaha itu gulung tikar”, maknanya adalah ... (Paket 2)",
+    "opsi": {
+      "A": "bangkrut",
+      "B": "membuka cabang",
+      "C": "mengganti tirai",
+      "D": "beristirahat",
+      "E": "berkembang"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Bangkrut merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal makna kontekstual ini.",
+    "tags": [
+      "btkv",
+      "makna-kontekstual",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-025",
+    "kategori": "BTKV",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Hubungan sebab-akibat yang tepat adalah ... (Paket 3)",
+    "opsi": {
+      "A": "Karena hujan deras, jalan tergenang.",
+      "B": "Jalan tergenang tetapi hujan deras.",
+      "C": "Hujan deras walaupun jalan tergenang.",
+      "D": "Jalan tergenang agar hujan deras.",
+      "E": "Hujan deras atau jalan tergenang."
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Karena hujan deras, jalan tergenang. merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal kemampuan verbal ini.",
+    "tags": [
+      "btkv",
+      "kemampuan-verbal",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-026",
+    "kategori": "BTKV",
+    "subkategori": "Sinonim",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Abadi (Paket 3)",
+    "opsi": {
+      "A": "kekal",
+      "B": "singkat",
+      "C": "rapuh",
+      "D": "baru",
+      "E": "sempit"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Kekal merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal sinonim ini.",
+    "tags": [
+      "btkv",
+      "sinonim",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-027",
+    "kategori": "BTKV",
+    "subkategori": "Antonim",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Stabil (Paket 3)",
+    "opsi": {
+      "A": "labil",
+      "B": "kukuh",
+      "C": "tetap",
+      "D": "seimbang",
+      "E": "aman"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Labil merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal antonim ini.",
+    "tags": [
+      "btkv",
+      "antonim",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-028",
+    "kategori": "BTKV",
+    "subkategori": "Analogi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Akar : Pohon (Paket 3)",
+    "opsi": {
+      "A": "Fondasi : Bangunan",
+      "B": "Roda : Mobil",
+      "C": "Daun : Hijau",
+      "D": "Batu : Gunung",
+      "E": "Benih : Buah"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Fondasi : bangunan merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal analogi ini.",
+    "tags": [
+      "btkv",
+      "analogi",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-029",
+    "kategori": "BTKV",
+    "subkategori": "Padanan Kata",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Objektif (Paket 3)",
+    "opsi": {
+      "A": "berdasarkan fakta",
+      "B": "mengikuti selera",
+      "C": "memihak teman",
+      "D": "menolak bukti",
+      "E": "mengubah data"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Berdasarkan fakta merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal padanan kata ini.",
+    "tags": [
+      "btkv",
+      "padanan-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-030",
+    "kategori": "BTKV",
+    "subkategori": "Pemahaman Bacaan",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Bacaan: Data perlu diverifikasi sebelum dipublikasikan agar informasi yang keliru tidak menyebar. Mengapa verifikasi diperlukan? (Paket 3)",
+    "opsi": {
+      "A": "mencegah penyebaran informasi keliru",
+      "B": "memperpanjang tulisan",
+      "C": "menambah opini",
+      "D": "menghapus seluruh data",
+      "E": "mempercepat rumor"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Mencegah penyebaran informasi keliru merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal pemahaman bacaan ini.",
+    "tags": [
+      "btkv",
+      "pemahaman-bacaan",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-031",
+    "kategori": "BTKV",
+    "subkategori": "Penalaran Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Harga naik ketika pasokan turun. Pasokan hari ini turun. Berdasarkan aturan itu ... (Paket 3)",
+    "opsi": {
+      "A": "harga naik",
+      "B": "harga turun",
+      "C": "harga tetap",
+      "D": "pasokan naik",
+      "E": "pasar tutup"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Harga naik merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal penalaran verbal ini.",
+    "tags": [
+      "btkv",
+      "penalaran-verbal",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-032",
+    "kategori": "BTKV",
+    "subkategori": "Logika Pernyataan",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Tidak ada burung yang mamalia. Elang adalah burung. Maka ... (Paket 3)",
+    "opsi": {
+      "A": "elang bukan mamalia",
+      "B": "elang adalah mamalia",
+      "C": "semua mamalia elang",
+      "D": "elang bukan burung",
+      "E": "kesimpulan mustahil"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Elang bukan mamalia merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal logika pernyataan ini.",
+    "tags": [
+      "btkv",
+      "logika-pernyataan",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-033",
+    "kategori": "BTKV",
+    "subkategori": "Silogisme",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Sebagian siswa atlet. Semua atlet sehat. Maka ... (Paket 3)",
+    "opsi": {
+      "A": "sebagian siswa sehat",
+      "B": "semua siswa sehat",
+      "C": "tidak ada siswa sehat",
+      "D": "semua sehat siswa",
+      "E": "atlet bukan siswa"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Sebagian siswa sehat merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal silogisme ini.",
+    "tags": [
+      "btkv",
+      "silogisme",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-034",
+    "kategori": "BTKV",
+    "subkategori": "Deret Kata",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Bayi, anak, remaja, ... (Paket 3)",
+    "opsi": {
+      "A": "dewasa",
+      "B": "balita",
+      "C": "janin",
+      "D": "lansia",
+      "E": "murid"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Dewasa merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal deret kata ini.",
+    "tags": [
+      "btkv",
+      "deret-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-035",
+    "kategori": "BTKV",
+    "subkategori": "Hubungan Kata",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Manakah pasangan yang menunjukkan alat dan fungsi? (Paket 3)",
+    "opsi": {
+      "A": "termometer : mengukur suhu",
+      "B": "jam : meja",
+      "C": "buku : tas",
+      "D": "sepatu : kaki",
+      "E": "lampu : rumah"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Termometer : mengukur suhu merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal hubungan kata ini.",
+    "tags": [
+      "btkv",
+      "hubungan-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-036",
+    "kategori": "BTKV",
+    "subkategori": "Makna Kontekstual",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Dalam kalimat “Kritik itu menjadi cambuk baginya”, cambuk bermakna ... (Paket 3)",
+    "opsi": {
+      "A": "pendorong semangat",
+      "B": "hukuman fisik",
+      "C": "rasa takut",
+      "D": "penghalang",
+      "E": "pujian"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Pendorong semangat merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal makna kontekstual ini.",
+    "tags": [
+      "btkv",
+      "makna-kontekstual",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-037",
+    "kategori": "BTKV",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kalimat paling efektif adalah ... (Paket 4)",
+    "opsi": {
+      "A": "Tim menyelesaikan laporan tepat waktu.",
+      "B": "Tim daripada menyelesaikan laporan.",
+      "C": "Laporan diselesaikan oleh tim adalah tepat.",
+      "D": "Tim agar supaya menyelesaikan laporan.",
+      "E": "Tim menyelesaikan daripada laporan."
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Tim menyelesaikan laporan tepat waktu. merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal kemampuan verbal ini.",
+    "tags": [
+      "btkv",
+      "kemampuan-verbal",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-038",
+    "kategori": "BTKV",
+    "subkategori": "Sinonim",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Kendala (Paket 4)",
+    "opsi": {
+      "A": "hambatan",
+      "B": "dukungan",
+      "C": "tujuan",
+      "D": "hadiah",
+      "E": "hasil"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Hambatan merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal sinonim ini.",
+    "tags": [
+      "btkv",
+      "sinonim",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-039",
+    "kategori": "BTKV",
+    "subkategori": "Antonim",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Progresif (Paket 4)",
+    "opsi": {
+      "A": "regresif",
+      "B": "maju",
+      "C": "aktif",
+      "D": "cepat",
+      "E": "modern"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Regresif merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal antonim ini.",
+    "tags": [
+      "btkv",
+      "antonim",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-040",
+    "kategori": "BTKV",
+    "subkategori": "Analogi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Buku : Membaca (Paket 4)",
+    "opsi": {
+      "A": "Garpu : Makan",
+      "B": "Pensil : Kertas",
+      "C": "Meja : Kursi",
+      "D": "Air : Gelas",
+      "E": "Pintu : Rumah"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Garpu : makan merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal analogi ini.",
+    "tags": [
+      "btkv",
+      "analogi",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-041",
+    "kategori": "BTKV",
+    "subkategori": "Padanan Kata",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Integritas (Paket 4)",
+    "opsi": {
+      "A": "kejujuran yang konsisten",
+      "B": "kemampuan berdebat",
+      "C": "kecepatan bekerja",
+      "D": "keinginan bersaing",
+      "E": "kecakapan berhitung"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Kejujuran yang konsisten merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal padanan kata ini.",
+    "tags": [
+      "btkv",
+      "padanan-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-042",
+    "kategori": "BTKV",
+    "subkategori": "Pemahaman Bacaan",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Bacaan: Membaca rutin memperluas kosakata dan membantu pembaca menilai informasi secara kritis. Gagasan utama bacaan adalah ... (Paket 4)",
+    "opsi": {
+      "A": "manfaat membaca rutin",
+      "B": "harga buku",
+      "C": "cara mencetak buku",
+      "D": "sejarah perpustakaan",
+      "E": "jenis kertas"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Manfaat membaca rutin merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal pemahaman bacaan ini.",
+    "tags": [
+      "btkv",
+      "pemahaman-bacaan",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-043",
+    "kategori": "BTKV",
+    "subkategori": "Penalaran Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Semua anggota yang hadir menerima modul. Dita tidak menerima modul. Simpulan paling logis ... (Paket 4)",
+    "opsi": {
+      "A": "Dita tidak hadir",
+      "B": "Dita hadir terlambat",
+      "C": "modul habis",
+      "D": "Dita anggota baru",
+      "E": "semua anggota absen"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Dita tidak hadir merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal penalaran verbal ini.",
+    "tags": [
+      "btkv",
+      "penalaran-verbal",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-044",
+    "kategori": "BTKV",
+    "subkategori": "Logika Pernyataan",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Jika semua peserta disiplin dan Rani adalah peserta, maka ... (Paket 4)",
+    "opsi": {
+      "A": "Rani disiplin",
+      "B": "Rani bukan peserta",
+      "C": "semua disiplin adalah Rani",
+      "D": "Rani pasti juara",
+      "E": "tidak dapat disimpulkan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Rani disiplin merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal logika pernyataan ini.",
+    "tags": [
+      "btkv",
+      "logika-pernyataan",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-045",
+    "kategori": "BTKV",
+    "subkategori": "Silogisme",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Semua peneliti teliti. Sebagian dosen adalah peneliti. Simpulan valid ialah ... (Paket 4)",
+    "opsi": {
+      "A": "sebagian dosen teliti",
+      "B": "semua dosen teliti",
+      "C": "tidak ada dosen teliti",
+      "D": "semua yang teliti dosen",
+      "E": "peneliti bukan dosen"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Sebagian dosen teliti merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal silogisme ini.",
+    "tags": [
+      "btkv",
+      "silogisme",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-046",
+    "kategori": "BTKV",
+    "subkategori": "Deret Kata",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Manakah urutan tingkat ukuran yang tepat? (Paket 4)",
+    "opsi": {
+      "A": "kecil – sedang – besar",
+      "B": "besar – kecil – sedang",
+      "C": "sedang – besar – kecil",
+      "D": "kecil – besar – sedang",
+      "E": "besar – sedang – kecil"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Kecil – sedang – besar merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal deret kata ini.",
+    "tags": [
+      "btkv",
+      "deret-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-047",
+    "kategori": "BTKV",
+    "subkategori": "Hubungan Kata",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Manakah pasangan yang berhubungan sebagai tempat dan penghuninya? (Paket 4)",
+    "opsi": {
+      "A": "sarang : burung",
+      "B": "buku : pena",
+      "C": "jalan : roda",
+      "D": "air : hujan",
+      "E": "meja : kayu"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Sarang : burung merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal hubungan kata ini.",
+    "tags": [
+      "btkv",
+      "hubungan-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-048",
+    "kategori": "BTKV",
+    "subkategori": "Makna Kontekstual",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Dalam kalimat “Ia menjadi tangan kanan direktur”, makna tangan kanan adalah ... (Paket 4)",
+    "opsi": {
+      "A": "orang kepercayaan",
+      "B": "anggota tubuh",
+      "C": "pekerja kasar",
+      "D": "penulis",
+      "E": "pengawas"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Orang kepercayaan merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal makna kontekstual ini.",
+    "tags": [
+      "btkv",
+      "makna-kontekstual",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-049",
+    "kategori": "BTKV",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kata baku terdapat pada ... (Paket 5)",
+    "opsi": {
+      "A": "analisis",
+      "B": "analisa",
+      "C": "resiko",
+      "D": "ijin",
+      "E": "aktifitas"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Analisis merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal kemampuan verbal ini.",
+    "tags": [
+      "btkv",
+      "kemampuan-verbal",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-050",
+    "kategori": "BTKV",
+    "subkategori": "Sinonim",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Cermat (Paket 5)",
+    "opsi": {
+      "A": "teliti",
+      "B": "ceroboh",
+      "C": "lambat",
+      "D": "ragu",
+      "E": "keras"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Teliti merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal sinonim ini.",
+    "tags": [
+      "btkv",
+      "sinonim",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-051",
+    "kategori": "BTKV",
+    "subkategori": "Antonim",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Optimistis (Paket 5)",
+    "opsi": {
+      "A": "pesimistis",
+      "B": "yakin",
+      "C": "gembira",
+      "D": "tekun",
+      "E": "ramah"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Pesimistis merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal antonim ini.",
+    "tags": [
+      "btkv",
+      "antonim",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-052",
+    "kategori": "BTKV",
+    "subkategori": "Analogi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Dokter : Pasien (Paket 5)",
+    "opsi": {
+      "A": "Guru : Murid",
+      "B": "Kapal : Laut",
+      "C": "Petani : Sawah",
+      "D": "Hakim : Hukum",
+      "E": "Koki : Dapur"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Guru : murid merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal analogi ini.",
+    "tags": [
+      "btkv",
+      "analogi",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-053",
+    "kategori": "BTKV",
+    "subkategori": "Padanan Kata",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Relevan (Paket 5)",
+    "opsi": {
+      "A": "berkaitan dengan pokok bahasan",
+      "B": "berlawanan dengan fakta",
+      "C": "sulit untuk dibaca",
+      "D": "baru saja ditemukan",
+      "E": "mudah untuk diabaikan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Berkaitan dengan pokok bahasan merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal padanan kata ini.",
+    "tags": [
+      "btkv",
+      "padanan-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-054",
+    "kategori": "BTKV",
+    "subkategori": "Pemahaman Bacaan",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Bacaan: Kota menambah jalur sepeda agar polusi berkurang dan mobilitas warga lebih sehat. Tujuan kebijakan tersebut adalah ... (Paket 5)",
+    "opsi": {
+      "A": "mengurangi polusi dan mendukung mobilitas sehat",
+      "B": "menambah kendaraan pribadi",
+      "C": "menutup semua jalan",
+      "D": "menaikkan harga sepeda",
+      "E": "mengurangi ruang publik"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Mengurangi polusi dan mendukung mobilitas sehat merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal pemahaman bacaan ini.",
+    "tags": [
+      "btkv",
+      "pemahaman-bacaan",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-055",
+    "kategori": "BTKV",
+    "subkategori": "Penalaran Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Perpustakaan ramai saat ujian. Hari ini bukan masa ujian. Pernyataan yang pasti benar adalah ... (Paket 5)",
+    "opsi": {
+      "A": "tidak dapat dipastikan ramai atau sepi",
+      "B": "perpustakaan pasti sepi",
+      "C": "perpustakaan pasti tutup",
+      "D": "semua mahasiswa libur",
+      "E": "ujian dibatalkan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Tidak dapat dipastikan ramai atau sepi merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal penalaran verbal ini.",
+    "tags": [
+      "btkv",
+      "penalaran-verbal",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-056",
+    "kategori": "BTKV",
+    "subkategori": "Logika Pernyataan",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Jika hujan maka jalan basah. Jalan tidak basah. Kesimpulannya ... (Paket 5)",
+    "opsi": {
+      "A": "tidak hujan",
+      "B": "pasti hujan",
+      "C": "jalan rusak",
+      "D": "awan gelap",
+      "E": "tidak ada kesimpulan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Tidak hujan merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal logika pernyataan ini.",
+    "tags": [
+      "btkv",
+      "logika-pernyataan",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-057",
+    "kategori": "BTKV",
+    "subkategori": "Silogisme",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Semua mawar adalah bunga. Tidak ada bunga yang logam. Maka ... (Paket 5)",
+    "opsi": {
+      "A": "tidak ada mawar yang logam",
+      "B": "semua logam mawar",
+      "C": "sebagian mawar logam",
+      "D": "semua bunga mawar",
+      "E": "tidak dapat disimpulkan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Tidak ada mawar yang logam merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal silogisme ini.",
+    "tags": [
+      "btkv",
+      "silogisme",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-058",
+    "kategori": "BTKV",
+    "subkategori": "Deret Kata",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Pagi, siang, sore, ... (Paket 5)",
+    "opsi": {
+      "A": "malam",
+      "B": "fajar",
+      "C": "pekan",
+      "D": "bulan",
+      "E": "tahun"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Malam merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal deret kata ini.",
+    "tags": [
+      "btkv",
+      "deret-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-059",
+    "kategori": "BTKV",
+    "subkategori": "Hubungan Kata",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Manakah pasangan yang menunjukkan produk dan bahan? (Paket 5)",
+    "opsi": {
+      "A": "roti : tepung",
+      "B": "guru : sekolah",
+      "C": "ikan : laut",
+      "D": "surat : pos",
+      "E": "pagi : malam"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Roti : tepung merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal hubungan kata ini.",
+    "tags": [
+      "btkv",
+      "hubungan-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-060",
+    "kategori": "BTKV",
+    "subkategori": "Makna Kontekstual",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Dalam kalimat “Usaha itu gulung tikar”, maknanya adalah ... (Paket 5)",
+    "opsi": {
+      "A": "bangkrut",
+      "B": "membuka cabang",
+      "C": "mengganti tirai",
+      "D": "beristirahat",
+      "E": "berkembang"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Bangkrut merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal makna kontekstual ini.",
+    "tags": [
+      "btkv",
+      "makna-kontekstual",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-061",
+    "kategori": "BTKV",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Hubungan sebab-akibat yang tepat adalah ... (Paket 6)",
+    "opsi": {
+      "A": "Karena hujan deras, jalan tergenang.",
+      "B": "Jalan tergenang tetapi hujan deras.",
+      "C": "Hujan deras walaupun jalan tergenang.",
+      "D": "Jalan tergenang agar hujan deras.",
+      "E": "Hujan deras atau jalan tergenang."
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Karena hujan deras, jalan tergenang. merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal kemampuan verbal ini.",
+    "tags": [
+      "btkv",
+      "kemampuan-verbal",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-062",
+    "kategori": "BTKV",
+    "subkategori": "Sinonim",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Lugas (Paket 6)",
+    "opsi": {
+      "A": "jelas",
+      "B": "rumit",
+      "C": "kabur",
+      "D": "lunak",
+      "E": "asing"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Jelas merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal sinonim ini.",
+    "tags": [
+      "btkv",
+      "sinonim",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-063",
+    "kategori": "BTKV",
+    "subkategori": "Antonim",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Eksplisit (Paket 6)",
+    "opsi": {
+      "A": "implisit",
+      "B": "tegas",
+      "C": "terbuka",
+      "D": "rinci",
+      "E": "nyata"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Implisit merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal antonim ini.",
+    "tags": [
+      "btkv",
+      "antonim",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-064",
+    "kategori": "BTKV",
+    "subkategori": "Analogi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Akar : Pohon (Paket 6)",
+    "opsi": {
+      "A": "Fondasi : Bangunan",
+      "B": "Roda : Mobil",
+      "C": "Daun : Hijau",
+      "D": "Batu : Gunung",
+      "E": "Benih : Buah"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Fondasi : bangunan merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal analogi ini.",
+    "tags": [
+      "btkv",
+      "analogi",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-065",
+    "kategori": "BTKV",
+    "subkategori": "Padanan Kata",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Objektif (Paket 6)",
+    "opsi": {
+      "A": "berdasarkan fakta",
+      "B": "mengikuti selera",
+      "C": "memihak teman",
+      "D": "menolak bukti",
+      "E": "mengubah data"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Berdasarkan fakta merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal padanan kata ini.",
+    "tags": [
+      "btkv",
+      "padanan-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-066",
+    "kategori": "BTKV",
+    "subkategori": "Pemahaman Bacaan",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Bacaan: Data perlu diverifikasi sebelum dipublikasikan agar informasi yang keliru tidak menyebar. Mengapa verifikasi diperlukan? (Paket 6)",
+    "opsi": {
+      "A": "mencegah penyebaran informasi keliru",
+      "B": "memperpanjang tulisan",
+      "C": "menambah opini",
+      "D": "menghapus seluruh data",
+      "E": "mempercepat rumor"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Mencegah penyebaran informasi keliru merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal pemahaman bacaan ini.",
+    "tags": [
+      "btkv",
+      "pemahaman-bacaan",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-067",
+    "kategori": "BTKV",
+    "subkategori": "Penalaran Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Harga naik ketika pasokan turun. Pasokan hari ini turun. Berdasarkan aturan itu ... (Paket 6)",
+    "opsi": {
+      "A": "harga naik",
+      "B": "harga turun",
+      "C": "harga tetap",
+      "D": "pasokan naik",
+      "E": "pasar tutup"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Harga naik merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal penalaran verbal ini.",
+    "tags": [
+      "btkv",
+      "penalaran-verbal",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-068",
+    "kategori": "BTKV",
+    "subkategori": "Logika Pernyataan",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Tidak ada burung yang mamalia. Elang adalah burung. Maka ... (Paket 6)",
+    "opsi": {
+      "A": "elang bukan mamalia",
+      "B": "elang adalah mamalia",
+      "C": "semua mamalia elang",
+      "D": "elang bukan burung",
+      "E": "kesimpulan mustahil"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Elang bukan mamalia merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal logika pernyataan ini.",
+    "tags": [
+      "btkv",
+      "logika-pernyataan",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-069",
+    "kategori": "BTKV",
+    "subkategori": "Silogisme",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Sebagian siswa atlet. Semua atlet sehat. Maka ... (Paket 6)",
+    "opsi": {
+      "A": "sebagian siswa sehat",
+      "B": "semua siswa sehat",
+      "C": "tidak ada siswa sehat",
+      "D": "semua sehat siswa",
+      "E": "atlet bukan siswa"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Sebagian siswa sehat merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal silogisme ini.",
+    "tags": [
+      "btkv",
+      "silogisme",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-070",
+    "kategori": "BTKV",
+    "subkategori": "Deret Kata",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Bayi, anak, remaja, ... (Paket 6)",
+    "opsi": {
+      "A": "dewasa",
+      "B": "balita",
+      "C": "janin",
+      "D": "lansia",
+      "E": "murid"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Dewasa merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal deret kata ini.",
+    "tags": [
+      "btkv",
+      "deret-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-071",
+    "kategori": "BTKV",
+    "subkategori": "Hubungan Kata",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Manakah pasangan yang menunjukkan alat dan fungsi? (Paket 6)",
+    "opsi": {
+      "A": "termometer : mengukur suhu",
+      "B": "jam : meja",
+      "C": "buku : tas",
+      "D": "sepatu : kaki",
+      "E": "lampu : rumah"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Termometer : mengukur suhu merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal hubungan kata ini.",
+    "tags": [
+      "btkv",
+      "hubungan-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-072",
+    "kategori": "BTKV",
+    "subkategori": "Makna Kontekstual",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Dalam kalimat “Kritik itu menjadi cambuk baginya”, cambuk bermakna ... (Paket 6)",
+    "opsi": {
+      "A": "pendorong semangat",
+      "B": "hukuman fisik",
+      "C": "rasa takut",
+      "D": "penghalang",
+      "E": "pujian"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Pendorong semangat merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal makna kontekstual ini.",
+    "tags": [
+      "btkv",
+      "makna-kontekstual",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-073",
+    "kategori": "BTKV",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kalimat paling efektif adalah ... (Paket 7)",
+    "opsi": {
+      "A": "Tim menyelesaikan laporan tepat waktu.",
+      "B": "Tim daripada menyelesaikan laporan.",
+      "C": "Laporan diselesaikan oleh tim adalah tepat.",
+      "D": "Tim agar supaya menyelesaikan laporan.",
+      "E": "Tim menyelesaikan daripada laporan."
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Tim menyelesaikan laporan tepat waktu. merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal kemampuan verbal ini.",
+    "tags": [
+      "btkv",
+      "kemampuan-verbal",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-074",
+    "kategori": "BTKV",
+    "subkategori": "Sinonim",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Abadi (Paket 7)",
+    "opsi": {
+      "A": "kekal",
+      "B": "singkat",
+      "C": "rapuh",
+      "D": "baru",
+      "E": "sempit"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Kekal merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal sinonim ini.",
+    "tags": [
+      "btkv",
+      "sinonim",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-075",
+    "kategori": "BTKV",
+    "subkategori": "Antonim",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Stabil (Paket 7)",
+    "opsi": {
+      "A": "labil",
+      "B": "kukuh",
+      "C": "tetap",
+      "D": "seimbang",
+      "E": "aman"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Labil merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal antonim ini.",
+    "tags": [
+      "btkv",
+      "antonim",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-076",
+    "kategori": "BTKV",
+    "subkategori": "Analogi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Buku : Membaca (Paket 7)",
+    "opsi": {
+      "A": "Garpu : Makan",
+      "B": "Pensil : Kertas",
+      "C": "Meja : Kursi",
+      "D": "Air : Gelas",
+      "E": "Pintu : Rumah"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Garpu : makan merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal analogi ini.",
+    "tags": [
+      "btkv",
+      "analogi",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-077",
+    "kategori": "BTKV",
+    "subkategori": "Padanan Kata",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Integritas (Paket 7)",
+    "opsi": {
+      "A": "kejujuran yang konsisten",
+      "B": "kemampuan berdebat",
+      "C": "kecepatan bekerja",
+      "D": "keinginan bersaing",
+      "E": "kecakapan berhitung"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Kejujuran yang konsisten merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal padanan kata ini.",
+    "tags": [
+      "btkv",
+      "padanan-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-078",
+    "kategori": "BTKV",
+    "subkategori": "Pemahaman Bacaan",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Bacaan: Membaca rutin memperluas kosakata dan membantu pembaca menilai informasi secara kritis. Gagasan utama bacaan adalah ... (Paket 7)",
+    "opsi": {
+      "A": "manfaat membaca rutin",
+      "B": "harga buku",
+      "C": "cara mencetak buku",
+      "D": "sejarah perpustakaan",
+      "E": "jenis kertas"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Manfaat membaca rutin merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal pemahaman bacaan ini.",
+    "tags": [
+      "btkv",
+      "pemahaman-bacaan",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-079",
+    "kategori": "BTKV",
+    "subkategori": "Penalaran Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Semua anggota yang hadir menerima modul. Dita tidak menerima modul. Simpulan paling logis ... (Paket 7)",
+    "opsi": {
+      "A": "Dita tidak hadir",
+      "B": "Dita hadir terlambat",
+      "C": "modul habis",
+      "D": "Dita anggota baru",
+      "E": "semua anggota absen"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Dita tidak hadir merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal penalaran verbal ini.",
+    "tags": [
+      "btkv",
+      "penalaran-verbal",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-080",
+    "kategori": "BTKV",
+    "subkategori": "Logika Pernyataan",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Jika semua peserta disiplin dan Rani adalah peserta, maka ... (Paket 7)",
+    "opsi": {
+      "A": "Rani disiplin",
+      "B": "Rani bukan peserta",
+      "C": "semua disiplin adalah Rani",
+      "D": "Rani pasti juara",
+      "E": "tidak dapat disimpulkan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Rani disiplin merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal logika pernyataan ini.",
+    "tags": [
+      "btkv",
+      "logika-pernyataan",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-081",
+    "kategori": "BTKV",
+    "subkategori": "Silogisme",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Semua peneliti teliti. Sebagian dosen adalah peneliti. Simpulan valid ialah ... (Paket 7)",
+    "opsi": {
+      "A": "sebagian dosen teliti",
+      "B": "semua dosen teliti",
+      "C": "tidak ada dosen teliti",
+      "D": "semua yang teliti dosen",
+      "E": "peneliti bukan dosen"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Sebagian dosen teliti merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal silogisme ini.",
+    "tags": [
+      "btkv",
+      "silogisme",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-082",
+    "kategori": "BTKV",
+    "subkategori": "Deret Kata",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Manakah urutan tingkat ukuran yang tepat? (Paket 7)",
+    "opsi": {
+      "A": "kecil – sedang – besar",
+      "B": "besar – kecil – sedang",
+      "C": "sedang – besar – kecil",
+      "D": "kecil – besar – sedang",
+      "E": "besar – sedang – kecil"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Kecil – sedang – besar merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal deret kata ini.",
+    "tags": [
+      "btkv",
+      "deret-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-083",
+    "kategori": "BTKV",
+    "subkategori": "Hubungan Kata",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Manakah pasangan yang berhubungan sebagai tempat dan penghuninya? (Paket 7)",
+    "opsi": {
+      "A": "sarang : burung",
+      "B": "buku : pena",
+      "C": "jalan : roda",
+      "D": "air : hujan",
+      "E": "meja : kayu"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Sarang : burung merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal hubungan kata ini.",
+    "tags": [
+      "btkv",
+      "hubungan-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-084",
+    "kategori": "BTKV",
+    "subkategori": "Makna Kontekstual",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Dalam kalimat “Ia menjadi tangan kanan direktur”, makna tangan kanan adalah ... (Paket 7)",
+    "opsi": {
+      "A": "orang kepercayaan",
+      "B": "anggota tubuh",
+      "C": "pekerja kasar",
+      "D": "penulis",
+      "E": "pengawas"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Orang kepercayaan merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal makna kontekstual ini.",
+    "tags": [
+      "btkv",
+      "makna-kontekstual",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-085",
+    "kategori": "BTKV",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Kata baku terdapat pada ... (Paket 8)",
+    "opsi": {
+      "A": "analisis",
+      "B": "analisa",
+      "C": "resiko",
+      "D": "ijin",
+      "E": "aktifitas"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Analisis merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal kemampuan verbal ini.",
+    "tags": [
+      "btkv",
+      "kemampuan-verbal",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-086",
+    "kategori": "BTKV",
+    "subkategori": "Sinonim",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Kendala (Paket 8)",
+    "opsi": {
+      "A": "hambatan",
+      "B": "dukungan",
+      "C": "tujuan",
+      "D": "hadiah",
+      "E": "hasil"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Hambatan merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal sinonim ini.",
+    "tags": [
+      "btkv",
+      "sinonim",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-087",
+    "kategori": "BTKV",
+    "subkategori": "Antonim",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Progresif (Paket 8)",
+    "opsi": {
+      "A": "regresif",
+      "B": "maju",
+      "C": "aktif",
+      "D": "cepat",
+      "E": "modern"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Regresif merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal antonim ini.",
+    "tags": [
+      "btkv",
+      "antonim",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-088",
+    "kategori": "BTKV",
+    "subkategori": "Analogi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Dokter : Pasien (Paket 8)",
+    "opsi": {
+      "A": "Guru : Murid",
+      "B": "Kapal : Laut",
+      "C": "Petani : Sawah",
+      "D": "Hakim : Hukum",
+      "E": "Koki : Dapur"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Guru : murid merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal analogi ini.",
+    "tags": [
+      "btkv",
+      "analogi",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-089",
+    "kategori": "BTKV",
+    "subkategori": "Padanan Kata",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Relevan (Paket 8)",
+    "opsi": {
+      "A": "berkaitan dengan pokok bahasan",
+      "B": "berlawanan dengan fakta",
+      "C": "sulit untuk dibaca",
+      "D": "baru saja ditemukan",
+      "E": "mudah untuk diabaikan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Berkaitan dengan pokok bahasan merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal padanan kata ini.",
+    "tags": [
+      "btkv",
+      "padanan-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-090",
+    "kategori": "BTKV",
+    "subkategori": "Pemahaman Bacaan",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Bacaan: Kota menambah jalur sepeda agar polusi berkurang dan mobilitas warga lebih sehat. Tujuan kebijakan tersebut adalah ... (Paket 8)",
+    "opsi": {
+      "A": "mengurangi polusi dan mendukung mobilitas sehat",
+      "B": "menambah kendaraan pribadi",
+      "C": "menutup semua jalan",
+      "D": "menaikkan harga sepeda",
+      "E": "mengurangi ruang publik"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Mengurangi polusi dan mendukung mobilitas sehat merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal pemahaman bacaan ini.",
+    "tags": [
+      "btkv",
+      "pemahaman-bacaan",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-091",
+    "kategori": "BTKV",
+    "subkategori": "Penalaran Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Perpustakaan ramai saat ujian. Hari ini bukan masa ujian. Pernyataan yang pasti benar adalah ... (Paket 8)",
+    "opsi": {
+      "A": "tidak dapat dipastikan ramai atau sepi",
+      "B": "perpustakaan pasti sepi",
+      "C": "perpustakaan pasti tutup",
+      "D": "semua mahasiswa libur",
+      "E": "ujian dibatalkan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Tidak dapat dipastikan ramai atau sepi merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal penalaran verbal ini.",
+    "tags": [
+      "btkv",
+      "penalaran-verbal",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-092",
+    "kategori": "BTKV",
+    "subkategori": "Logika Pernyataan",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Jika hujan maka jalan basah. Jalan tidak basah. Kesimpulannya ... (Paket 8)",
+    "opsi": {
+      "A": "tidak hujan",
+      "B": "pasti hujan",
+      "C": "jalan rusak",
+      "D": "awan gelap",
+      "E": "tidak ada kesimpulan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Tidak hujan merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal logika pernyataan ini.",
+    "tags": [
+      "btkv",
+      "logika-pernyataan",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-093",
+    "kategori": "BTKV",
+    "subkategori": "Silogisme",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Semua mawar adalah bunga. Tidak ada bunga yang logam. Maka ... (Paket 8)",
+    "opsi": {
+      "A": "tidak ada mawar yang logam",
+      "B": "semua logam mawar",
+      "C": "sebagian mawar logam",
+      "D": "semua bunga mawar",
+      "E": "tidak dapat disimpulkan"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Tidak ada mawar yang logam merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal silogisme ini.",
+    "tags": [
+      "btkv",
+      "silogisme",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-094",
+    "kategori": "BTKV",
+    "subkategori": "Deret Kata",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Pagi, siang, sore, ... (Paket 8)",
+    "opsi": {
+      "A": "malam",
+      "B": "fajar",
+      "C": "pekan",
+      "D": "bulan",
+      "E": "tahun"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Malam merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal deret kata ini.",
+    "tags": [
+      "btkv",
+      "deret-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-095",
+    "kategori": "BTKV",
+    "subkategori": "Hubungan Kata",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Manakah pasangan yang menunjukkan produk dan bahan? (Paket 8)",
+    "opsi": {
+      "A": "roti : tepung",
+      "B": "guru : sekolah",
+      "C": "ikan : laut",
+      "D": "surat : pos",
+      "E": "pagi : malam"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Roti : tepung merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal hubungan kata ini.",
+    "tags": [
+      "btkv",
+      "hubungan-kata",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-096",
+    "kategori": "BTKV",
+    "subkategori": "Makna Kontekstual",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Dalam kalimat “Usaha itu gulung tikar”, maknanya adalah ... (Paket 8)",
+    "opsi": {
+      "A": "bangkrut",
+      "B": "membuka cabang",
+      "C": "mengganti tirai",
+      "D": "beristirahat",
+      "E": "berkembang"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Bangkrut merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal makna kontekstual ini.",
+    "tags": [
+      "btkv",
+      "makna-kontekstual",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-097",
+    "kategori": "BTKV",
+    "subkategori": "Kemampuan Verbal",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Hubungan sebab-akibat yang tepat adalah ... (Paket 9)",
+    "opsi": {
+      "A": "Karena hujan deras, jalan tergenang.",
+      "B": "Jalan tergenang tetapi hujan deras.",
+      "C": "Hujan deras walaupun jalan tergenang.",
+      "D": "Jalan tergenang agar hujan deras.",
+      "E": "Hujan deras atau jalan tergenang."
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Karena hujan deras, jalan tergenang. merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal kemampuan verbal ini.",
+    "tags": [
+      "btkv",
+      "kemampuan-verbal",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-098",
+    "kategori": "BTKV",
+    "subkategori": "Sinonim",
+    "tingkat_kesulitan": "Sedang",
+    "pertanyaan": "Cermat (Paket 9)",
+    "opsi": {
+      "A": "teliti",
+      "B": "ceroboh",
+      "C": "lambat",
+      "D": "ragu",
+      "E": "keras"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Teliti merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal sinonim ini.",
+    "tags": [
+      "btkv",
+      "sinonim",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-099",
+    "kategori": "BTKV",
+    "subkategori": "Antonim",
+    "tingkat_kesulitan": "Sulit",
+    "pertanyaan": "Optimistis (Paket 9)",
+    "opsi": {
+      "A": "pesimistis",
+      "B": "yakin",
+      "C": "gembira",
+      "D": "tekun",
+      "E": "ramah"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Pesimistis merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal antonim ini.",
+    "tags": [
+      "btkv",
+      "antonim",
+      "verbal"
+    ]
+  },
+  {
+    "id": "BTKV-100",
+    "kategori": "BTKV",
+    "subkategori": "Analogi",
+    "tingkat_kesulitan": "Mudah",
+    "pertanyaan": "Akar : Pohon (Paket 9)",
+    "opsi": {
+      "A": "Fondasi : Bangunan",
+      "B": "Roda : Mobil",
+      "C": "Daun : Hijau",
+      "D": "Batu : Gunung",
+      "E": "Benih : Buah"
+    },
+    "jawaban_benar": "A",
+    "pembahasan": "Opsi A tepat. Fondasi : bangunan merupakan jawaban yang paling sesuai dengan kaidah dan hubungan pada soal analogi ini.",
+    "tags": [
+      "btkv",
+      "analogi",
+      "verbal"
     ]
   }
 ]

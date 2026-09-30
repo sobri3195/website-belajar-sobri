@@ -1,15 +1,13 @@
 <script setup>
-import { computed } from 'vue'
 import CategoryBadge from './CategoryBadge.vue'
 import DifficultyBadge from './DifficultyBadge.vue'
 const props = defineProps({ question: Object, number: Number, total: Number, selected: String, showAnswer: Boolean, bookmarked: Boolean, doubtful: Boolean })
 const emit = defineEmits(['answer','bookmark','doubtful','next','prev','finish'])
 const optionClass = (key) => ({ selected: props.selected === key, correct: props.showAnswer && props.question.jawaban_benar === key, wrong: props.showAnswer && props.selected === key && props.selected !== props.question.jawaban_benar })
-const isOncology = computed(() => props.question?.kategori === 'Onkologi Radiasi')
 </script>
 <template>
   <article v-if="question" class="question-card card">
-    <div class="question-top"><span>Soal {{ number }} / {{ total }}</span><div><CategoryBadge :category="question.kategori" /> <DifficultyBadge :level="question.tingkat_kesulitan" /> <span v-if="isOncology" class="badge oncology">Prioritas spesialis</span></div></div>
+    <div class="question-top"><span>Soal {{ number }} / {{ total }}</span><div><CategoryBadge :category="question.kategori" /> <DifficultyBadge :level="question.tingkat_kesulitan" /></div></div>
     <p class="subtle">{{ question.subkategori }} • {{ question.id }}</p>
     <section v-if="question.stimulus" class="stimulus"><p>{{ question.stimulus }}</p></section>
     <h2>{{ question.pertanyaan }}</h2>

@@ -1,4 +1,5 @@
 <script setup>
+import questions from '../data/questions.json'
 defineProps({ mobile: Boolean })
 defineEmits(['navigate'])
 const items = [

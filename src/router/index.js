@@ -32,6 +32,7 @@ const routes = [
   { path: '/riwayat', component: History },
   { path: '/statistik', component: Statistics },
   { path: '/pengaturan', component: Settings },
+  { path: '/:pathMatch(.*)*', redirect: '/' },
 ]
 
 export default createRouter({ history: createWebHistory(), routes, scrollBehavior: () => ({ top: 0 }) })

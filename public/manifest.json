@@ -1,7 +1,7 @@
 {
   "name": "Belajar Sobri",
   "short_name": "Belajar Sobri",
-  "description": "Website latihan harian Sobri untuk SIMAK UI, LPDP, dan Onkologi Radiasi.",
+  "description": "Website latihan harian Sobri untuk SIMAK UI, LPDP, dan BTKV.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

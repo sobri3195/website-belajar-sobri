@@ -14,7 +14,7 @@ Dokumen ini mencatat area Belajar Sobri yang sudah berjalan, tetapi masih bisa d
 
 3. **Pembahasan lebih kaya**
    - Pembahasan perlu dilengkapi referensi, tag subtopik, tingkat keyakinan, dan tautan bacaan lanjutan.
-   - Untuk Onkologi Radiasi, pembahasan sebaiknya memiliki rujukan akademik/klinis yang jelas.
+   - Untuk BTKV, pembahasan sebaiknya memiliki rujukan akademik/klinis yang jelas.
 
 4. **Mode ujian penuh**
    - Perlu simulasi ujian dengan timer, aturan jeda, navigasi nomor soal, review sebelum submit, dan skor akhir yang lebih mirip ujian sesungguhnya.
